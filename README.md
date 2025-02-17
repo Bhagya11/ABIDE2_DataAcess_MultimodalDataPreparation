@@ -1,4 +1,4 @@
-# 🧠 NIfTI Image Processing Pipeline
+# 🧠 NIfTI Image Processing Data Extaraction (ABIDE11_DataAccess)
 
 This script processes **NIfTI (.nii/.nii.gz) medical images**, extracts **axial, sagittal, and coronal slices**, and saves them as grayscale PNG images.
 
@@ -54,30 +54,4 @@ D:\RawData
 
 ---
 
-## 🛠 Troubleshooting
-
-| Issue | Solution |
-|--------|----------|
-| `❌ Error loading .nii file` | Check file paths and ensure valid NIfTI files. |
-| `⚠️ Skipping SUB_ID` | Subject missing metadata in the CSV. |
-| Images not appearing | Check the `output/` folder and set correct permissions. |
-
----
-
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
-
-## 🤝 Contributing
-1. Fork the repo.  
-2. Create a new branch (`git checkout -b feature-branch`).  
-3. Commit changes (`git commit -m "Added feature X"`).  
-4. Push to branch (`git push origin feature-branch`).  
-5. Open a **Pull Request**.  
-
----
-
-## 📧 Contact  
-For queries, reach out to **[Your Name]** at [your.email@example.com](mailto:your.email@example.com).
 

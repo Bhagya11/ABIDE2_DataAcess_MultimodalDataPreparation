@@ -3,7 +3,6 @@ DataLink: https://huggingface.co/datasets/Bhagya11/ASD_3D_Images2
 # 🧠 **NIfTI Image Processing Data Extaraction (ABIDE11_DataAccess)**
 
 This script processes **NIfTI (.nii/.nii.gz) medical images**, extracts **axial, sagittal, and coronal slices**, and saves them as grayscale PNG images.
-## 🚀 Steps to Run the Script
 
 1. **Install Dependencies**  
    Ensure Python (>=3.7) is installed, then run:  
@@ -46,9 +45,6 @@ This script processes **NIfTI (.nii/.nii.gz) medical images**, extracts **axial,
 
 This script analyzes **patient metadata** using an OpenAI-compatible API and formats it into a **single English sentence** response.
 
-
-## 🚀 Steps to Run the Script
-
 1. **Install Dependencies**  
    Ensure Python (>=3.7) is installed, then install OpenAI’s API library:
    ```sh
@@ -83,9 +79,6 @@ This script analyzes **patient metadata** using an OpenAI-compatible API and for
 # **🧠 Autism Classification Dataset Preparation** (allslices_ABIDE11)
 
 This script processes **3D brain scan slices** (axial, coronal, sagittal) for Autism classification and uploads them as a **Hugging Face dataset**.
-
----
-## 🚀 Steps to Run the Script
 
 ### 1️⃣ **Install Dependencies**
 Ensure Python (>=3.7) is installed, then install required libraries:

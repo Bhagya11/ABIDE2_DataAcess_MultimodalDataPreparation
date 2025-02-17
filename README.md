@@ -42,7 +42,7 @@ This script processes **NIfTI (.nii/.nii.gz) medical images**, extracts **axial,
 
 ---
 
-# 🏥** Patient Data generation using OpenAI API (LLM_Data_ABIDE11)**
+# 🏥Patient Data generation using OpenAI API (LLM_Data_ABIDE11)
 
 This script analyzes **patient metadata** using an OpenAI-compatible API and formats it into a **single English sentence** response.
 

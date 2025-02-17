@@ -1,0 +1,1114 @@
+,Unnamed: 0,AGE_AT_SCAN ,SEX,FIQ,HANDEDNESS_CATEGORY,Caption,Path,Target
+0,0,48.0,Male,131.0,right handed,A 48-year-old male with an FIQ score of 131 and right-handed handedness is the target patient.,ABIDEII-BNI_1_29006,1
+1,1,41.0,Male,110.0,right handed,A 41-year-old male right-handed patient with an FIQ score of 110 and Target as the provided input fields.,ABIDEII-BNI_1_29007,1
+2,2,59.0,Male,117.0,right handed,"The patient, a 59-year-old right-handed male, has an FIQ score of 117.0 as their target in the dataset.",ABIDEII-BNI_1_29008,1
+3,3,57.0,Male,114.0,right handed,The patient is a 57-year-old right-handed male with an FSIQ score of 114 who is the target for analysis.,ABIDEII-BNI_1_29009,1
+4,4,45.0,Male,109.0,right handed,A 45-year-old male with an FIQ score of 109 and right-handed handedness is the target patient.,ABIDEII-BNI_1_29010,1
+5,5,62.0,Male,114.0,right handed,The 62-year-old male patient with an FIQ score of 114 and right-handed dominance has {Target} as their target in the dataset.,ABIDEII-BNI_1_29012,1
+6,6,51.0,Male,93.0,right handed,The 51-year-old male patient with an FIQ score of 93 and right-handed dominance has Target as the output variable.,ABIDEII-BNI_1_29013,1
+7,7,47.0,Male,102.0,right handed,"The patient, a 47-year-old male right-handed individual, presents with an FIQ score of 102.0.",ABIDEII-BNI_1_29015,1
+8,8,55.0,Male,99.0,right handed,"The 55-year-old right-handed male patient has a FIQ score of 99, indicating the severity and impact on their health.",ABIDEII-BNI_1_29017,1
+9,9,57.0,Male,108.0,right handed,The 57-year-old male patient diagnosed with a FIQ score of 108 and right-handed handedness has {Target} as their target value.,ABIDEII-BNI_1_29025,1
+10,10,54.0,Male,112.0,right handed,The patient is a 54-year-old male right-handed individual with an FIQ score of 112.0 and the target is not provided.,ABIDEII-BNI_1_29026,1
+11,11,45.0,Male,124.0,right handed,A 45-year-old male with an FIQ score of 124 and right-handed handedness aims at the target.,ABIDEII-BNI_1_29027,1
+12,12,21.0,Male,94.0,right handed,A 21-year-old male with an FIQ score of 94 and right-handed handedness has been targeted for analysis in the dataset.,ABIDEII-BNI_1_29028,1
+13,13,20.0,Male,97.0,right handed,A 20-year-old male with an FIQ score of 97 and right-handedness is the target patient for analysis.,ABIDEII-BNI_1_29029,1
+14,14,18.0,Male,111.0,right handed,The 18-year-old male patient with an FIQ score of 111 and right-handed dominance is the target of treatment.,ABIDEII-BNI_1_29030,1
+15,15,21.0,Male,97.0,right handed,A 21-year-old right-handed male patient diagnosed with a FIQ score of 97.0 is the target for treatment.,ABIDEII-BNI_1_29031,1
+16,16,19.0,Male,139.0,right handed,The patient is a 19-year-old male with a FIQ score of 139 who is right-handed.,ABIDEII-BNI_1_29037,1
+17,17,19.0,Male,127.0,right handed,The 19-year-old male patient diagnosed with schizophrenia and scoring 127 on the FIQ scale is a right-handed individual.,ABIDEII-BNI_1_29039,1
+18,18,19.0,Male,104.0,right handed,The 19-year-old male patient diagnosed with autism spectrum disorder (ASD) has an FIQ score of 104 in the right-handed category.,ABIDEII-BNI_1_29041,1
+19,19,25.0,Male,85.0,right handed,A 25-year-old right-handed male patient with an FIQ score of 85 is the target for analysis.,ABIDEII-BNI_1_29042,1
+20,20,53.0,Male,106.0,right handed,A 53-year-old male right-handed patient with an FIQ score of 106 and no additional information provided as target.,ABIDEII-BNI_1_29043,1
+21,21,18.0,Male,87.0,right handed,The patient is a 18-year-old male right-handed individual with an FIQ score of 87 and the target information was not provided.,ABIDEII-BNI_1_29046,1
+22,22,40.0,Male,131.0,right handed,"The patient is a 40-year-old male right-handed individual with a FIQ score of 131 and target, formatted into a single English sentence.",ABIDEII-BNI_1_29052,1
+23,23,24.0,Male,113.0,right handed,The 24-year-old male patient with an FIQ score of 113 and right-handed dominance has {Target} as their target outcome.,ABIDEII-BNI_1_29053,1
+24,24,22.0,Male,107.0,right handed,A 22-year-old male patient with a FIQ score of 107 and right-handedness is the target for treatment.,ABIDEII-BNI_1_29055,1
+25,25,22.0,Male,100.0,right handed,A 22-year-old right-handed male patient with an FIQ score of 100 and no additional information provided at the scan targets a specific goal or outcome in their condition.,ABIDEII-BNI_1_30144,1
+26,26,55.0,Male,87.0,right handed,A 55-year-old male right-handed patient with an FIQ score of 87 and no specific target is described in the provided metadata.,ABIDEII-BNI_1_30148,1
+27,27,47.0,Male,111.0,right handed,"The patient is a 47-year-old male with an FIQ score of 111 and right-handed dominant, who is the target for the analysis.",ABIDEII-BNI_1_30150,1
+28,28,22.0,Male,96.0,right handed,The 22-year-old male patient diagnosed with a FIQ score of 96 is right-handed.,ABIDEII-BNI_1_30151,1
+29,29,48.0,Male,141.0,right handed,A 48-year-old male with an FIQ score of 141 and right-handed dominant presented with a target condition.,ABIDEII-BNI_1_29011,2
+30,30,64.0,Male,113.0,right handed,The 64-year-old male patient with an FIQ score of 113 and right-handed dominant status is the target for the analysis.,ABIDEII-BNI_1_29014,2
+31,31,41.0,Male,106.0,right handed,The 41-year-old male patient with an FIQ score of 106 and right-handed hand aims to achieve the best possible outcome.,ABIDEII-BNI_1_29016,2
+32,32,51.0,Male,127.0,right handed,The 51-year-old right-handed male patient scored 127 on the FIQ at the scan.,ABIDEII-BNI_1_29018,2
+33,33,62.0,Male,100.0,right handed,A 62-year-old right-handed male patient has a FIQ score of 100.0.,ABIDEII-BNI_1_29019,2
+34,34,46.0,Male,118.0,right handed,A 46-year-old male patient diagnosed with a FIQ score of 118 and targeting treatment in the right-handed category.,ABIDEII-BNI_1_29020,2
+35,35,43.0,Male,127.0,right handed,"The patient is a 43-year-old male right-handed individual with a FIQ score of 127 who may be experiencing neurological symptoms, as required by the Target field.",ABIDEII-BNI_1_29021,2
+36,36,40.0,Male,127.0,right handed,The 40-year-old male patient with a FIQ score of 127 and right-handed handedness has {Target} as their target.,ABIDEII-BNI_1_29022,2
+37,37,46.0,Male,102.0,right handed,A 46-year-old male patient with an FIQ score of 102 and right-handed dominance has the Target field missing from their metadata.,ABIDEII-BNI_1_29023,2
+38,38,60.0,Male,121.0,right handed,"The patient is a 60-year-old male with a FIQ score of 121 and right-handed handedness, targeting an unspecified condition.",ABIDEII-BNI_1_29024,2
+39,39,20.0,Male,122.0,right handed,The 20-year-old male patient diagnosed with high-level autism has a Handedness category of right-handed and an FIQ score of 122.0 as their target.,ABIDEII-BNI_1_29032,2
+40,40,54.0,Male,104.0,right handed,A 54-year-old male patient diagnosed with an IQ of 104 and targeting improvement in right-handedness is the focus of the analysis.,ABIDEII-BNI_1_29033,2
+41,41,21.0,Male,111.0,right handed,The 21-year-old male patient diagnosed with schizophrenia has an FIQ score of 111 and is right-handed.,ABIDEII-BNI_1_29034,2
+42,42,22.0,Male,117.0,right handed,The 22-year-old right-handed male patient has an FIQ score of 117.0.,ABIDEII-BNI_1_29035,2
+43,43,56.0,Male,110.0,right handed,The male patient aged 56 with an FIQ score of 110 is right-handed.,ABIDEII-BNI_1_29036,2
+44,44,21.0,Male,113.0,right handed,A 21-year-old male with an FIQ score of 113 and right-handedness has the target.,ABIDEII-BNI_1_29038,2
+45,45,49.0,Male,110.0,right handed,The 49-year-old male patient diagnosed with schizophrenia has a Handedness Category of right-handed and an FIQ score of 110.,ABIDEII-BNI_1_29040,2
+46,46,19.0,Male,93.0,right handed,The 19-year-old male patient diagnosed with schizophrenia has a FSIQ of 93 and uses their right hand.,ABIDEII-BNI_1_29044,2
+47,47,48.0,Male,116.0,right handed,The 48-year-old male patient with an FIQ score of 116 and right-handed handiness aims to achieve a specific target in their condition.,ABIDEII-BNI_1_29045,2
+48,48,55.0,Male,124.0,right handed,A 55-year-old male with an FIQ score of 124 and right-handed hand targeting analysis is provided.,ABIDEII-BNI_1_29047,2
+49,49,25.0,Male,115.0,right handed,A 25-year-old male with an FIQ score of 115 and right-handed handedness is the target subject.,ABIDEII-BNI_1_29048,2
+50,50,47.0,Male,96.0,right handed,The patient is a 47-year-old male right-handed individual with an FIQ score of 96 and the target as specified.,ABIDEII-BNI_1_29049,2
+51,51,18.0,Male,122.0,right handed,The 18-year-old male patient with an FIQ score of 122 and right-handed dominance has the Target as their primary focus.,ABIDEII-BNI_1_29050,2
+52,52,19.0,Male,122.0,right handed,A 19-year-old male right-handed patient with an FIQ score of 122 is the target of the analysis.,ABIDEII-BNI_1_29051,2
+53,53,43.0,Male,113.0,right handed,A 43-year-old right-handed male patient with an FIQ score of 113 has {Target} as their target value.,ABIDEII-BNI_1_29054,2
+54,54,18.0,Male,106.0,right handed,The 18-year-old male patient with an IQ of 106 and right-handed dominant has the target value.,ABIDEII-BNI_1_29056,2
+55,55,44.0,Male,89.0,right handed,The 44-year-old male patient has an FIQ score of 89 and is right-handed.,ABIDEII-BNI_1_30146,2
+56,56,25.0,Male,97.0,right handed,A 25-year-old male right-handed patient scored 97 on the FIQ at their scan.,ABIDEII-BNI_1_30147,2
+57,57,43.0,Male,98.0,right handed,A 43-year-old male right-handed patient with an FIQ score of 98 and no additional information available for the Target field at their MRI scan.,ABIDEII-BNI_1_30149,2
+58,58,9.013005,Male,,left handed,The nine-year-old male patient is left-handed and has not been assessed for the FIQ scale.,ABIDEII-EMC_1_29864,1
+59,59,10.663929,Male,,right handed,The 10-year-old male right-handed patient's FIQ score is not available.,ABIDEII-EMC_1_29865,1
+60,60,8.720055,Male,,right handed,The 8-year-old male patient is right-handed and does not have a recorded FIQ score.,ABIDEII-EMC_1_29866,1
+61,61,8.517454,Female,,right handed,The patient is an 8-year-old female right-handed individual who may have no specific information about her FIQ score.,ABIDEII-EMC_1_29867,1
+62,62,10.65024,Male,,left handed,The patient is a male aged 10.65 years who is left-handed and has no information on their FIQ score.,ABIDEII-EMC_1_29868,1
+63,63,8.793977,Male,,right handed,The patient is an 8-year-old male right-handed individual with an unknown FIQ score and a target value.,ABIDEII-EMC_1_29869,1
+64,64,8.618754,Male,,left handed,The patient is a male aged 8.62 years who is left-handed and has missing FIQ data.,ABIDEII-EMC_1_29870,1
+65,65,7.455168,Female,,left handed,A 7-year-old female patient with left-handedness had no available information on FIQ score at the time of scan.,ABIDEII-EMC_1_29871,1
+66,66,9.147159,Male,,right handed,The patient is a nine-year-old male who is right-handed and has a missing FIQ score.,ABIDEII-EMC_1_29872,1
+67,67,6.776181,Male,,right handed,The 6-year-old male patient is right-handed and has an unknown FIQ score.,ABIDEII-EMC_1_29873,1
+68,68,7.268994,Male,,right handed,"The patient is male, aged 7.27, right-handed and has not been diagnosed with any disease based on the provided information.",ABIDEII-EMC_1_29874,1
+69,69,8.396988,Female,,right handed,The patient is an 8-year-old female who has not been diagnosed with autism spectrum disorder (ASD) as indicated by the missing value in the FIQ field and is right-handed.,ABIDEII-EMC_1_29875,1
+70,70,8.859685,Male,,right handed,"The patient, aged 8.86 years and male, has a FSIQ of not available (nan) and is right-handed.",ABIDEII-EMC_1_29876,1
+71,71,7.906913,Male,,right handed,The 7-year-old male patient is right-handed and has an unknown FIQ score.,ABIDEII-EMC_1_29877,1
+72,72,8.158795,Male,,right handed,The eight-year-old male patient is right-handed and their Full Scale IQ score was not provided at the time of scan.,ABIDEII-EMC_1_29878,1
+73,73,7.983573,Male,,right handed,The male patient who is right-handed at the age of 7.98 years had no available information regarding their FIQ score and Target value.,ABIDEII-EMC_1_29879,1
+74,74,6.212183,Male,,left handed,"The 6-year-old male patient has not been assessed for the FIQ score, but their target is still unclear due to incomplete metadata.",ABIDEII-EMC_1_29880,1
+75,75,6.499658,Male,,right handed,The 6-year-old male patient is right-handed and the FIQ value is not available.,ABIDEII-EMC_1_29881,1
+76,76,6.830938,Female,,right handed,A female patient aged 6.83 at the time of the scan has no recorded information on her FIQ score or hand preference category.,ABIDEII-EMC_1_29882,1
+77,77,7.537303,Male,,right handed,"The patient, who is male and right-handed, aged 7.54 at the time of scan, has a high functioning level with an unknown FIQ score for a potential autism diagnosis.",ABIDEII-EMC_1_29883,1
+78,78,8.19165,Male,,right handed,The 8-year-old male patient is right-handed and has an unknown FIQ score.,ABIDEII-EMC_1_29884,1
+79,79,9.908282,Male,,right handed,A 9-year-old male right-handed patient with a missing FIQ score and no target specified.,ABIDEII-EMC_1_29885,1
+80,80,7.186858,Male,,right handed,The 7-year-old male patient has not been assessed for the FIQ score and is right-handed.,ABIDEII-EMC_1_29886,1
+81,81,6.98152,Male,,right handed,The patient who is male and right-handed at the age of 6.98 years had an unknown score on the Filippini IQ test and no target specified.,ABIDEII-EMC_1_29887,1
+82,82,6.822724,Male,,right handed,"The 6-year-old male patient, right-handed, has an unknown FIQ score and the target is not specified.",ABIDEII-EMC_1_29888,1
+83,83,6.874743,Female,,right handed,"The female patient, aged 6.87, has a missing FIQ score and is right-handed.",ABIDEII-EMC_1_29889,1
+84,84,7.23614,Male,,right handed,"The seven-year-old male patient is right-handed, but the information on their functional capacity is missing.",ABIDEII-EMC_1_29890,1
+85,85,8.837782,Male,,right handed,The patient is an 8-year-old male who is right-handed and currently has no information about their IQ score or target.,ABIDEII-EMC_1_29891,2
+86,86,8.851472,Female,,right handed,The 8-year-old female patient is right-handed and has not been diagnosed with autism spectrum disorder (ASD) based on the provided data.,ABIDEII-EMC_1_29892,2
+87,87,8.898015,Male,,right handed,The patient is an 8-year-old male right-handed individual with unknown FIQ score and target information.,ABIDEII-EMC_1_29893,2
+88,88,7.772758,Female,,right handed,The 8-year-old female patient is right-handed and has an unknown FIQ score for the target area.,ABIDEII-EMC_1_29894,2
+89,89,9.935661,Male,,right handed,The 9-year-old male patient is right-handed and has not been diagnosed with any neurological disorder based on the available data.,ABIDEII-EMC_1_29895,2
+90,90,7.047228,Female,,right handed,"The 7-year-old female patient, who is right-handed and has not been diagnosed with FIQ, aims to improve their Target.",ABIDEII-EMC_1_29896,2
+91,91,9.034908,Male,,right handed,"The patient, who is male and right-handed at age 9, has not been diagnosed with any condition reflected in the FIQ score.",ABIDEII-EMC_1_29897,2
+92,92,10.119097,Male,,left handed,A 10-year-old male left-handed patient with an unknown FIQ score and no target value is scanned.,ABIDEII-EMC_1_29898,2
+93,93,7.550992,Female,,right handed,The female patient aged 7.55 is right-handed and has an unknown FIQ score with the target unspecified.,ABIDEII-EMC_1_29899,2
+94,94,7.126626,Male,,right handed,The 7-year-old male patient is right-handed and the Target field is missing or not applicable.,ABIDEII-EMC_1_29900,2
+95,95,9.374401,Male,,right handed,"The male patient, aged 9.37 years old, is right-handed and has not been diagnosed with a specific condition affecting their functioning.",ABIDEII-EMC_1_29901,2
+96,96,8.380561,Male,,right handed,"The 8-year-old right-handed male patient's Handedness Category is ""Right Handed"".",ABIDEII-EMC_1_29902,2
+97,97,9.229295,Male,,right handed,The 9-year-old male patient is right-handed with a missing FIQ score and a target value to be determined.,ABIDEII-EMC_1_29903,2
+98,98,8.375086,Male,,right handed,The 8-year-old male patient is right-handed and has not been diagnosed with FIQ.,ABIDEII-EMC_1_29904,2
+99,99,8.276523,Male,,right handed,"The 8-year-old male patient has not yet been assessed using the FSIQ test; however, they are right-handed.",ABIDEII-EMC_1_29905,2
+100,100,8.542094,Male,,right handed,The patient is an eight-year-old male who has not been diagnosed with any neurological condition and is right-handed.,ABIDEII-EMC_1_29906,2
+101,101,6.685832,Male,,right handed,"The six-year-old male patient has not been diagnosed with any condition affecting their functionality, and no target score has been established for them.",ABIDEII-EMC_1_29907,2
+102,102,8.396988,Male,,left handed,The patient who is male and left-handed at age 8.4 has no information on their FIQ score.,ABIDEII-EMC_1_29908,2
+103,103,7.989049,Male,,right handed,"At 7 years old, the male patient had a non-assessed FIQ score and was right-handed.",ABIDEII-EMC_1_29909,2
+104,104,7.326489,Male,,right handed,The 7-year-old male patient is right-handed and the target for this scan is unspecified due to missing data.,ABIDEII-EMC_1_29910,2
+105,105,8.19165,Male,,left handed,"The patient is an 8-year-old male, left-handed individual with a missing FIQ score and Target value.",ABIDEII-EMC_1_29911,2
+106,106,8.1013,Male,,right handed,The patient is an eight-year-old male right-handed individual with a missing FIQ score and no target specified for analysis.,ABIDEII-EMC_1_29912,2
+107,107,8.15332,Male,,left handed,"The patient, an eight-year-old male left-hander, was found to have a missing FIQ score.",ABIDEII-EMC_1_29913,2
+108,108,8.062971,Male,,left handed,The patient is an eight-year-old male left-handed child with unspecified FSIQ.,ABIDEII-EMC_1_29914,2
+109,109,6.329911,Male,,left handed,The 6-year-old male patient is left-handed and their Full Scale IQ score was not provided.,ABIDEII-EMC_1_29915,2
+110,110,7.129363,Male,,right handed,The 7-year-old male patient is right-handed and targets an unspecified area on the brain.,ABIDEII-EMC_1_29916,2
+111,111,6.395619,Female,,right handed,The female patient who is right-handed at the age of 6.4 years had no information provided for their FSIQ score.,ABIDEII-EMC_1_29917,2
+112,112,27.25,Male,112.0,right handed,The 27-year-old male patient with an FIQ score of 112 and right-handed dominance has {Target} as their target.,ABIDEII-ETH_1_29057,1
+113,113,22.08333333,Male,123.0,right handed,The patient is a 22-year-old right-handed male with an FIQ score of 123.,ABIDEII-ETH_1_29058,1
+114,114,24.58333333,Male,118.0,right handed,The 24-year-old male patient with a FIQ score of 118 has right-handedness as their dominant hand.,ABIDEII-ETH_1_29059,1
+115,115,20.16666667,Male,104.0,right handed,"The 20-year-old male patient has a FSIQ score of 104 in the right-handed category, as per the provided data.",ABIDEII-ETH_1_29060,1
+116,116,20.16666667,Male,111.0,right handed,The patient is a 20-year-old male right-handed individual with a FSIQ of 111 and the target field is not specified.,ABIDEII-ETH_1_29062,1
+117,117,14.75,Male,119.0,right handed,"The patient is a 14.75-year-old male with an FIQ score of 119 and right-handed, targeting an output in one English sentence.",ABIDEII-ETH_1_29063,1
+118,118,15.41666667,Male,119.0,right handed,A 15-year-old male with an FIQ score of 119 and right-handedness aims for the Target.,ABIDEII-ETH_1_29064,1
+119,119,18.91666667,Male,106.0,right handed,"The patient, an 18-year-old male right-handed individual, has a FIQ score of 106 and is the target for analysis.",ABIDEII-ETH_1_29065,1
+120,120,19.66666667,Male,115.0,right handed,The 19-year-old male patient diagnosed with autism spectrum disorder (FIQ 115) and right-handed has 'Target' information not included in the input data.,ABIDEII-ETH_1_29066,1
+121,121,21.0,Male,123.0,right handed,A 21-year-old male right-handed patient with a FIQ score of 123 has been identified as the target individual for analysis.,ABIDEII-ETH_1_29067,1
+122,122,18.5,Male,95.0,right handed,The 18-year-old male patient diagnosed with high functioning autism (Fifty-five) has a FIQ score of 95 and is right-handed.,ABIDEII-ETH_1_29068,1
+123,123,22.33333333,Male,90.0,right handed,The 22-year-old right-handed male patient scored 90 on the FSIQ test with no target specified.,ABIDEII-ETH_1_29069,1
+124,124,22.5,Male,82.0,right handed,The 22-year-old male patient scored 82 on the FIQ assessment and has right-handed dominance as their target.,ABIDEII-ETH_1_29070,1
+125,125,18.0,Male,116.0,right handed,"The 18-year-old male patient diagnosed with autism spectrum disorder (ASD) and right-handed, has a FIQ score of 116.",ABIDEII-ETH_1_29071,2
+126,126,13.83333333,Male,100.0,right handed,A 13-year-old right-handed male patient with a FSIQ of 100 scored their target on the HAN Test.,ABIDEII-ETH_1_29072,2
+127,127,16.5,Male,118.0,right handed,The patient is a 16-year-old male with an FIQ score of 118 who is right-handed.,ABIDEII-ETH_1_29073,2
+128,128,21.25,Male,133.0,right handed,The 21-year-old male patient has a FIQ score of 133 and is right-handed.,ABIDEII-ETH_1_29074,2
+129,129,21.66666667,Male,119.0,right handed,A 21-year-old male with an FIQ score of 119 is right-handed.,ABIDEII-ETH_1_29075,2
+130,130,24.08333333,Male,131.0,right handed,A 24-year-old male with an FIQ score of 131 and right-handedness aims for a Target.,ABIDEII-ETH_1_29076,2
+131,131,23.16666667,Male,112.0,right handed,"The 23-year-old male patient with an FIQ score of 112 and right-handed dominance has ""Target"" as the primary field to analyze.",ABIDEII-ETH_1_29077,2
+132,132,23.91666667,Male,118.0,right handed,"The patient is a 24-year-old male with a FIQ score of 118 and right-handedness, targeting an unspecified condition.",ABIDEII-ETH_1_29078,2
+133,133,22.66666667,Male,113.0,right handed,A 22-year-old male with an FSIQ of 113 scored in the right-handed category.,ABIDEII-ETH_1_29079,2
+134,134,25.08333333,Male,114.0,right handed,The patient is a 25-year-old male right-handed individual with an estimated full-scale intelligence quotient (FSIQ) of 114.,ABIDEII-ETH_1_29080,2
+135,135,19.58333333,Male,124.0,right handed,The 19-year-old male patient with an IQ of 124 and right-handed dominant hand has the target value as provided in the metadata.,ABIDEII-ETH_1_29081,2
+136,136,22.25,Male,121.0,right handed,"The patient, aged 22.25 and male, has a FIQ score of 121.0 and is right-handed.",ABIDEII-ETH_1_29082,2
+137,137,30.66666667,Male,117.0,right handed,"The patient aged 31 is male and has an FIQ score of 117, with a target for their right-handed condition.",ABIDEII-ETH_1_29083,2
+138,138,28.08333333,Male,117.0,right handed,The 28-year-old male right-handed patient has an FSIQ of 117 and is the target for analysis.,ABIDEII-ETH_1_29084,2
+139,139,25.66666667,Male,128.0,right handed,A 26-year-old male with an FIQ score of 128 is right-handed.,ABIDEII-ETH_1_29085,2
+140,140,27.75,Male,108.0,right handed,The 27-year-old right-handed male patient scored 108 on the FIQ and is targeting an improvement in their condition.,ABIDEII-ETH_1_29086,2
+141,141,29.5,Male,123.0,right handed,The 29-year-old male patient diagnosed with a Fugue score of 123.0 and right-handed target is the focus of our analysis.,ABIDEII-ETH_1_29087,2
+142,142,27.83333333,Male,129.0,right handed,The 28-year-old right-handed male patient has an FIQ score of 129.,ABIDEII-ETH_1_29088,2
+143,143,29.0,Male,106.0,right handed,The 29-year-old male patient diagnosed with an FIQ score of 106 and right-handedness has {Target} as their primary target.,ABIDEII-ETH_1_29089,2
+144,144,29.41666667,Male,113.0,right handed,"The patient is a 29-year-old male with a FIQ score of 113 and right-handed, targeting an unspecified condition.",ABIDEII-ETH_1_29090,2
+145,145,26.41666667,Male,100.0,right handed,A 26-year-old male with an FIQ score of 100 and right-handedness is the target patient for analysis.,ABIDEII-ETH_1_29091,2
+146,146,27.41666667,Male,101.0,right handed,The 27-year-old male patient diagnosed with schizophrenia has an FIQ score of 101 and uses their right hand.,ABIDEII-ETH_1_29092,2
+147,147,20.16666667,Male,126.0,right handed,"The patient, who is male and right-handed, aged 20.17 with an FIQ score of 126, is the target for treatment.",ABIDEII-ETH_1_29093,2
+148,148,19.25,Male,109.0,right handed,A 19-year-old male with an FIQ score of 109 and right-handedness is the target patient.,ABIDEII-ETH_1_29094,2
+149,149,13.07671233,Male,116.0,right handed,"The 13-year-old male patient, who is right-handed, has an FIQ score of 116 and Target as the input field provided in the given data set.",ABIDEII-GU_1_28752,1
+150,150,9.298630137,Male,117.0,right handed,"The nine-year-old male patient diagnosed with Autism Spectrum Disorder (ASD) and high functioning intelligence (FIM score of 117) scored a target of 30 on the HAM-A questionnaire, indicating possible symptoms of anxiety or depression.",ABIDEII-GU_1_28754,1
+151,151,12.49041096,Female,134.0,left handed,A 12-year-old female patient diagnosed with acute schizophrenia scored 134 on the Handedness Category of the FIM Scale.,ABIDEII-GU_1_28756,1
+152,152,9.868493151,Female,101.0,left handed,"The patient is a nine-year-old female left-hander with a FIQ score of 101, and her target is age-related.",ABIDEII-GU_1_28758,1
+153,153,11.48493151,Male,128.0,right handed,The 11-year-old male patient diagnosed with 128 on the FIQ scale is right-handed.,ABIDEII-GU_1_28761,1
+154,154,11.60821918,Male,113.0,left handed,The 11-year-old left-handed male patient scored 113 on the FIQ and was the target for treatment.,ABIDEII-GU_1_28764,1
+155,155,12.06575342,Male,122.0,right handed,A 12-year-old male with an FIQ score of 122 is right-handed.,ABIDEII-GU_1_28765,1
+156,156,11.35890411,Male,117.0,left handed,"The 11-year-old left-handed male patient has a FIQ score of 117, and their target remains undefined.",ABIDEII-GU_1_28768,1
+157,157,12.6,Male,100.0,right handed,A 12-year-old male patient with a FIQ score of 100 and right-handed handedness was identified as the target individual in this dataset.,ABIDEII-GU_1_28771,1
+158,158,12.1369863,Male,132.0,right handed,The patient is a 12-year-old male right-handed individual with a FIQ score of 132 and the target is unspecified.,ABIDEII-GU_1_28777,1
+159,159,9.983561644,Male,123.0,right handed,"The patient is a 10-year-old male with an FSIQ of 123 and right-handedness, whose Target remains unspecified.",ABIDEII-GU_1_28778,1
+160,160,10.88767123,Female,126.0,right handed,A 10-year-old female patient diagnosed with schizophrenia has a Handedness Category of right-handed and a FIQ score of 126.,ABIDEII-GU_1_28779,1
+161,161,10.89041096,Female,92.0,right handed,The 10-year-old female patient scored 92 on the FSIQ test with a right-handed dominant profile as their target.,ABIDEII-GU_1_28780,1
+162,162,10.01643836,Male,127.0,right handed,"The patient, who is 10 years old and male, has been diagnosed with a high level of FSIQ at 127, indicating significant cognitive impairment in right-handed individuals.",ABIDEII-GU_1_28782,1
+163,163,8.997260274,Male,149.0,right handed,The patient is an 8-year-old male right-handed individual with a HANAN score of 149 and no specific target mentioned in the provided data.,ABIDEII-GU_1_28784,1
+164,164,12.55890411,Male,111.0,right handed,The 12-year-old male patient diagnosed with autism spectrum disorder (ASD) has a Handedness Category of right-handed and a Full Scale IQ score of 111.,ABIDEII-GU_1_28787,1
+165,165,12.91232877,Male,138.0,right handed,"The 13-year-old male patient, right-handed, with an FIQ score of 138 has [Target] as the goal.",ABIDEII-GU_1_28788,1
+166,166,13.90684932,Male,111.0,right handed,A male patient aged 13.91 who is right-handed has an FIQ score of 111 in their single English sentence output response.,ABIDEII-GU_1_28789,1
+167,167,9.975342466,Male,119.0,right handed,The nine-year-old right-handed male patient has a Fugl-Meyer Assessment score of 119.,ABIDEII-GU_1_28790,1
+168,168,10.87123288,Male,127.0,right handed,A 10-year-old male with a FIQ score of 127 is right-handed and the target remains unspecified.,ABIDEII-GU_1_28791,1
+169,169,10.37260274,Male,120.0,right handed,"A 10-year-old male patient diagnosed with high levels of anxiety (FIQ score of 120) and right-handed, targeting treatment for the condition.",ABIDEII-GU_1_28795,1
+170,170,11.60547945,Male,118.0,right handed,The 11-year-old male patient diagnosed with high-functioning autism (FIS) scored 118 on the FIQ and is right-handed.,ABIDEII-GU_1_28796,1
+171,171,8.931506849,Male,95.0,right handed,The patient is an eight-year-old male with a Functional Assessment score of 95 and right-handedness; their target remains unspecified.,ABIDEII-GU_1_28799,1
+172,172,10.47945205,Male,129.0,right handed,A 10-year-old male with an FIQ score of 129 and right-handedness is the target individual.,ABIDEII-GU_1_28800,1
+173,173,10.30410959,Male,138.0,right handed,A 10-year-old male right-handed patient with an FIQ score of 138 is the target for analysis.,ABIDEII-GU_1_28802,1
+174,174,8.123287671,Female,,right handed,The patient is an 8-year-old female who is right-handed and her FSIQ score is not available.,ABIDEII-GU_1_28805,1
+175,175,10.59178082,Female,108.0,right handed,"The female patient aged 10.59, diagnosed with an FIQ score of 108, is a right-handed target in the analysis.",ABIDEII-GU_1_28807,1
+176,176,11.43835616,Male,110.0,left handed,The 11-year-old male patient who is left-handed has a FIQ score of 110.0 and is the target for further analysis.,ABIDEII-GU_1_28808,1
+177,177,11.98630137,Male,95.0,right handed,The 12-year-old right-handed male patient has a Full Scale IQ of 95 and is the target for further assessment.,ABIDEII-GU_1_28809,1
+178,178,13.12876712,Male,102.0,right handed,"The 13-year-old male patient diagnosed with autism spectrum disorder (ASD) and rated at a severity level of 102 on the Social Responsiveness Scale (SRS), uses his right hand for most daily activities.",ABIDEII-GU_1_28810,1
+179,179,8.252054795,Male,142.0,right handed,The 8-year-old male patient diagnosed with autism spectrum disorder (FIQ score of 142) has right-handed dominance.,ABIDEII-GU_1_28811,1
+180,180,9.64109589,Male,130.0,left handed,The nine-year-old male patient diagnosed with high-functioning autism scored 130 on the Autism Diagnostic Observation Schedule and is left-handed.,ABIDEII-GU_1_28815,1
+181,181,10.62191781,Male,139.0,right handed,The patient is a right-handed male who is 10 years old and has a FIQ score of 139.,ABIDEII-GU_1_28816,1
+182,182,13.88219178,Male,117.0,right handed,A 13-year-old male right-handed patient scored 117 on the FIQ scale as their target.,ABIDEII-GU_1_28817,1
+183,183,12.62465753,Male,90.0,right handed,"The patient is a 12-year-old male with an FIQ score of 90 and right-handedness, targeting treatment.",ABIDEII-GU_1_28818,1
+184,184,8.339726027,Male,108.0,right handed,"The 8-year-old male patient diagnosed with ADHD and Autism Spectrum Disorder (ASD) scored 108 on the Forced Choice Questionnaire (FCQ), targeting right-handed individuals.",ABIDEII-GU_1_28819,1
+185,185,10.29041096,Male,149.0,left handed,"The patient is a 10-year-old male left-handed individual with an FIQ score of 149 and a target, which was not provided in the input data.",ABIDEII-GU_1_28820,1
+186,186,8.64109589,Male,116.0,right handed,The patient is an 8-year-old male with an FSIQ of 116 in right-handed handedness.,ABIDEII-GU_1_28821,1
+187,187,9.224657534,Male,112.0,right handed,The nine-year-old male patient diagnosed with high-functioning autism (Fougeyrollas Index of 112) is right-handed and their target is not specified in the provided data.,ABIDEII-GU_1_28822,1
+188,188,9.183561644,Male,103.0,right handed,A nine-year-old male patient with an FIQ score of 103 presents with right-handed handedness and Target information not available.,ABIDEII-GU_1_28823,1
+189,189,12.67,Male,96.0,left handed,"At the age of 12.67 years old, a male left-handed patient was found to have a FIQ score of 96.0, indicating the severity of their symptoms.",ABIDEII-GU_1_28824,1
+190,190,9.18630137,Male,142.0,right handed,"A nine-year-old male patient with an FIQ score of 142 exhibits target symptoms, being right-handed.",ABIDEII-GU_1_28825,1
+191,191,11.49041096,Male,145.0,right handed,The 11-year-old right-handed male patient has an FIQ score of 145.,ABIDEII-GU_1_28831,1
+192,192,8.279452055,Male,108.0,right handed,"The patient, an 8-year-old right-handed male with a FIQ score of 108, was targeted for this particular assessment.",ABIDEII-GU_1_28832,1
+193,193,9.383561644,Female,119.0,right handed,The female patient aged 9.38 at the time of scanning has a FIQ score of 119 and is right-handed.,ABIDEII-GU_1_28834,1
+194,194,12.53150685,Male,122.0,right handed,A 12-year-old male patient with a FIQ score of 122 is targeting treatment for right-handed individuals.,ABIDEII-GU_1_28835,1
+195,195,11.48493151,Male,109.0,right handed,The 11-year-old male patient diagnosed with autism spectrum disorder (ASD) scored 109 on the Social Responsiveness Scale and aims to improve in communication skills.,ABIDEII-GU_1_28838,1
+196,196,11.35342466,Female,106.0,right handed,The patient is an 11-year-old female with a FIQ score of 106 and right-handed dominant who has not been specifically mentioned to have any target in the given data.,ABIDEII-GU_1_28839,1
+197,197,11.65205479,Male,117.0,right handed,The male patient aged 11.65 years old with an FIQ score of 117 is right-handed.,ABIDEII-GU_1_28840,1
+198,198,11.12328767,Male,130.0,right handed,The 11-year-old male patient diagnosed with high-level autism has a Handedness score of 1 and Target as the primary treatment option.,ABIDEII-GU_1_28843,1
+199,199,11.91232877,Male,97.0,right handed,The 11-year-old male patient diagnosed with high functioning autism scores 97 on the FIQ scale and is right-handed.,ABIDEII-GU_1_28844,1
+200,200,12.00547945,Male,110.0,right handed,The 12-year-old male patient with an FIQ score of 110 and right-handed dominance has {Target} as their target.,ABIDEII-GU_1_28741,2
+201,201,12.74246575,Female,108.0,right handed,"The patient is a 12-year-old female with an FIQ score of 108 and right-handedness, targeting an unspecified condition or symptom.",ABIDEII-GU_1_28742,2
+202,202,12.43835616,Male,131.0,right handed,The 12-year-old male patient diagnosed with 131 on the FSIQ test has right-handed handedness and is the target for treatment.,ABIDEII-GU_1_28743,2
+203,203,9.887671233,Male,135.0,right handed,A 9-year-old right-handed male patient with a FIQ score of 135 is the target for analysis.,ABIDEII-GU_1_28744,2
+204,204,12.26575342,Male,140.0,right handed,"The 12-year-old male patient with a right-handed dominant hand and an FIQ score of 140 has ""Target"" as the missing input field in the metadata.",ABIDEII-GU_1_28745,2
+205,205,9.545205479,Male,126.0,right handed,The 9-year-old male patient scored 126 on the FSIQ test and aimed for a right-handed category in the Target field.,ABIDEII-GU_1_28746,2
+206,206,11.76164384,Male,107.0,right handed,The patient is an 11-year-old male with a FIQ score of 107 who is right-handed.,ABIDEII-GU_1_28747,2
+207,207,13.65205479,Male,102.0,right handed,A 13-year-old male with a FIQ score of 102 and right-handed handedness is the target patient.,ABIDEII-GU_1_28748,2
+208,208,13.21643836,Female,108.0,right handed,A 13-year-old female patient with an FIQ score of 108 is right-handed.,ABIDEII-GU_1_28749,2
+209,209,13.30684932,Female,119.0,right handed,"The 13-year-old female patient, right-handed, has a FIQ score of 119.0 and is being treated for her condition.",ABIDEII-GU_1_28750,2
+210,210,10.50136986,Female,119.0,right handed,A 10-year-old female patient with a FIQ score of 119 is right-handed.,ABIDEII-GU_1_28751,2
+211,211,13.24931507,Female,117.0,right handed,The 13-year-old female patient diagnosed with schizophrenia has an FIQ score of 117 and is right-handed.,ABIDEII-GU_1_28753,2
+212,212,10.43561644,Male,,right handed,"The patient, who is 10.43561644 years old and male, has no available information on their Functional Assessment Score (FIQ) but is right-handed.",ABIDEII-GU_1_28755,2
+213,213,10.80547945,Female,123.0,right handed,"A 10-year-old female patient diagnosed with Focal Infantile Aphasia (FIQ score of 123) and right-handed, aims to achieve a specific target in their recovery.",ABIDEII-GU_1_28757,2
+214,214,9.394520548,Female,127.0,right handed,The 9-year-old female patient with an FIQ score of 127 is right-handed.,ABIDEII-GU_1_28759,2
+215,215,12.06849315,Female,141.0,right handed,The patient is a 12-year-old female with an FIQ score of 141 in the right-handed category.,ABIDEII-GU_1_28760,2
+216,216,12.70136986,Male,116.0,right handed,A 12-year-old male patient with an FIQ score of 116 and right-handed dominance targets.,ABIDEII-GU_1_28762,2
+217,217,8.139726027,Female,142.0,right handed,"The patient is an 8-year-old female with a FIQ score of 142 and right-handedness, targeting unknown.",ABIDEII-GU_1_28763,2
+218,218,11.95342466,Male,137.0,right handed,The 12-year-old male patient diagnosed with high functioning autism scored 137 on the Autism Diagnostic Observation Schedule and is right-handed.,ABIDEII-GU_1_28766,2
+219,219,9.21369863,Male,126.0,right handed,"The patient is male, aged 9 years and 3 months, has a FIQ score of 126, and is right-handed.",ABIDEII-GU_1_28767,2
+220,220,9.55890411,Female,135.0,right handed,The 9-year-old female patient with an FIQ score of 135 was right-handed.,ABIDEII-GU_1_28769,2
+221,221,9.189041096,Female,132.0,right handed,A nine-year-old female patient with a Handedness Category of right-handed and an FIQ score of 132 exhibited the Target at Age_AT_SCAN 9.189041096.,ABIDEII-GU_1_28770,2
+222,222,9.032876712,Female,124.0,right handed,The female patient who is right-handed was diagnosed with an IQ of 124 at the age of 9 years and 3 months.,ABIDEII-GU_1_28772,2
+223,223,8.871232877,Female,132.0,right handed,The 8-year-old female patient with a High Anxiety Disorder (FIQ score of 132) has right-handedness and Target as the target value in the provided dataset.,ABIDEII-GU_1_28773,2
+224,224,11.01917808,Male,109.0,right handed,The 11-year-old male patient with a FIQ score of 109 was right-handed at the time of the scan.,ABIDEII-GU_1_28774,2
+225,225,13.01369863,Female,124.0,right handed,The female patient aged 13.01 at the time of scan has a FIQ score of 124 and is right-handed.,ABIDEII-GU_1_28775,2
+226,226,8.745205479,Female,134.0,right handed,The 8-year-old female patient with an FIQ score of 134 exhibits right-handedness and is the target for further evaluation.,ABIDEII-GU_1_28776,2
+227,227,10.68767123,Male,133.0,right handed,A 10-year-old male patient with an FIQ score of 133 and right-handedness has {Target} as the target variable.,ABIDEII-GU_1_28781,2
+228,228,8.873972603,Female,144.0,right handed,The 9-year-old female patient has moderate FIQ score of 144 and is right-handed.,ABIDEII-GU_1_28783,2
+229,229,12.51232877,Male,117.0,right handed,The 12-year-old male patient with an FIQ score of 117 is right-handed and the target is not specified.,ABIDEII-GU_1_28785,2
+230,230,10.6630137,Female,131.0,right handed,The patient is a female aged 10.66 who has an FIQ score of 131 and is right-handed.,ABIDEII-GU_1_28786,2
+231,231,10.87123288,Male,125.0,right handed,The 10-year-old male patient with an FIQ score of 125 is right-handed and targets a specific goal in their therapy.,ABIDEII-GU_1_28792,2
+232,232,8.969863014,Male,111.0,left handed,The patient is an 8-year-old male left-handed child with a FIQ score of 111 and no additional metadata provided.,ABIDEII-GU_1_28793,2
+233,233,11.46849315,Male,91.0,left handed,The 11-year-old left-handed male patient has an FIQ score of 91 and is the target for treatment.,ABIDEII-GU_1_28794,2
+234,234,13.79726027,Male,98.0,right handed,The 13-year-old male has an FIQ score of 98 and is right-handed.,ABIDEII-GU_1_28797,2
+235,235,10.24109589,Male,127.0,right handed,The patient is a 10-year-old male with an FIQ score of 127 and right-handed handedness.,ABIDEII-GU_1_28798,2
+236,236,9.273972603,Female,149.0,right handed,A 9-year-old female patient with an FIQ score of 149 was diagnosed with a right-handed target condition.,ABIDEII-GU_1_28801,2
+237,237,8.506849315,Female,109.0,right handed,The patient is an eight-year-old female diagnosed with a FIQ score of 109 in her right hand.,ABIDEII-GU_1_28803,2
+238,238,8.063013699,Male,113.0,right handed,"The 8-year-old male patient diagnosed with autism spectrum disorder (ASD) scores 113 on the Social Responsiveness Scale (SRS), indicating moderate difficulties in social interaction and communication, while being right-handed.",ABIDEII-GU_1_28804,2
+239,239,11.72876712,Male,124.0,right handed,The 11-year-old male patient diagnosed with high-functioning autism (FIQ score of 124) has right-handedness as their primary hand preference and is targeting improvements in their ability to communicate through language.,ABIDEII-GU_1_28806,2
+240,240,8.854794521,Male,122.0,right handed,A 8-year-old right-handed male patient with an FIQ score of 122 is the target for analysis.,ABIDEII-GU_1_28812,2
+241,241,10.42739726,Female,103.0,right handed,"The patient is a 10-year-old right-handed female with an FIQ score of 103, and their target is not specified.",ABIDEII-GU_1_28813,2
+242,242,8.320547945,Female,95.0,right handed,"The patient, who is an 8-year-old female right-handed individual, presents with a high-level of disability (FIM Instrument score of 95) and is targeting improvements in their overall functional status.",ABIDEII-GU_1_28814,2
+243,243,10.11232877,Female,125.0,right handed,The female patient aged 10.11232877 with a FIQ score of 125.0 and right-handed dominance targets treatment for her condition.,ABIDEII-GU_1_28826,2
+244,244,8.997260274,Female,105.0,right handed,The eight-year-old right-handed female patient has a FIQ score of 105 and is the target for further treatment.,ABIDEII-GU_1_28827,2
+245,245,10.95342466,Male,124.0,right handed,The patient is a male right-handed individual aged 10.95 years who scored 124 on the FIQ and aims for a target.,ABIDEII-GU_1_28828,2
+246,246,8.821917808,Female,129.0,right handed,The patient is an 8-year-old female who has a high score of 129 on the FIQ and her right hand is dominant.,ABIDEII-GU_1_28829,2
+247,247,8.912328767,Male,130.0,right handed,A male patient aged 8.91 with a FIQ score of 130 who is right-handed.,ABIDEII-GU_1_28830,2
+248,248,8.375342466,Female,119.0,right handed,The female patient aged 8.38 years old has an FSIQ score of 119 and is right-handed with no additional information provided.,ABIDEII-GU_1_28836,2
+249,249,11.75890411,Male,124.0,left handed,"The 11-year-old left-handed male patient scored 124 on the FIQ test, targeting a specific age group and handedness category.",ABIDEII-GU_1_28837,2
+250,250,8.723287671,Female,102.0,right handed,The patient is an 8-year-old female right-handed individual diagnosed with a high level of social anxiety (FIQ score: 102) and currently undergoing treatment for her condition at the age of 8.,ABIDEII-GU_1_28841,2
+251,251,8.408219178,Male,148.0,right handed,A 8-year-old male patient diagnosed with autism spectrum disorder (ASD) has an FIQ score of 148 and is right-handed.,ABIDEII-GU_1_28842,2
+252,252,8.39,Male,112.0,right handed,The 8-year-old male patient with a Fiq score of 112.0 and right-handedness has the Target as their age at scan.,ABIDEII-GU_1_28845,2
+253,253,8.74,Female,100.0,right handed,The female patient aged 8.74 has a High Functioning Autism diagnosis (FIQ of 100) and is right-handed.,ABIDEII-GU_1_28846,2
+254,254,10.49,Male,125.0,right handed,A 10-year-old male patient with an FIQ score of 125 and right-handedness was targeted for this analysis.,ABIDEII-GU_1_28847,2
+255,255,8.17,Female,84.0,right handed,The 8-year-old female patient with a right-handed dominant FIQ score of 84.0.,ABIDEII-IP_1_29584,1
+256,256,9.996,Male,71.0,right handed,The 10-year-old male patient diagnosed with autism spectrum disorder has a FIQ score of 71 and is right-handed.,ABIDEII-IP_1_29587,1
+257,257,19.71,Male,65.0,right handed,The male patient aged 19.71 years old with FIQ score of 65.0 and right-handed handedness is the target for analysis.,ABIDEII-IP_1_29588,1
+258,258,6.051,Female,,right handed,A 6-year-old female right-handed patient with an unknown FIQ score has the Target field not specified.,ABIDEII-IP_1_29591,1
+259,259,13.69,Male,125.0,right handed,The 13-year-old male patient with an FIQ score of 125 is right-handed.,ABIDEII-IP_1_29592,1
+260,260,27.36,Male,108.0,right handed,The 27-year-old male patient diagnosed with high-level autism spectrum disorder (ASD) has a FSIQ of 108 and uses their right hand.,ABIDEII-IP_1_29595,1
+261,261,16.57,Female,110.0,right handed,A 16-year-old female with an FIQ score of 110 is right-handed.,ABIDEII-IP_1_29603,1
+262,262,7.556,Male,,right handed,"The 7-year-old male patient, who is right-handed, has not been assessed for the FIQ score at this time.",ABIDEII-IP_1_29606,1
+263,263,12.99,Male,,right handed,The patient is a 13-year-old male with an unknown FIQ score and right-handed handedness.,ABIDEII-IP_1_29609,1
+264,264,14.7,Female,108.0,right handed,The 14-year-old right-handed female patient has an FIQ score of 108.0 and is the target for further analysis.,ABIDEII-IP_1_29610,1
+265,265,17.9,Male,,right handed,The patient is a 17-year-old male right-handed individual with an incomplete Fugac score of NaN at the time of the scan.,ABIDEII-IP_1_29612,1
+266,266,19.52,Female,110.0,right handed,The patient is a 19-year-old female right-handed individual with a FIQ score of 110.,ABIDEII-IP_1_29613,1
+267,267,15.81,Male,57.0,right handed,"A 15-year-old male with an FIQ score of 57.0, is right-handed.",ABIDEII-IP_1_29615,1
+268,268,15.49,Male,107.0,right handed,"The patient, who is male and right-handed, aged 15.49 at the time of the scan, has a FIQ score of 107.0, with ""Target"" not specified in the metadata.",ABIDEII-IP_1_29619,1
+269,269,18.06,Female,80.0,right handed,The 18-year-old female patient with an FIQ score of 80 and right-handed dominance has been targeted for treatment.,ABIDEII-IP_1_29623,1
+270,270,15.2,Female,69.0,right handed,A 15-year-old female patient with an FIQ score of 69 and right-handed handedness aims to reach their Target.,ABIDEII-IP_1_29624,1
+271,271,14.18,Male,119.0,right handed,A 14-year-old male patient with an FIQ score of 119.0 and right-handed dominant hand was the subject of the analysis.,ABIDEII-IP_1_29626,1
+272,272,21.12,Male,49.0,right handed,"The patient is a 21-year-old male with an FIQ score of 49, indicating mild symptoms, and his target is right handed.",ABIDEII-IP_1_29627,1
+273,273,18.75,Female,,right handed,"The 18-year-old female patient's age at scan is 18.75 years old, and her FIQ score could not be determined due to missing data.",ABIDEII-IP_1_29628,1
+274,274,15.29,Male,124.0,right handed,"The patient, who is male and right-handed, aged 15.29 at the time of the scan, has a FIQ score of 124.0 and is the target for analysis.",ABIDEII-IP_1_29629,1
+275,275,15.1,Male,106.0,right handed,"The 15-year-old male patient with a right-handed handedness, diagnosed with FIQ score of 106, aims to achieve the target in their treatment plan.",ABIDEII-IP_1_29633,1
+276,276,9.637,Male,78.0,left handed,The patient is a 9-year-old male left-hander with an FIQ score of 78 and the target is not specified.,ABIDEII-IP_1_29634,1
+277,277,24.26,Male,,right handed,"The 24-year-old male patient's Full Scale IQ score is not available, and their target has not been specified.",ABIDEII-IP_1_29580,2
+278,278,29.85,Female,,mixed handed,The female patient aged 29.85 is mixed-handed and has not been assessed for FIQ scores.,ABIDEII-IP_1_29581,2
+279,279,27.66,Female,,right handed,"The female patient, aged 27.66 years old at the time of scan, is right-handed.",ABIDEII-IP_1_29582,2
+280,280,22.46,Male,,right handed,A 22-year-old male patient with no available Fiq score and right-handed handedness.,ABIDEII-IP_1_29583,2
+281,281,34.43,Male,,right handed,The male patient aged 34.43 is right-handed and the FIQ score is not available for this patient.,ABIDEII-IP_1_29585,2
+282,282,29.88,Female,,right handed,The patient is a 29-year-old female who is right-handed and has not been diagnosed with any intellectual or developmental disability as indicated by the missing FIQ score in the provided metadata.,ABIDEII-IP_1_29586,2
+283,283,25.24,Male,,right handed,The 25-year-old male patient's Handedness Category is right-handed.,ABIDEII-IP_1_29589,2
+284,284,19.06,Female,,right handed,The female patient aged 19.06 had an unknown FIQ score and was right-handed.,ABIDEII-IP_1_29590,2
+285,285,19.33,Female,,left handed,The female patient aged 19.33 is left-handed and has not been assessed for the FIQ score.,ABIDEII-IP_1_29593,2
+286,286,20.51,Male,,right handed,The patient is a male aged 20.5 years who is right-handed and has no available information on the Fugl-Meyer Assessment score.,ABIDEII-IP_1_29594,2
+287,287,9.933,Female,120.0,right handed,The 9-year-old female patient has a FIQ score of 120 and is right-handed.,ABIDEII-IP_1_29596,2
+288,288,23.14,Female,,right handed,The female patient aged 23.14 is right-handed and her HAN score is not available.,ABIDEII-IP_1_29597,2
+289,289,42.76,Female,,right handed,The patient is a 42-year-old female with an incomplete FIQ score and right-handed dominance.,ABIDEII-IP_1_29598,2
+290,290,10.15,Male,104.0,right handed,"A 10-year-old male patient diagnosed with autism spectrum disorder (ASD) and right-handed, with a Functional Assessment Rating Scale (FARRS) score of 104, is the target for treatment.",ABIDEII-IP_1_29599,2
+291,291,46.43,Female,,right handed,The female patient aged 46.43 is right-handed and has an incomplete FIQ score.,ABIDEII-IP_1_29600,2
+292,292,19.08,Female,,left handed,The patient is a female aged 19.8 years who is left-handed and has not been assessed using the FIQ score.,ABIDEII-IP_1_29601,2
+293,293,26.03,Male,,mixed handed,The 26-year-old male patient has mixed-handedness and the FIQ score is not available.,ABIDEII-IP_1_29602,2
+294,294,19.85,Female,,right handed,The female patient aged 19.85 is right-handed and has not been scored on the FIQ scale.,ABIDEII-IP_1_29604,2
+295,295,21.79,Female,,right handed,The patient is a 21-year-old right-handed female with a missing FIQ score.,ABIDEII-IP_1_29605,2
+296,296,17.56,Female,,right handed,The 17-year-old female patient has not been assessed for the FIQ score or handedness category.,ABIDEII-IP_1_29607,2
+297,297,22.52,Male,,right handed,The patient is a 22-year-old right-handed male with no available FIQ score and Target information.,ABIDEII-IP_1_29608,2
+298,298,33.53,Female,,right handed,A 33-year-old female patient was scanned; her Handedness Category is not available.,ABIDEII-IP_1_29611,2
+299,299,9.897,Male,71.0,right handed,"At 9.9 years old, a male right-handed patient has an FIQ score of 71.0 and is the target for further evaluation.",ABIDEII-IP_1_29614,2
+300,300,10.87,Female,,right handed,The patient is a 10.87-year-old female who is right-handed and has an unknown FIQ score.,ABIDEII-IP_1_29616,2
+301,301,10.87,Male,107.0,right handed,The patient is a right-handed male aged 10.87 years who has an FIQ score of 107.0 and the target is not specified in the input data.,ABIDEII-IP_1_29617,2
+302,302,35.58,Male,,right handed,A 35-year-old male with unknown FIQ score was right-handed at the time of scanning.,ABIDEII-IP_1_29618,2
+303,303,11.67,Female,,right handed,The 11-year-old female patient is right-handed and the FIQ score is not available.,ABIDEII-IP_1_29620,2
+304,304,8.17,Female,125.0,right handed,The 8-year-old female patient diagnosed with 125 on the FIQ scale is right-handed.,ABIDEII-IP_1_29621,2
+305,305,9.161,Female,89.0,left handed,"A 9-year-old female patient, left-handed with a FIQ score of 89, is the target for analysis.",ABIDEII-IP_1_29622,2
+306,306,41.62,Female,,right handed,"The patient is a 41-year-old female with an incomplete FIQ score and right-handed handedness, aiming for the Target.",ABIDEII-IP_1_29625,2
+307,307,8.068,Female,124.0,right handed,The 8-year-old female patient diagnosed with high functioning autism (F.I.Q score of 124) is right-handed and the target for treatment.,ABIDEII-IP_1_29630,2
+308,308,46.6,Female,,left handed,A female patient aged 46.6 had an incomplete FIQ score and was left-handed.,ABIDEII-IP_1_29631,2
+309,309,10.6,Female,106.0,left handed,"The female patient, aged 10.6, has a FIQ score of 106.0 and is left-handed.",ABIDEII-IP_1_29632,2
+310,310,42.0,Male,,right handed,"The 42-year-old male patient has a right-handed hand, but the FIQ score is not available.",ABIDEII-IP_1_29635,2
+311,311,19.0,Male,129.0,right handed,The 19-year-old male right-handed patient has an FIQ score of 129.0.,ABIDEII-IU_1_29539,1
+312,312,19.0,Male,113.0,right handed,The patient is a 19-year-old right-handed male with a FIQ score of 113.0.,ABIDEII-IU_1_29540,1
+313,313,19.0,Male,126.0,right handed,A 19-year-old right-handed male patient with an FIQ score of 126 is the target.,ABIDEII-IU_1_29541,1
+314,314,24.0,Female,126.0,mixed handed,A 24-year-old female with mixed-handedness and an FIQ score of 126 was scanned for target-related symptoms.,ABIDEII-IU_1_29542,1
+315,315,22.0,Male,125.0,right handed,The 22-year-old right-handed male patient has a FIQ score of 125.0.,ABIDEII-IU_1_29543,1
+316,316,23.0,Female,116.0,right handed,"The female patient aged 23, who is right-handed and has a FIQ score of 116, aims for the Target.",ABIDEII-IU_1_29544,1
+317,317,19.0,Male,132.0,right handed,The 19-year-old right-handed male patient scored 132 on the FIQ scale targeting [target].,ABIDEII-IU_1_29545,1
+318,318,20.0,Male,117.0,right handed,A 20-year-old male with a FIQ score of 117 is right-handed.,ABIDEII-IU_1_29547,1
+319,319,37.0,Male,121.0,right handed,A 37-year-old male with an FIQ score of 121 and right-handed handedness is the target patient.,ABIDEII-IU_1_29549,1
+320,320,28.0,Male,105.0,left handed,The 28-year-old male patient with an FIQ score of 105 and left-handedness has {Target} as their target.,ABIDEII-IU_1_29553,1
+321,321,42.0,Female,119.0,right handed,The 42-year-old female patient diagnosed with an FIQ score of 119 and targeting improvement in her right-handed condition.,ABIDEII-IU_1_29555,1
+322,322,19.0,Male,109.0,right handed,The 19-year-old male patient diagnosed with 109 on the FSIQ scale scored in the average range of intelligence and is right-handed.,ABIDEII-IU_1_29559,1
+323,323,21.0,Male,119.0,right handed,A 21-year-old male with a FIQ score of 119 is right-handed.,ABIDEII-IU_1_29561,1
+324,324,54.0,Female,118.0,right handed,"The female patient aged 54 years, diagnosed with high disability (FIQ score of 118) and right-handed, aims to achieve the Target.",ABIDEII-IU_1_29562,1
+325,325,23.0,Male,117.0,left handed,The 23-year-old male patient with an FIQ score of 117 is left-handed.,ABIDEII-IU_1_29566,1
+326,326,17.0,Male,99.0,right handed,The 17-year-old male patient with an FIQ score of 99 and right-handed handedness is the target for further evaluation.,ABIDEII-IU_1_29568,1
+327,327,28.0,Male,110.0,mixed handed,The 28-year-old male patient with mixed-handedness and FIQ score of 110 is the target for analysis.,ABIDEII-IU_1_29569,1
+328,328,18.0,Male,80.0,right handed,The 18-year-old male patient with a FIQ score of 80 and right-handed dominance has been targeted for further assessment.,ABIDEII-IU_1_29572,1
+329,329,24.0,Male,126.0,right handed,A 24-year-old male with a FIQ score of 126 is right-handed.,ABIDEII-IU_1_29575,1
+330,330,24.0,Male,119.0,mixed handed,A 24-year-old male mixed-handed patient diagnosed with an IQ score of 119 and no specific target information is provided.,ABIDEII-IU_1_29576,1
+331,331,22.0,Male,105.0,right handed,"The 22-year-old male patient with a FIQ score of 105 and right-handed hand has ""Target"" as the fourth input field.",ABIDEII-IU_1_29538,2
+332,332,23.0,Male,105.0,mixed handed,"The 23-year-old male patient diagnosed with autism spectrum disorder (ASD) and mixed hand preference scored a total of 105 on the Autism Diagnostic Observation Schedule (ADOS), indicating a high level of social communication difficulties.",ABIDEII-IU_1_29546,2
+333,333,37.0,Male,130.0,right handed,A 37-year-old male with an FIQ score of 130 is right-handed.,ABIDEII-IU_1_29548,2
+334,334,31.0,Male,107.0,left handed,A 31-year-old male with an FIQ score of 107 who is left-handed has been identified as the target patient in this analysis.,ABIDEII-IU_1_29550,2
+335,335,22.0,Female,123.0,right handed,A 22-year-old female patient with an FRIQ score of 123 was right-handed.,ABIDEII-IU_1_29551,2
+336,336,22.0,Female,94.0,mixed handed,The female patient aged 22 at the time of scan has a FIQ score of 94 and is mixed-handed.,ABIDEII-IU_1_29552,2
+337,337,21.0,Male,127.0,right handed,"The 21-year-old male right-handed patient has a FIQ score of 127, indicating their severity of symptoms.",ABIDEII-IU_1_29554,2
+338,338,22.0,Male,118.0,right handed,A 22-year-old male with an FIQ score of 118 and right-handed dominance is the target individual for analysis.,ABIDEII-IU_1_29556,2
+339,339,21.0,Male,127.0,right handed,The patient is a 21-year-old male right-handed individual with an FIQ score of 127 and the target as specified in the input data.,ABIDEII-IU_1_29557,2
+340,340,19.0,Male,118.0,right handed,"The 19-year-old male patient, right-handed, scored 118 on the FIQ scale for their target condition.",ABIDEII-IU_1_29558,2
+341,341,21.0,Female,116.0,right handed,The 21-year-old female patient with an FIQ score of 116 has right-handedness as their primary characteristic.,ABIDEII-IU_1_29560,2
+342,342,25.0,Female,121.0,right handed,The female patient aged 25 with an FIQ score of 121 and right-handed handedness aims for the target.,ABIDEII-IU_1_29563,2
+343,343,20.0,Male,130.0,right handed,A 20-year-old male with an FIQ score of 130 and right-handed handedness is the target patient.,ABIDEII-IU_1_29564,2
+344,344,20.0,Female,128.0,right handed,The female patient aged 20 with an FIQ score of 128 is right-handed.,ABIDEII-IU_1_29565,2
+345,345,34.0,Male,135.0,right handed,A 34-year-old male right-handed patient has an FIQ score of 135.0.,ABIDEII-IU_1_29567,2
+346,346,20.0,Male,105.0,right handed,A male patient aged 20 with a FIQ score of 105 and right-handed handedness is the target for analysis.,ABIDEII-IU_1_29570,2
+347,347,26.0,Male,113.0,right handed,The 26-year-old male patient with an FIQ score of 113 and right-handed handedness is the target for further analysis.,ABIDEII-IU_1_29571,2
+348,348,20.0,Male,115.0,right handed,The patient is a 20-year-old male right-handed individual with a FIQ score of 115.0 and their target is unspecified.,ABIDEII-IU_1_29573,2
+349,349,25.0,Male,112.0,right handed,The 25-year-old male right-handed patient has a FIQ score of 112.0.,ABIDEII-IU_1_29574,2
+350,350,24.0,Male,111.0,right handed,A 24-year-old right-handed male patient with an FIQ score of 111 has {Target} as their target.,ABIDEII-IU_1_29577,2
+351,351,8.476712329,Male,114.0,right handed,"The 8-year-old male patient, right-handed, diagnosed with a high level of intellectual disability (FIMIQ = 114), is the target for intervention to improve their condition and overall quality of life.",ABIDEII-KKI_1_29273,1
+352,352,9.246575342,Male,88.0,right handed,"The patient is a 9-year-old male with a FIQ score of 88 and right-handed, targeting an unspecified condition.",ABIDEII-KKI_1_29274,1
+353,353,8.646575342,Male,,right handed,The patient is an 8-year-old male who has not been diagnosed with autism spectrum disorder (ASD) based on the available data.,ABIDEII-KKI_1_29275,1
+354,354,9.216438356,Female,115.0,right handed,A 9-year-old female patient with an FIQ score of 115 and right-handed dominance has Target as the fourth input field.,ABIDEII-KKI_1_29276,1
+355,355,12.7890411,Male,126.0,right handed,The 12-year-old right-handed male patient has an FIQ score of 126 and is the target for treatment.,ABIDEII-KKI_1_29277,1
+356,356,9.994520548,Female,115.0,right handed,The nine-year-old female patient with an IQ of 115 and right-handedness has the target in focus.,ABIDEII-KKI_1_29278,1
+357,357,9.561643836,Female,130.0,mixed handed,The female patient aged 9.56 at the time of scan has a FIQ score of 130 and is mixed-handed.,ABIDEII-KKI_1_29279,1
+358,358,8.457534247,Male,114.0,right handed,"The patient, who is 8 years old and male, has an FIQ score of 114 and targets the right hand.",ABIDEII-KKI_1_29280,1
+359,359,9.331506849,Male,76.0,mixed handed,The patient is a nine-year-old male with a FIQ score of 76 and mixed-handedness who has {AGE_AT_SCAN} as their age at scan.,ABIDEII-KKI_1_29281,1
+360,360,10.66027397,Male,90.0,right handed,A 10-year-old right-handed male patient with a FIQ score of 90 is the target for analysis.,ABIDEII-KKI_1_29282,1
+361,361,8.736986301,Male,100.0,right handed,The 8-year-old male patient with a FIQ score of 100 and right-handed dominance has {Target} as their target.,ABIDEII-KKI_1_29283,1
+362,362,12.84931507,Male,129.0,right handed,"A 12-year-old right-handed male patient scored 129 on the FIQ assessment with a target value of ({'AGE_AT_SCAN ': 12.84931507, 'SEX': 'Male', 'FIQ': 129.0, 'HANDEDNESS_CATEGORY': 'right handed'}).",ABIDEII-KKI_1_29284,1
+363,363,8.095890411,Female,88.0,right handed,"The female patient aged 8.0959 is right-handed and has an FIQ score of 88, with Target as the fourth input field not provided in the data.",ABIDEII-KKI_1_29285,1
+364,364,11.44383562,Male,110.0,right handed,"The patient, who is 11.44 years old and right-handed, has an IQ of 110, scored 110 in the FIQ test, and the analysis of their metadata shows they are male.",ABIDEII-KKI_1_29286,1
+365,365,8.989041096,Female,98.0,right handed,The 8-year-old female patient with an FIQ score of 98 and right-handed dominance has the target condition.,ABIDEII-KKI_1_29287,1
+366,366,11.46575342,Male,131.0,right handed,The 11-year-old male patient with an FIQ score of 131 is right-handed.,ABIDEII-KKI_1_29288,1
+367,367,10.54246575,Female,92.0,right handed,The patient is a right-handed female aged 10.5 years with an FIQ score of 92.0.,ABIDEII-KKI_1_29289,1
+368,368,12.98630137,Male,114.0,right handed,A 12-year-old male with an FIQ score of 114 right-handed individual is the target patient for analysis.,ABIDEII-KKI_1_29290,1
+369,369,11.63835616,Male,108.0,right handed,The 11-year-old male patient diagnosed with high functioning autism (FIQ score of 108) has the right hand as his dominant extremity.,ABIDEII-KKI_1_29291,1
+370,370,11.14794521,Male,106.0,right handed,"The 11-year-old male patient diagnosed with autism spectrum disorder (ASD) scored a total of 106 on the Formal Thought Disorder (FTD) subscale of the Finnish Inventory of Language Skills (FIQ), indicating moderate thought disorder, while being right-handed.",ABIDEII-KKI_1_29292,1
+371,371,8.893150685,Female,73.0,right handed,The 8-year-old female patient with an FIQ score of 73 and right-handed dominance aims to improve their overall condition.,ABIDEII-KKI_1_29293,1
+372,372,11.03287671,Female,108.0,right handed,The 11-year-old female patient diagnosed with autism spectrum disorder (ASD) and a FIQ score of 108 has right-handed dominance as her primary characteristic.,ABIDEII-KKI_1_29344,1
+373,373,12.60547945,Female,110.0,right handed,A 12-year-old female patient diagnosed with high functioning autism (FIQ score of 110) presents with right-handed dominance as their primary handedness.,ABIDEII-KKI_1_29375,1
+374,374,10.54246575,Male,119.0,right handed,"The patient is a 10-year-old male right-handed individual with a Handedness Category of right, and their FIQ score is 119.",ABIDEII-KKI_1_29376,1
+375,375,12.02465753,Male,99.0,right handed,A 12-year-old male patient with an FIQ score of 99 and right-handed dominance has {Target} as their target.,ABIDEII-KKI_1_29385,1
+376,376,10.92328767,Male,120.0,right handed,A male patient aged 10.92 years old with a FIQ score of 120.0 and right-handed handedness is the target for analysis.,ABIDEII-KKI_1_29389,1
+377,377,8.01369863,Male,98.0,right handed,The 8-year-old male patient with an FIQ score of 98 shows a right-handed preference for the Target.,ABIDEII-KKI_1_29391,1
+378,378,9.55890411,Male,116.0,mixed handed,The 9-year-old male patient diagnosed with ADHD and autism spectrum disorder (ASD) showed a high Functional Independence Measure (FIM) score of 116 in their right hand for the HANDEDNESS_CATEGORY assessment.,ABIDEII-KKI_1_29392,1
+379,379,10.78630137,Male,92.0,right handed,The patient is a male aged 10.79 years who has a FIQ score of 92 and is right-handed.,ABIDEII-KKI_1_29393,1
+380,380,10.8109589,Male,84.0,right handed,"The patient, who is male, right-handed, and aged 10.81 years old, has a FIQ score of 84.0 as their target.",ABIDEII-KKI_1_29394,1
+381,381,10.38356164,Male,63.0,mixed handed,"The patient, aged 10.38 years and male, has a FIQ score of 63, and is mixed-handed.",ABIDEII-KKI_1_29398,1
+382,382,12.55890411,Male,93.0,right handed,A 12-year-old right-handed male patient with a FIQ score of 93 scored the Target in English.,ABIDEII-KKI_1_29400,1
+383,383,8.463013699,Male,97.0,right handed,"The 8-year-old male patient, right-handed, scored 97 on the FIQ at the scan.",ABIDEII-KKI_1_29401,1
+384,384,10.85479452,Male,92.0,mixed handed,"The patient is an 11-year-old male with a FIQ score of 92 and mixed handedness, targeting the age, sex, FIQ score, and handedness in their first scan.",ABIDEII-KKI_1_29403,1
+385,385,8.810958904,Male,99.0,right handed,The 8-year-old right-handed male patient scored 99 on the FSIQ test with no target specified.,ABIDEII-KKI_1_29404,1
+386,386,12.2,Male,119.0,left handed,The 12-year-old male patient diagnosed with high functioning autism (FIQ score of 119) is left-handed and aims to improve their ability in the Handedness subscale.,ABIDEII-KKI_1_29408,1
+387,387,8.147945205,Female,130.0,right handed,The patient is an 8-year-old female right-handed individual with a FSIQ of 130 and no specific information about their target score or condition.,ABIDEII-KKI_1_29409,1
+388,388,9.961643836,Male,81.0,mixed handed,"The 9-year-old male patient, assessed using the FIQ score of 81 and with mixed handedness, aims to improve their target condition.",ABIDEII-KKI_1_29410,1
+389,389,11.69041096,Female,115.0,right handed,The 11-year-old female patient with a FIQ score of 115 is right-handed.,ABIDEII-KKI_1_29411,1
+390,390,10.97260274,Female,125.0,right handed,The 11-year-old female patient with a FIQ score of 125 and right-handedness is the target individual for analysis.,ABIDEII-KKI_1_29412,1
+391,391,8.736986301,Male,114.0,right handed,The eight-year-old male patient with a FIQ score of 114 and right-handed handedness aims for the Target.,ABIDEII-KKI_1_29413,1
+392,392,9.073972603,Male,84.0,right handed,The 9-year-old male patient with a FSIQ of 84 scored within the average range on the HANS test and is right-handed.,ABIDEII-KKI_1_29415,1
+393,393,8.638356164,Female,114.0,right handed,The 8-year-old female patient diagnosed with high functioning autism scored 114 on the FIQ test and has right-handed dominance as her target.,ABIDEII-KKI_1_29416,1
+394,394,8.624657534,Male,132.0,mixed handed,The 8-year-old male patient with a mixed-handed category and an FIQ score of 132 exhibited symptoms in the Handedness domain.,ABIDEII-KKI_1_29417,1
+395,395,11.76438356,Male,100.0,right handed,The 11-year-old right-handed male patient scored 100 on the FIQ scale.,ABIDEII-KKI_1_29430,1
+396,396,9.093150685,Male,108.0,mixed handed,"The patient, who is male and aged 9.093150685, has a FIQ score of 108.0, and exhibits mixed handedness.",ABIDEII-KKI_1_29433,1
+397,397,8.057534247,Female,99.0,left handed,The 8-year-old female patient with an IQ of 99 and left-handedness is targeting something specific.,ABIDEII-KKI_1_29434,1
+398,398,11.0109589,Male,103.0,right handed,"At 11 years old, the male patient scored 103 on the FIQ and is right-handed.",ABIDEII-KKI_1_29435,1
+399,399,10.05753425,Male,107.0,right handed,The patient is a right-handed male aged 10.57 who scored 107 on the FIQ test and their target was not specified.,ABIDEII-KKI_1_29449,1
+400,400,12.99178082,Male,83.0,right handed,A 13-year-old male right-handed patient has an FIQ score of 83.,ABIDEII-KKI_1_29456,1
+401,401,10.98082192,Male,104.0,right handed,The patient is a right-handed 11-year-old male with a FIQ score of 104.0 and age at scan of approximately 10 years old.,ABIDEII-KKI_1_29458,1
+402,402,10.78630137,Female,105.0,right handed,The patient is a female right-handed individual aged approximately 11 years old with an FIQ score of 105 who has Target as the output field.,ABIDEII-KKI_1_29477,1
+403,403,9.991780822,Male,87.0,right handed,"At the age of 9.991780822, a male patient with an FIQ score of 87.0 is right-handed.",ABIDEII-KKI_1_29479,1
+404,404,9.145205479,Male,93.0,right handed,The patient is a nine-year-old male with a FIQ score of 93 who is right-handed and targets specific areas in the HANDEDNESS_CATEGORY.,ABIDEII-KKI_1_29481,1
+405,405,12.50410959,Male,92.0,right handed,A 12-year-old male with an FIQ score of 92 and right-handed handedness is the target patient.,ABIDEII-KKI_1_29482,1
+406,406,12.70136986,Male,86.0,right handed,The patient is a male aged 12 with an FIQ score of 86 who is right-handed.,ABIDEII-KKI_1_29484,1
+407,407,11.76712329,Male,117.0,right handed,"The 11-year-old male patient, diagnosed with F77 and having a score of 117 on the Handedness Category, aims for a score of Target in their Future Intentions.",ABIDEII-KKI_1_29294,2
+408,408,9.243835616,Female,122.0,mixed handed,"The 9-year-old female patient, mixed-handed, has an FIQ score of 122.",ABIDEII-KKI_1_29295,2
+409,409,10.44383562,Female,98.0,right handed,The female patient aged 10.4 has a FIQ score of 98 and is right-handed with no further data provided.,ABIDEII-KKI_1_29296,2
+410,410,9.665753425,Female,120.0,right handed,The 9-year-old female patient has an FIQ score of 120 in the right-handed category.,ABIDEII-KKI_1_29297,2
+411,411,10.55068493,Female,132.0,right handed,A 10-year-old female patient diagnosed with a High Functioning Autism spectrum disorder (FIQ score of 132) is right-handed and her target is not specified.,ABIDEII-KKI_1_29298,2
+412,412,11.02739726,Female,115.0,right handed,A 11-year-old female patient with an FIQ score of 115 and right-handedness was targeted for intervention.,ABIDEII-KKI_1_29299,2
+413,413,9.734246575,Female,106.0,right handed,A nine-year-old female patient with a FIQ score of 106 had the target defined as right-handed.,ABIDEII-KKI_1_29300,2
+414,414,10.78082192,Female,105.0,right handed,A 10-year-old female patient with an FIQ score of 105 and right-handed dominance has {Target} as their target.,ABIDEII-KKI_1_29301,2
+415,415,11.66849315,Female,119.0,right handed,The 11-year-old female patient diagnosed with schizophrenia has an FSIQ of 119 and uses their right hand.,ABIDEII-KKI_1_29302,2
+416,416,8.556164384,Male,113.0,right handed,The 8-year-old male patient diagnosed with Autism Spectrum Disorder (ASD) scored 113 on the Frenchay Social Communication Questionnaire (FISC) and is right-handed.,ABIDEII-KKI_1_29303,2
+417,417,10.60273973,Female,115.0,left handed,The 10-year-old female patient diagnosed with schizophrenia had a FIQ score of 115 and was left-handed.,ABIDEII-KKI_1_29304,2
+418,418,9.578082192,Male,99.0,right handed,"At the age of 9.6 years old, male patient scored 99 on the FIQ test and targeted an improvement in the right-handed category.",ABIDEII-KKI_1_29305,2
+419,419,9.621917808,Female,111.0,right handed,The 9-year-old right-handed female patient scored 111 on the FIQ at their scan.,ABIDEII-KKI_1_29306,2
+420,420,9.120547945,Female,109.0,right handed,The female patient aged 9 years with an FIQ score of 109 is right-handed.,ABIDEII-KKI_1_29307,2
+421,421,11.84383562,Male,134.0,right handed,The 11-year-old male patient with a Handedness Category of right handed has an FIQ score of 134.,ABIDEII-KKI_1_29308,2
+422,422,9.057534247,Female,95.0,right handed,"The female patient aged 9, diagnosed with high levels of social impairment (FIQ: 95) and targeting treatment for her right-handed condition, requires detailed analysis based on the given metadata.",ABIDEII-KKI_1_29309,2
+423,423,8.024657534,Male,108.0,left handed,The 8-year-old left-handed male patient has an FIQ score of 108 and is the target for analysis.,ABIDEII-KKI_1_29310,2
+424,424,9.750684932,Male,114.0,right handed,The 9-year-old male patient with a Handedness Category of right-handed scored 114 on the FIQ at the time of the scan.,ABIDEII-KKI_1_29311,2
+425,425,9.789041096,Female,109.0,right handed,The 9-year-old female patient diagnosed with high functioning autism (FIQ score of 109) is right-handed and the target for treatment is not specified.,ABIDEII-KKI_1_29312,2
+426,426,8.619178082,Male,121.0,right handed,The 8-year-old male patient diagnosed with high-functioning autism (FIQ score of 121) has targeted right-handedness in their therapy.,ABIDEII-KKI_1_29313,2
+427,427,10.12328767,Male,131.0,right handed,A 10-year-old male patient with an FIQ score of 131 presented with a target in their right-handed handedness category.,ABIDEII-KKI_1_29314,2
+428,428,10.96712329,Female,111.0,right handed,The female patient aged 11 years at the time of scan has a FIQ score of 111 and targets unspecified.,ABIDEII-KKI_1_29315,2
+429,429,10.09041096,Male,108.0,right handed,A ten-year-old male patient diagnosed with high functioning autism (FIQ score of 108) was right-handed and the target for treatment is not specified.,ABIDEII-KKI_1_29316,2
+430,430,10.08767123,Male,105.0,right handed,The 10-year-old male patient diagnosed with 105 on the FIQ scale and targeting treatment is right-handed.,ABIDEII-KKI_1_29317,2
+431,431,8.983561644,Female,116.0,right handed,A female patient aged 9 with an FIQ score of 116 and right-handed handedness aims for the target.,ABIDEII-KKI_1_29318,2
+432,432,9.619178082,Male,115.0,left handed,"The patient, who is male and left-handed, aged 9.62 years old at the time of the scan, has an FIQ score of 115.",ABIDEII-KKI_1_29319,2
+433,433,9.471232877,Male,120.0,left handed,The nine-year-old male patient with a left-handed dominant hand scored 120 on the FIQ test and their target was not mentioned in the input data.,ABIDEII-KKI_1_29320,2
+434,434,12.8739726,Male,108.0,mixed handed,A 12-year-old male with an FIQ score of 108 and mixed-handedness is the target patient for treatment.,ABIDEII-KKI_1_29321,2
+435,435,9.391780822,Female,116.0,mixed handed,The 9-year-old female patient with an FIQ score of 116 and mixed-handedness was diagnosed as the target disease.,ABIDEII-KKI_1_29322,2
+436,436,11.09041096,Male,85.0,right handed,"The 11-year-old male patient diagnosed with high functioning autism, scored 85 on the Autism Diagnostic Observation Schedule (ADOS) and is right-handed.",ABIDEII-KKI_1_29323,2
+437,437,9.021917808,Male,120.0,right handed,The nine-year-old male patient diagnosed with high functioning autism (FIQ score of 120) is right-handed and has no other reported symptoms or conditions that would affect his diagnosis or treatment.,ABIDEII-KKI_1_29324,2
+438,438,10.68767123,Male,104.0,right handed,The 11-year-old male patient with a FIQ score of 104 and right-handed dominance is the target for treatment.,ABIDEII-KKI_1_29325,2
+439,439,12.89863014,Male,117.0,right handed,A 12-year-old male right-handed patient scored 117 on the FIQ test with a target age of 18.,ABIDEII-KKI_1_29326,2
+440,440,11.09589041,Male,109.0,right handed,"The patient is an 11-year-old male with a FRIQ score of 109, right-handed and targeting the HANDEDNESS_CATEGORY.",ABIDEII-KKI_1_29327,2
+441,441,10.08767123,Male,96.0,right handed,The patient who is 10 years old and male has a FIQ score of 96 and is right-handed in the analysis.,ABIDEII-KKI_1_29328,2
+442,442,11.72876712,Female,117.0,right handed,"At the age of 11.73 years old and being female, she has a FIQ score of 117 and is right-handed.",ABIDEII-KKI_1_29329,2
+443,443,11.66027397,Male,114.0,right handed,"The 11-year-old male patient, right-handed, has a FIQ score of 114.",ABIDEII-KKI_1_29330,2
+444,444,10.72876712,Female,122.0,right handed,A 10-year-old female with a FIQ score of 122 and right-handedness aims at an unspecified target.,ABIDEII-KKI_1_29331,2
+445,445,9.117808219,Male,122.0,right handed,"The patient, who is male and right-handed, was aged 9.12 years at the time of their scan; their FIQ score indicates moderate severity while targeting an unspecified condition or symptom.",ABIDEII-KKI_1_29332,2
+446,446,10.80547945,Female,97.0,right handed,"The patient is a 10-year-old female with a FIQ score of 97, and their target is right-handed.",ABIDEII-KKI_1_29333,2
+447,447,8.115068493,Female,89.0,right handed,The 8-year-old female patient has a FSIQ of 89 and is right-handed with the target being specified in the input data.,ABIDEII-KKI_1_29334,2
+448,448,9.64109589,Male,120.0,mixed handed,A nine-year-old male patient with an FIQ score of 120 is mixed-handed.,ABIDEII-KKI_1_29335,2
+449,449,11.14794521,Female,108.0,right handed,The 11-year-old female patient with an FIQ score of 108 is right-handed.,ABIDEII-KKI_1_29336,2
+450,450,12.36164384,Female,110.0,right handed,The female patient aged 12.36 at the time of scan has a FIQ score of 110 and is right-handed.,ABIDEII-KKI_1_29337,2
+451,451,10.82465753,Male,98.0,right handed,"The patient, who is 10.82465753 years old and male, has a FIQ score of 98.0 in the right-handed category with no additional information provided for their Target.",ABIDEII-KKI_1_29338,2
+452,452,8.906849315,Female,109.0,right handed,The 9-year-old female patient diagnosed with high functioning autism scored 109 on the FSIQ and is right-handed.,ABIDEII-KKI_1_29339,2
+453,453,8.331506849,Male,106.0,right handed,"The 8-year-old male patient with a high level of anxiety and symptoms scored 106 on the Fear of Negative Evaluation scale, indicating right-handedness.",ABIDEII-KKI_1_29340,2
+454,454,10.29589041,Male,109.0,right handed,The patient is a 10-year-old male right-handed individual with an FIQ score of 109 and a target unspecified in the given data.,ABIDEII-KKI_1_29341,2
+455,455,9.745205479,Female,111.0,right handed,A 9-year-old right-handed female patient with an FIQ score of 111 is the target for treatment.,ABIDEII-KKI_1_29342,2
+456,456,8.920547945,Female,119.0,right handed,The 9-year-old female patient diagnosed with schizophrenia has a FIQ score of 119 and is right-handed.,ABIDEII-KKI_1_29343,2
+457,457,11.02739726,Male,101.0,right handed,The 11-year-old male patient with an FIQ score of 101 and right-handed dominance is the target for further assessment.,ABIDEII-KKI_1_29345,2
+458,458,12.66027397,Male,100.0,right handed,A 12-year-old male with a FSIQ of 100 and right-handed handedness aims to improve in the Target area.,ABIDEII-KKI_1_29346,2
+459,459,9.375342466,Male,115.0,right handed,The male patient aged 9.38 years old with an FIQ score of 115.0 is right-handed.,ABIDEII-KKI_1_29347,2
+460,460,12.35342466,Male,103.0,right handed,A 12-year-old right-handed male patient with a FIQ score of 103 has {Target} as their target.,ABIDEII-KKI_1_29348,2
+461,461,10.63013699,Male,116.0,right handed,The patient is a 10-year-old right-handed male with an FIQ score of 116.0 and the target is unspecified.,ABIDEII-KKI_1_29349,2
+462,462,11.24383562,Male,114.0,right handed,The 11-year-old male patient with a FIQ score of 114 is right-handed.,ABIDEII-KKI_1_29350,2
+463,463,9.734246575,Female,122.0,right handed,The female patient aged 9.73 had a high FIQ score of 122 and is right-handed.,ABIDEII-KKI_1_29351,2
+464,464,9.405479452,Male,105.0,right handed,The patient is a 9-year-old right-handed male with a FSIQ of 105 and the target score for language assessment is not specified.,ABIDEII-KKI_1_29352,2
+465,465,9.819178082,Female,117.0,right handed,The patient is a right-handed 9-year-old female with an FIQ score of 117.,ABIDEII-KKI_1_29353,2
+466,466,9.295890411,Male,120.0,right handed,The nine-year-old male patient scored 120 on the FIQ test and aimed to improve their right-handedness.,ABIDEII-KKI_1_29354,2
+467,467,11.85205479,Male,114.0,right handed,"The 11-year-old right-handed male patient scored 114 on the FIQ test, which is a measure of their quality of life related to multiple sclerosis.",ABIDEII-KKI_1_29355,2
+468,468,11.72876712,Male,108.0,left handed,The 11-year-old male patient is left-handed and has an FIQ score of 108.,ABIDEII-KKI_1_29356,2
+469,469,12.76438356,Male,109.0,right handed,The patient is a male right-handed individual aged 12.76 years old with an FIQ score of 109.,ABIDEII-KKI_1_29357,2
+470,470,10.4,Female,121.0,right handed,The female patient aged 10.4 had a FIQ score of 121.0 and was right-handed.,ABIDEII-KKI_1_29358,2
+471,471,11.44657534,Male,125.0,right handed,"At the age of 11.45 years old and male, the patient scored 125 on the FIQ scale with a right-handed dominant hand.",ABIDEII-KKI_1_29359,2
+472,472,10.37260274,Male,102.0,mixed handed,"The patient, who is male and aged 10.37 years, has a FIQ score of 102, with mixed handedness, aims for the Target.",ABIDEII-KKI_1_29360,2
+473,473,9.309589041,Male,114.0,right handed,"The nine-year-old male patient, right-handed, has a FIQ score of 114 and Target is not mentioned.",ABIDEII-KKI_1_29361,2
+474,474,10.44383562,Male,111.0,right handed,A 10-year-old male patient diagnosed with Fiq score of 111 and targeting treatment in right-handed category.,ABIDEII-KKI_1_29362,2
+475,475,11.44383562,Female,102.0,right handed,The 11-year-old female patient has an FIQ score of 102 and is right-handed.,ABIDEII-KKI_1_29363,2
+476,476,8.82739726,Female,100.0,right handed,The 8-year-old female patient with a FIQ score of 100 and right-handed dominance has {Target} as their target.,ABIDEII-KKI_1_29364,2
+477,477,12.36986301,Male,120.0,right handed,A 12-year-old male with a FIQ score of 120 is right-handed.,ABIDEII-KKI_1_29365,2
+478,478,9.819178082,Female,122.0,right handed,"A female patient aged 9.82 years old, diagnosed with a high-level of social anxiety disorder (FIQ score: 122), is right-handed.",ABIDEII-KKI_1_29366,2
+479,479,8.942465753,Male,123.0,right handed,A 9-year-old male with an FIQ score of 123 was right-handed.,ABIDEII-KKI_1_29367,2
+480,480,12.16438356,Male,140.0,right handed,The 12-year-old male patient diagnosed with autism spectrum disorder (ASD) has a FIQ score of 140 and is right-handed.,ABIDEII-KKI_1_29368,2
+481,481,9.301369863,Female,102.0,right handed,A 9-year-old female patient with a FIQ score of 102 experienced right-handedness at the time of scanning.,ABIDEII-KKI_1_29369,2
+482,482,12.30410959,Female,123.0,right handed,The 12-year-old female patient has a FIQ score of 123 and is right-handed as her Target.,ABIDEII-KKI_1_29370,2
+483,483,9.936986301,Female,97.0,mixed handed,"The patient is a 9-year-old female mixed-handed individual diagnosed with autism spectrum disorder (ASD), and the target behavior is to improve fine motor skills in her non-dominant hand using the HAP questionnaire score of 97.0.",ABIDEII-KKI_1_29371,2
+484,484,11.75890411,Male,101.0,right handed,The patient is an 11-year-old male with a FIQ score of 101 and right-handed handedness.,ABIDEII-KKI_1_29372,2
+485,485,9.652054795,Male,118.0,right handed,A nine-year-old male patient with an FIQ score of 118 is right-handed and their target has not been specified.,ABIDEII-KKI_1_29373,2
+486,486,11.02465753,Male,109.0,right handed,A 11-year-old male patient with a FIQ score of 109.0 and right-handed handedness.,ABIDEII-KKI_1_29374,2
+487,487,10.29041096,Male,108.0,right handed,A male patient aged 10.29 with an FIQ score of 108 was right-handed at the time of the scan.,ABIDEII-KKI_1_29377,2
+488,488,11.95068493,Male,119.0,right handed,"The 12-year-old male patient, who is right-handed, has a FSIQ score of 119 and the target is unspecified.",ABIDEII-KKI_1_29378,2
+489,489,12.16438356,Male,129.0,mixed handed,The 12-year-old mixed-handed male patient scored 129 on the FIQ at their scan.,ABIDEII-KKI_1_29379,2
+490,490,10.60821918,Male,127.0,right handed,The 10-year-old male patient with a Handedness Category of right-handed has an FIQ score of 127.,ABIDEII-KKI_1_29380,2
+491,491,10.35342466,Male,97.0,right handed,A 10-year-old male with an FIQ score of 97 and right-handedness is the target patient.,ABIDEII-KKI_1_29381,2
+492,492,10.01917808,Male,125.0,right handed,A 10-year-old male patient with a FIQ score of 125 and right-handed handedness aims to achieve the target.,ABIDEII-KKI_1_29382,2
+493,493,10.54246575,Male,127.0,right handed,"The patient, who is male and right-handed, aged 10.54 years at the time of the scan, has a FIQ score of 127, with Target as the primary field for analysis.",ABIDEII-KKI_1_29383,2
+494,494,10.30410959,Male,109.0,right handed,The 10-year-old male patient with a FIQ score of 109 and right-handed handedness aims to improve their Target.,ABIDEII-KKI_1_29384,2
+495,495,8.068493151,Male,119.0,right handed,"The patient, who is an eight-year-old male right-handed individual, has a High Anxiety score of 119 and is targeting improvement in their FIQ.",ABIDEII-KKI_1_29386,2
+496,496,8.594520548,Male,120.0,mixed handed,"The patient is an eight-year-old male with a FIQ score of 120 and mixed handedness, targeting a specific condition for which detailed information is not provided.",ABIDEII-KKI_1_29387,2
+497,497,10.59726027,Male,94.0,left handed,A 10-year-old male with an IQ of 94 and left-handedness is the target patient for assessment.,ABIDEII-KKI_1_29388,2
+498,498,8.178082192,Male,119.0,right handed,The patient is an 8-year-old male right-handed individual diagnosed with a FIQ score of 119.,ABIDEII-KKI_1_29390,2
+499,499,9.268493151,Male,114.0,right handed,The 9-year-old male patient has a right-handed FIQ score of 114.0.,ABIDEII-KKI_1_29395,2
+500,500,11.29863014,Male,140.0,right handed,A 11-year-old male patient diagnosed with schizophrenia has an FIQ score of 140 and their target is unspecified.,ABIDEII-KKI_1_29396,2
+501,501,9.435616438,Male,128.0,right handed,The nine-year-old male patient with an FIQ score of 128 has right-handedness and is a target for further investigation.,ABIDEII-KKI_1_29397,2
+502,502,10.67671233,Male,120.0,right handed,A 10-year-old right-handed male patient with an FIQ score of 120 has the Target as their desired output.,ABIDEII-KKI_1_29399,2
+503,503,8.471232877,Male,100.0,right handed,The 8-year-old male patient with a FIQ score of 100 is right-handed.,ABIDEII-KKI_1_29402,2
+504,504,10.19726027,Female,99.0,right handed,The female patient aged 10 with a high FIQ score of 99 is right-handed.,ABIDEII-KKI_1_29405,2
+505,505,9.232876712,Female,106.0,right handed,The female patient aged 9.23 years old with a FIQ score of 106.0 is right-handed and her target is not specified.,ABIDEII-KKI_1_29407,2
+506,506,11.21643836,Male,112.0,right handed,The 11-year-old male patient with an FIQ score of 112 and right-handed dominance aims to improve their health and function.,ABIDEII-KKI_1_29414,2
+507,507,8.821917808,Male,114.0,right handed,The patient is an 8-year-old male right-handed individual with an FIQ score of 114 and the target is unspecified.,ABIDEII-KKI_1_29418,2
+508,508,9.808219178,Male,135.0,right handed,The 9-year-old male patient diagnosed with high-functioning autism (FQ) scored 135 points on the Autism Diagnostic Observation Schedule and is right-handed.,ABIDEII-KKI_1_29419,2
+509,509,9.742465753,Female,114.0,right handed,A 9-year-old female patient diagnosed with schizophrenia has a High Anxiety Scale score of 114 and is right-handed.,ABIDEII-KKI_1_29420,2
+510,510,11.76438356,Female,123.0,right handed,The 11-year-old female patient with an FIQ score of 123 is right-handed.,ABIDEII-KKI_1_29421,2
+511,511,10.41369863,Female,123.0,left handed,A 10-year-old female patient with a FIQ score of 123 is right-handed.,ABIDEII-KKI_1_29422,2
+512,512,11.0739726,Male,116.0,right handed,The 11-year-old right-handed male patient scored 116 on the FIQ scale and is the target for treatment.,ABIDEII-KKI_1_29423,2
+513,513,8.854794521,Male,101.0,mixed handed,The patient is an 8-year-old male mixed-handed individual with a FIQ score of 101.0 and Target as specified.,ABIDEII-KKI_1_29424,2
+514,514,12.65753425,Male,143.0,right handed,A 12-year-old male with a FIQ score of 143 is targeting the right hand.,ABIDEII-KKI_1_29425,2
+515,515,11.02465753,Male,105.0,right handed,"The patient is an 11-year-old male right-handed individual with a FIQ score of 105.0, targeting specific symptoms and treatment plans.",ABIDEII-KKI_1_29427,2
+516,516,8.64109589,Male,135.0,right handed,"The patient, an 8-year-old male right-handed individual, scores 135 on the FIQ, and their age is approximately 8.64 years old at the time of the scan.",ABIDEII-KKI_1_29428,2
+517,517,11.16986301,Male,110.0,left handed,The 11-year-old left-handed male patient has a FIQ score of 110 and aims for the Target.,ABIDEII-KKI_1_29429,2
+518,518,12.66575342,Male,114.0,right handed,"The patient, a 12-year-old right-handed male with an FIQ score of 114, is the target of the analysis.",ABIDEII-KKI_1_29431,2
+519,519,10.78082192,Female,119.0,mixed handed,The female patient aged 10.78 had an FIQ score of 119 and used both hands for activities.,ABIDEII-KKI_1_29432,2
+520,520,11.15890411,Female,112.0,right handed,The 11-year-old female patient diagnosed with high functioning autism (FIQ score of 112) is right-handed and their target is not specified in the metadata provided.,ABIDEII-KKI_1_29436,2
+521,521,10.15616438,Female,126.0,right handed,The female patient aged 10.2 has an FSIQ score of 126 and targets right-handedness.,ABIDEII-KKI_1_29437,2
+522,522,11.01643836,Female,120.0,right handed,The 11-year-old female patient has a high FIQ score of 120 and is right-handed with the target unspecified.,ABIDEII-KKI_1_29438,2
+523,523,8.783561644,Female,106.0,right handed,The eight-year-old female patient diagnosed with high-functioning autism (FIQ score of 106) is right-handed and the target is to improve her social communication skills.,ABIDEII-KKI_1_29439,2
+524,524,11.3369863,Female,134.0,right handed,"The 11-year-old female patient, right-handed, has an FIQ score of 134 and the target is unspecified.",ABIDEII-KKI_1_29440,2
+525,525,9.282191781,Female,109.0,right handed,"The 9-year-old female patient, right-handed, has a Handicap Appraisal (FIQ) score of 109.",ABIDEII-KKI_1_29441,2
+526,526,11.8109589,Female,103.0,right handed,The 11-year-old female patient with a FIQ score of 103 is right-handed.,ABIDEII-KKI_1_29442,2
+527,527,9.61369863,Male,105.0,right handed,The nine-year-old male patient diagnosed with schizophrenia has a Handedness Category of right-handed and an FIQ score of 105.,ABIDEII-KKI_1_29443,2
+528,528,10.01369863,Female,114.0,right handed,A female patient aged 10.01 with an FIQ score of 114 was right-handed.,ABIDEII-KKI_1_29444,2
+529,529,9.684931507,Female,114.0,right handed,The nine-year-old female patient with a FIQ score of 114 and right-handedness has {AGE_AT_SCAN: 9.684931507} as their age at the time of the scan.,ABIDEII-KKI_1_29445,2
+530,530,9.167123288,Male,107.0,left handed,A nine-year-old male patient diagnosed with 107 on the FIQ scale who is left-handed targets the condition.,ABIDEII-KKI_1_29446,2
+531,531,9.564383562,Male,114.0,right handed,A 9-year-old right-handed male patient with an FIQ score of 114 is the target for analysis.,ABIDEII-KKI_1_29447,2
+532,532,9.136986301,Male,116.0,right handed,The 9-year-old male patient diagnosed with schizophrenia has a FIQ score of 116 and is right-handed as their dominant hand.,ABIDEII-KKI_1_29448,2
+533,533,11.04109589,Male,105.0,mixed handed,The 11-year-old mixed-handed male patient has a FIQ score of 105.0.,ABIDEII-KKI_1_29450,2
+534,534,10.26849315,Male,108.0,right handed,"The patient, aged 10.27, is male and has a FIQ score of 108, with the target being right-handed.",ABIDEII-KKI_1_29451,2
+535,535,9.860273973,Male,105.0,right handed,The 9-year-old male patient with an FIQ score of 105 and right-handed handedness aims to improve their condition.,ABIDEII-KKI_1_29452,2
+536,536,10.05479452,Female,127.0,right handed,The female patient aged 10.05 is right-handed and has an FIQ score of 127.,ABIDEII-KKI_1_29453,2
+537,537,10.37260274,Male,124.0,right handed,The patient is a right-handed male aged 10.37 years who has an FIQ score of 124.0.,ABIDEII-KKI_1_29454,2
+538,538,11.52876712,Male,122.0,right handed,The 11-year-old male patient with a right-handed dominant hand scored 122 on the Forced Choice Questionnaire and is the target for further analysis.,ABIDEII-KKI_1_29455,2
+539,539,9.632876712,Female,127.0,right handed,The female patient aged 9.63 is right-handed and has an FIQ score of 127 as their target.,ABIDEII-KKI_1_29457,2
+540,540,10.37260274,Female,118.0,right handed,The 10-year-old female patient has an FIQ score of 118 and targets treatment towards the right-handed condition.,ABIDEII-KKI_1_29459,2
+541,541,9.156164384,Male,116.0,right handed,The patient is a nine-year-old male right-handed individual whose Full Scale IQ (FIQ) score is 116 and the target for their assessment is not specified.,ABIDEII-KKI_1_29460,2
+542,542,11.28493151,Male,108.0,right handed,"At the age of 11.29 years old, male patient with FIQ score of 108 shows right-handed dominance.",ABIDEII-KKI_1_29461,2
+543,543,9.575342466,Female,118.0,right handed,The 9-year-old female patient with an FIQ score of 118 and right-handed handedness has Target as the remaining input field which is not provided in the data.,ABIDEII-KKI_1_29462,2
+544,544,11.04931507,Female,110.0,right handed,The 11-year-old female patient diagnosed with high-level autism (FIQ score of 110) prefers to use her right hand for activities.,ABIDEII-KKI_1_29463,2
+545,545,12.42739726,Male,135.0,right handed,"The patient, a 12-year-old right-handed male, scored 135 on the FIQ test with the target being to improve their mental health.",ABIDEII-KKI_1_29464,2
+546,546,11.23013699,Male,125.0,right handed,The 11-year-old male patient scored 125 on the FIQ and is right-handed.,ABIDEII-KKI_1_29465,2
+547,547,9.430136986,Female,117.0,right handed,The 9-year-old female patient with an FIQ score of 117 is right-handed and has been targeted in the analysis.,ABIDEII-KKI_1_29466,2
+548,548,11.82191781,Male,123.0,right handed,The patient is an 11-year-old right-handed male with a FIQ score of 123 and the target remains unspecified.,ABIDEII-KKI_1_29467,2
+549,549,10.79726027,Male,125.0,mixed handed,The patient is a male aged 11 who has a mixed-handedness and scores 125 on the FIQ scale with the target unspecified.,ABIDEII-KKI_1_29468,2
+550,550,8.060273973,Male,125.0,right handed,The eight-year-old male patient diagnosed with high-level autism spectrum disorder (ASD) has a Handedness Category of right-handed and aims to achieve an overall improvement in their Functioning Assessment Score from 125.,ABIDEII-KKI_1_29469,2
+551,551,9.208219178,Male,131.0,right handed,The patient is a male aged 9 years who has a high level of disability with an FIQ score of 131 and is right-handed.,ABIDEII-KKI_1_29470,2
+552,552,10.63013699,Male,113.0,right handed,A 10-year-old male with an FIQ score of 113 was targeted for right-handed therapy.,ABIDEII-KKI_1_29471,2
+553,553,10.10958904,Male,109.0,left handed,The 10-year-old left-handed male patient has an FIQ score of 109.0 and the Target value is not provided.,ABIDEII-KKI_1_29472,2
+554,554,8.898630137,Male,119.0,right handed,The 8-year-old male patient with an FIQ score of 119 and right-handedness aims for a Target.,ABIDEII-KKI_1_29473,2
+555,555,12.66027397,Male,111.0,right handed,A 12-year-old male with an FIQ score of 111 and right-handedness aims for the target.,ABIDEII-KKI_1_29474,2
+556,556,10.69589041,Male,133.0,right handed,The patient is a right-handed male aged 10.7 years with an FIQ score of 133.,ABIDEII-KKI_1_29475,2
+557,557,11.65753425,Male,109.0,right handed,The 11-year-old male patient diagnosed with autism spectrum disorder (ASD) has a Handedness Category score of right-handed and a FIQ score of 109.,ABIDEII-KKI_1_29476,2
+558,558,10.58630137,Male,105.0,right handed,"The patient, who is male and right-handed, aged 10.6 years at the time of the scan, has a FIQ score of 105, with the target being unspecified in the provided data.",ABIDEII-KKI_1_29478,2
+559,559,12.60547945,Male,129.0,right handed,A 12-year-old male patient with an FIQ score of 129 was diagnosed with a target condition and is right-handed.,ABIDEII-KKI_1_29480,2
+560,560,9.632876712,Male,118.0,right handed,The 9-year-old male patient with an FIQ score of 118 is right-handed.,ABIDEII-KKI_1_29483,2
+561,561,8.846575342,Female,115.0,right handed,The 8-year-old right-handed female patient has a FIQ score of 115 and is being targeted for treatment.,ABIDEII-KKI_1_29485,2
+562,562,21.0,Male,105.0,right handed,The 21-year-old male patient diagnosed with 105 on the FIQ scale is right-handed.,ABIDEII-KUL_3_29656,1
+563,563,20.0,Male,92.0,right handed,"The 20-year-old male patient with an FIQ score of 92 and right-handed dominance has ""Target"" as the input field which is not included in the provided data.",ABIDEII-KUL_3_29657,1
+564,564,25.0,Male,108.0,right handed,A 25-year-old male with an FIQ score of 108 and right-handed handedness as the target is being analyzed in this input.,ABIDEII-KUL_3_29658,1
+565,565,23.0,Male,83.0,left handed,"The patient, aged 23 and left-handed, has an FIQ score of 83 in their dominant hand.",ABIDEII-KUL_3_29659,1
+566,566,25.0,Male,89.0,right handed,The 25-year-old male with a FIQ score of 89 presents as right-handed.,ABIDEII-KUL_3_29660,1
+567,567,25.0,Male,104.0,right handed,A 25-year-old male with an FIQ score of 104 and right-handedness aims for a target.,ABIDEII-KUL_3_29661,1
+568,568,25.0,Male,84.0,right handed,A 25-year-old right-handed male with an FIQ score of 84 presents the target condition.,ABIDEII-KUL_3_29662,1
+569,569,18.0,Male,146.0,right handed,The 18-year-old male patient with an FIQ score of 146.0 is right-handed.,ABIDEII-KUL_3_29664,1
+570,570,19.0,Male,104.0,left handed,A 19-year-old left-handed male patient with an FIQ score of 104 is the target individual in this analysis.,ABIDEII-KUL_3_29665,1
+571,571,20.0,Male,107.0,left handed,A 20-year-old male patient with a FIQ score of 107 and left-handedness has the target as their primary condition.,ABIDEII-KUL_3_29666,1
+572,572,24.0,Male,98.0,right handed,The 24-year-old male with an FIQ score of 98 is right-handed.,ABIDEII-KUL_3_29667,1
+573,573,27.0,Male,122.0,right handed,A 27-year-old male right-handed individual has a FIQ score of 122.0.,ABIDEII-KUL_3_29668,1
+574,574,22.0,Male,104.0,right handed,The 22-year-old male patient diagnosed with a high level of anxiety (FIQ score of 104) has right-handedness as his dominant hand.,ABIDEII-KUL_3_29669,1
+575,575,18.0,Male,115.0,right handed,The 18-year-old male patient with an FIQ score of 115 and right-handed handedness has Target as the last input field.,ABIDEII-KUL_3_29670,1
+576,576,24.0,Male,115.0,right handed,The 24-year-old male patient with an FIQ score of 115 and right-handed dominance has {Target} as their target outcome.,ABIDEII-KUL_3_29671,1
+577,577,30.0,Male,113.0,right handed,A 30-year-old male with a FIQ score of 113 presented with right-handed dominance.,ABIDEII-KUL_3_29674,1
+578,578,33.0,Male,100.0,right handed,A 33-year-old male with an FIQ score of 100 and right-handed handedness is the target patient for analysis.,ABIDEII-KUL_3_29675,1
+579,579,26.0,Male,104.0,right handed,A 26-year-old male with an FIQ score of 104 and right-handed handedness is the target patient.,ABIDEII-KUL_3_29676,1
+580,580,18.0,Male,127.0,right handed,The 18-year-old male right-handed patient has an FIQ score of 127 and is the target for treatment.,ABIDEII-KUL_3_29677,1
+581,581,18.0,Male,100.0,right handed,An 18-year-old male with a FIQ score of 100 was right-handed.,ABIDEII-KUL_3_29678,1
+582,582,24.0,Male,123.0,right handed,A 24-year-old right-handed male with a FSIQ of 123 scored a target in their Handedness Category.,ABIDEII-KUL_3_29679,1
+583,583,18.0,Male,113.0,right handed,The 18-year-old right-handed male patient has an FIQ score of 113 and is the target for analysis.,ABIDEII-KUL_3_29794,1
+584,584,24.0,Male,73.0,right handed,A 24-year-old male with a FIQ score of 73 and right-handed handedness is the target patient for analysis.,ABIDEII-KUL_3_29795,1
+585,585,19.0,Male,122.0,left handed,A 19-year-old male left-handed patient with an FSIQ of 122 and the target is described in the input data.,ABIDEII-KUL_3_29796,1
+586,586,24.0,Male,119.0,right handed,"A 24-year-old male with an FIQ score of 119, right-handed, has been diagnosed as the target condition.",ABIDEII-KUL_3_29797,1
+587,587,21.0,Male,103.0,right handed,The patient is a 21-year-old male right-handed individual with an FIQ score of 103.,ABIDEII-KUL_3_29798,1
+588,588,35.0,Male,87.0,left handed,"The patient who is a male left-hander aged 35, has an FIQ score of 87 as their target in the analysis.",ABIDEII-KUL_3_29799,1
+589,589,34.0,Male,125.0,left handed,The 34-year-old male patient diagnosed with 125 on the Fugl-Meyer assessment has left-handed dominance.,ABIDEII-KUL_3_29800,1
+590,590,10.0,Female,74.0,right handed,A 10-year-old female patient with an FIQ score of 74 and right-handed handedness has been identified as the target for further analysis.,ABIDEII-NYU_1_29177,1
+591,591,13.63,Male,100.0,,The 13-year-old male patient with an unspecified hand dominance and a FIQ score of 100 has {Target} as the target variable.,ABIDEII-NYU_1_29178,1
+592,592,7.25,Male,89.0,mixed handed,The 7-year-old mixed-handed male patient with an FIQ score of 89.0 has Target as the output field.,ABIDEII-NYU_1_29179,1
+593,593,6.55,Male,78.0,,"A six-year-old male patient diagnosed with autism spectrum disorder (ASD) and exhibiting moderate functional abilities, scored a total of 78 on the Functional Assessment of New Children's Behaviour (FACB), primarily using his right hand for tasks.",ABIDEII-NYU_1_29180,1
+594,594,8.3,Male,126.0,right handed,The patient is an 8-year-old male right-handed individual with an FIQ score of 126.,ABIDEII-NYU_1_29181,1
+595,595,5.928,Male,103.0,left handed,The patient aged 5.93 years old is a left-handed male with a FIQ score of 103 and their target is unspecified.,ABIDEII-NYU_1_29182,1
+596,596,7.68,Male,100.0,,"The 7-year-old male patient has a high FIQ score of 100, with no information on handedness provided in the input data.",ABIDEII-NYU_1_29183,1
+597,597,7.3,Male,75.0,right handed,The 7-year-old male patient with a FIQ score of 75 is right-handed.,ABIDEII-NYU_1_29184,1
+598,598,7.76,Male,73.0,mixed handed,"The patient is a male aged 7.76 years old, who has a high functioning autism diagnosis with an FIQ score of 73 and mixed hand preference.",ABIDEII-NYU_1_29185,1
+599,599,7.17,Male,106.0,right handed,"The 7-year-old male patient diagnosed with autism spectrum disorder (ASD) has a High-functioning Intellectual Disability (FIQ score of 106), and is right-handed.",ABIDEII-NYU_1_29186,1
+600,600,5.43,Male,117.0,right handed,The five-year-old male patient with an FIQ score of 117.0 is right-handed.,ABIDEII-NYU_1_29187,1
+601,601,8.27,Male,134.0,right handed,The 8-year-old right-handed male patient has an FIQ score of 134.0 as their target.,ABIDEII-NYU_1_29188,1
+602,602,5.32,Male,78.0,,The 5-year-old male patient with an FIQ score of 78 displays no handedness category in their metadata.,ABIDEII-NYU_1_29189,1
+603,603,12.49,Male,67.0,,"At 12.49 years old, a male patient presented with an FIQ score of 67.0 and target information not available.",ABIDEII-NYU_1_29190,1
+604,604,9.39,Male,88.0,right handed,"The patient is a 9-year-old male with an FIQ score of 88, who is right-handed and targets their scans.",ABIDEII-NYU_1_29191,1
+605,605,11.28,Male,109.0,,The 11-year-old male patient with a FSIQ of 109 scored poorly in the HANDEDNESS test category.,ABIDEII-NYU_1_29192,1
+606,606,7.18,Male,126.0,right handed,The 7-year-old right-handed male patient has a FIQ score of 126.0.,ABIDEII-NYU_1_29193,1
+607,607,5.92,Male,104.0,,"The 5-year-old male patient diagnosed with autism spectrum disorder (ASD) and scored 104 on the Floor of Language (FLOL) test, does not have a dominant hand.",ABIDEII-NYU_1_29194,1
+608,608,7.19,Male,89.0,,The 7-year-old male patient with an FIQ score of 89 had no handedness category provided in the dataset.,ABIDEII-NYU_1_29195,1
+609,609,10.41,Male,114.0,right handed,A 10-year-old male patient with a FSIQ of 114 and right-handed handedness has been targeted for analysis.,ABIDEII-NYU_1_29196,1
+610,610,11.99,Male,103.0,mixed handed,The 11-year-old male patient with a mixed-handedness scored 103 on the FIQ at the age of 11.,ABIDEII-NYU_1_29197,1
+611,611,10.24,Male,87.0,right handed,A 10-year-old male patient with an FIQ score of 87 and right-handed handedness is the target for treatment.,ABIDEII-NYU_1_29198,1
+612,612,8.33,Male,138.0,right handed,"The 8-year-old male patient diagnosed with autism spectrum disorder (ASD) and right-handed has a Handedness Category of 1 (Right Handed), Functional Assessment Numerical Score (FANS) of 138.",ABIDEII-NYU_1_29199,1
+613,613,13.16,Male,93.0,right handed,The 13-year-old male patient with a FIQ score of 93 and right-handed dominance as their target condition shows promising improvement.,ABIDEII-NYU_1_29200,1
+614,614,9.61,Male,110.0,right handed,"The patient is a nine-year-old male with an IQ of 110 and right-handed dominance, targeting improvement in their Fine Motor skills (FIQ) at this age.",ABIDEII-NYU_1_29201,1
+615,615,7.17,Male,80.0,mixed handed,A 7-year-old male with an FIQ score of 80 and mixed hand dominance was the patient.,ABIDEII-NYU_1_29202,1
+616,616,26.06,Male,116.0,,The patient is a 26-year-old male with an FIQ score of 116.0 and no handedness category specified.,ABIDEII-NYU_1_29203,1
+617,617,12.64,Male,124.0,right handed,A 12-year-old male patient with a FIQ score of 124 and right-handed handedness is the target for analysis.,ABIDEII-NYU_1_29204,1
+618,618,26.62,Male,90.0,right handed,"The patient, who is male and right-handed, aged 26.62 at the time of the scan, has a FIQ score of 90.0 as their target.",ABIDEII-NYU_1_29205,1
+619,619,6.7,Male,113.0,right handed,"The patient, who is a 6.7 years old male right-handed individual, has a FIQ score of 113.0 and the target is unspecified.",ABIDEII-NYU_1_29206,1
+620,620,10.64,Male,91.0,right handed,"The patient, aged 10.64 and male, has a FIQ score of 91.0, indicating an overall severity of their condition, with right-handed dominance.",ABIDEII-NYU_1_29207,1
+621,621,8.23,Male,98.0,mixed handed,"The patient is an eight-year-old male with a high-functioning autism spectrum disorder (FIQ score of 98), and they are mixed-handed.",ABIDEII-NYU_1_29208,1
+622,622,8.03,Male,74.0,mixed handed,An 8-year-old male patient with a mixed-handedness is diagnosed with a FIQ score of 74.0.,ABIDEII-NYU_1_29209,1
+623,623,8.3,Male,108.0,left handed,The 8-year-old left-handed male patient scored 108 on the FIQ test and is targeting a specific goal.,ABIDEII-NYU_1_29210,1
+624,624,17.93,Male,109.0,right handed,The patient is a 17-year-old male with an FIQ score of 109 who is right-handed.,ABIDEII-NYU_1_29211,1
+625,625,34.76,Female,116.0,right handed,The 34-year-old female patient scored 116 on the FIQ scale and set the target at right-handedness.,ABIDEII-NYU_1_29212,1
+626,626,8.82,Female,79.0,mixed handed,The 8-year-old female patient diagnosed with schizophrenia has a FIQ score of 79 and is mixed-handed.,ABIDEII-NYU_1_29213,1
+627,627,6.417,Male,98.0,right handed,A six-year-old male patient with an FIQ score of 98 and right-handed handedness is the target for analysis.,ABIDEII-NYU_1_29214,1
+628,628,8.03,Male,136.0,right handed,The 8-year-old right-handed male patient has an FIQ score of 136.,ABIDEII-NYU_1_29215,1
+629,629,7.57,Male,108.0,mixed handed,The 7-year-old mixed-handed male patient has an FIQ score of 108 and is the target for treatment.,ABIDEII-NYU_1_29216,1
+630,630,6.75,Female,91.0,right handed,A 6-year-old female patient diagnosed with an IQ of 91 and targeting treatment in the right-handed category.,ABIDEII-NYU_1_29217,1
+631,631,8.16,Male,99.0,right handed,The 8-year-old right-handed male patient has a high FIQ score of 99.0.,ABIDEII-NYU_1_29218,1
+632,632,5.96,Male,100.0,right handed,A 5.96-year-old male patient with an FIQ score of 100.0 and right-handed handedness is the target for analysis.,ABIDEII-NYU_1_29219,1
+633,633,8.61,Male,124.0,right handed,"The 8-year-old male patient diagnosed with autism spectrum disorder (ASD) scored 124 on the Social Responsiveness Scale (SRS), targeting improvements in social communication skills and emotional regulation.",ABIDEII-NYU_1_29220,1
+634,634,10.89,Male,111.0,right handed,The 10-year-old male patient with an FIQ score of 111 and right-handed handedness is the target for treatment.,ABIDEII-NYU_1_29221,1
+635,635,14.98,Male,128.0,right handed,The 15-year-old male patient with an IQ of 128 and right-handed dominance has been scanned.,ABIDEII-NYU_1_29222,1
+636,636,6.41,Male,,,The patient is a male aged 6.41 years who has not been diagnosed with FIQ but may be right-handed.,ABIDEII-NYU_1_29223,1
+637,637,5.22,Female,109.0,,The female patient aged 5.22 years with an FIQ score of 109.0 has no handedness information available.,ABIDEII-NYU_1_29224,1
+638,638,6.664,Male,128.0,right handed,"A 6-year-old male patient, right-handed, scored 128 on the FIQ and was diagnosed with a target condition.",ABIDEII-NYU_1_29225,2
+639,639,5.9,Male,107.0,right handed,"The patient, who is right-handed and male, aged 5.9 years old at the time of scan, has a FIQ score of 107.0 as their target.",ABIDEII-NYU_1_29226,2
+640,640,7.958,Male,95.0,right handed,The patient is a 8-year-old male with an FSIQ of 95 in the right-handed category.,ABIDEII-NYU_1_29227,2
+641,641,9.231,Male,114.0,right handed,The 9-year-old male patient scored 114 on the FIQ test and is right-handed with a target.,ABIDEII-NYU_1_29228,2
+642,642,5.907,Female,91.0,right handed,A 6-year-old right-handed female patient with a FIQ score of 91 and no additional information was targeted for treatment.,ABIDEII-NYU_1_29229,2
+643,643,8.164,Male,120.0,right handed,The 8-year-old male patient with a FIQ score of 120 is right-handed.,ABIDEII-NYU_1_29230,2
+644,644,8.887,Male,131.0,right handed,The 8-year-old male patient with an FIQ score of 131.0 is right-handed.,ABIDEII-NYU_1_29231,2
+645,645,10.862,Male,144.0,right handed,"The patient is a 10-year-old male with a FIQ score of 144, right-handed and targeting an unspecified goal.",ABIDEII-NYU_1_29233,2
+646,646,10.541,Male,93.0,right handed,The patient is a 10-year-old male right-handed individual with an FIQ score of 93 and is the target of the study.,ABIDEII-NYU_1_29234,2
+647,647,9.033,Male,104.0,right handed,A nine-year-old male patient diagnosed with autism spectrum disorder (ASD) and functional impairment index of 104 has the target condition of right-handedness.,ABIDEII-NYU_1_29235,2
+648,648,6.363,Male,113.0,right handed,A 6-year-old male right-handed patient with a FIQ score of 113 is the target of this analysis.,ABIDEII-NYU_1_29236,2
+649,649,9.529,Male,100.0,right handed,The nine-year-old male patient with a Handedness Category of right-handed has an FIQ score of 100.0.,ABIDEII-NYU_1_29237,2
+650,650,7.24,Male,92.0,right handed,The 7-year-old male patient with an FIQ score of 92 and right-handed handiness has been targeted for further evaluation and treatment.,ABIDEII-NYU_1_29238,2
+651,651,11.32,Male,126.0,right handed,A 11-year-old right-handed male patient scored 126 on the FIQ at their scan.,ABIDEII-NYU_1_29239,2
+652,652,10.68,Male,124.0,right handed,The patient aged 10.68 is male and has a FIQ score of 124.0 with right-handed dominance.,ABIDEII-NYU_1_29240,2
+653,653,8.15,Male,110.0,right handed,The 8-year-old right-handed male patient with a FIQ score of 110 displays the target condition.,ABIDEII-NYU_1_29241,2
+654,654,23.81,Female,119.0,right handed,The female patient aged 23.81 years old has a FIQ score of 119 and is right-handed with the target unspecified.,ABIDEII-NYU_1_29242,2
+655,655,11.34,Male,119.0,right handed,The 11-year-old male patient with an FIQ score of 119 is right-handed.,ABIDEII-NYU_1_29243,2
+656,656,8.57,Male,131.0,right handed,"The patient is an 8-year-old male with a FIQ score of 131 and right-handed, targeting unspecified symptoms.",ABIDEII-NYU_1_29244,2
+657,657,9.0,Male,127.0,right handed,The 9-year-old male patient with a right-handed dominant hand and an FIQ score of 127 is the target for treatment.,ABIDEII-NYU_1_29245,2
+658,658,11.2,Male,126.0,right handed,The 11-year-old right-handed male patient has a FIQ score of 126.0 and is the target of the assessment.,ABIDEII-NYU_1_29246,2
+659,659,9.54,Male,132.0,right handed,A nine-year-old male patient with a high FSIQ score of 132 and right-handed handedness aims to improve their cognitive abilities.,ABIDEII-NYU_1_29247,2
+660,660,11.09,Male,118.0,right handed,A 11-year-old right-handed male patient with an FIQ score of 118 presents the target condition.,ABIDEII-NYU_1_29248,2
+661,661,12.47,Male,120.0,right handed,A 12-year-old male with an FIQ score of 120 is right-handed and the target is not specified in the provided metadata.,ABIDEII-NYU_1_29249,2
+662,662,12.9,Male,93.0,right handed,"The patient is a 12-year-old male with a FIQ score of 93 and right-handed, targeting an unspecified goal.",ABIDEII-NYU_1_29250,2
+663,663,9.19,Male,128.0,right handed,A 9-year-old right-handed male patient with an FIQ score of 128 has Target as the fourth input field in a single English sentence.,ABIDEII-NYU_1_29251,2
+664,664,9.48,Male,136.0,mixed handed,"The 9-year-old male patient diagnosed with autism spectrum disorder (ASD) and mixed-handedness scored 136 on the Social Responsiveness Scale (SRS), making it a challenging case for treatment.",ABIDEII-NYU_1_29252,2
+665,665,5.887,Male,92.0,,A 5-year-old male patient with a FIQ score of 92 and no handedness information is the target for analysis.,ABIDEII-NYU_1_29253,2
+666,666,7.109,Male,108.0,right handed,The 7-year-old male patient with an FIQ score of 108 and right-handed dominance has Target as the main parameter to analyze.,ABIDEII-NYU_1_29254,2
+667,667,6.05,Male,90.0,mixed handed,A six-year-old male patient with a mixed-handed status and an FIQ score of 90.0 is the target individual in this case.,ABIDEII-NYU_2_29150,1
+668,668,7.169,Male,112.0,right handed,The 7-year-old male patient with an FIQ score of 112 is right-handed.,ABIDEII-NYU_2_29151,1
+669,669,8.014,Male,122.0,right handed,The 8-year-old male patient has a FIQ score of 122 in the right hand category.,ABIDEII-NYU_2_29152,1
+670,670,6.966,Male,99.0,mixed handed,The 7-year-old mixed-handed male patient scored 99 on the FIQ at their scan.,ABIDEII-NYU_2_29153,1
+671,671,8.451,Male,82.0,right handed,A 8-year-old male right-handed patient with an FIQ score of 82 is the target for treatment.,ABIDEII-NYU_2_29154,1
+672,672,6.917,Male,113.0,right handed,The 7-year-old male patient with a FIQ score of 113 and right-handed dominance was the subject of the analysis.,ABIDEII-NYU_2_29155,1
+673,673,8.156,Male,110.0,left handed,The left-handed 8-year-old male patient diagnosed with autism spectrum disorder has an FIQ score of 110.,ABIDEII-NYU_2_29156,1
+674,674,7.755,Male,107.0,mixed handed,"The patient is a male aged 7.75 years old, has a FIQ score of 107, and is mixed-handed.",ABIDEII-NYU_2_29157,1
+675,675,7.09,Male,143.0,right handed,A seven-year-old male with an FIQ score of 143 and right-handed handedness is the patient target for analysis.,ABIDEII-NYU_2_29158,1
+676,676,6.56,Male,101.0,left handed,The six-year-old male left-handed patient has a High Anxiety Neurosis score of 101.0.,ABIDEII-NYU_2_29159,1
+677,677,7.049,Female,113.0,left handed,The 7-year-old female patient with an FIQ score of 113 and left-handedness has {TARGET} as their target.,ABIDEII-NYU_2_29160,1
+678,678,5.603,Male,94.0,right handed,The 5-year-old male patient has a high IQ of 94 and is right-handed with the target in mind.,ABIDEII-NYU_2_29161,1
+679,679,6.96,Male,106.0,,The patient is a male aged 6.96 years who has a Full Scale IQ (FIQ) of 106 and no information on handedness in the given data.,ABIDEII-NYU_2_29162,1
+680,680,5.53,Male,114.0,mixed handed,"The patient is a 5-year-old male with a mixed handedness and an FIQ score of 114, targeting a specific condition.",ABIDEII-NYU_2_29163,1
+681,681,6.194,Male,83.0,mixed handed,"The six-year-old male patient, who is mixed-handed and scored 83 on the FIQ scale, is the target of this analysis.",ABIDEII-NYU_2_29164,1
+682,682,7.67,Male,98.0,right handed,The seven-year-old male patient with a right-handed dominant hand and a FIQ score of 98 has {Target} as their target.,ABIDEII-NYU_2_29165,1
+683,683,6.167,Male,99.0,right handed,The male patient aged 6.17 years old with an IQ score of 99 has the target of being right-handed.,ABIDEII-NYU_2_29166,1
+684,684,5.255,Male,117.0,right handed,The 5-year-old male patient with an FIQ score of 117 is right-handed.,ABIDEII-NYU_2_29167,1
+685,685,7.275,Male,101.0,left handed,A male patient aged 7.28 years old with left-handedness was diagnosed with a high FIQ score of 101 and targeted for treatment.,ABIDEII-NYU_2_29168,1
+686,686,5.598,Male,136.0,mixed handed,"The 5-year-old male patient, mixed-handed, has an FIQ score of 136 and is the target for analysis.",ABIDEII-NYU_2_29169,1
+687,687,5.128,Male,111.0,right handed,The 5-year-old male patient diagnosed with 111 on the FIQ scale and right-handed has {Target} as their target for improvement.,ABIDEII-NYU_2_29170,1
+688,688,8.844,Female,89.0,right handed,The female patient aged 8 years and 9 months at the time of the scan has a FIQ score of 89 and is right-handed.,ABIDEII-NYU_2_29171,1
+689,689,7.75,Male,114.0,right handed,The 7.75-year-old male patient has a right-handed FIQ score of 114.0.,ABIDEII-NYU_2_29172,1
+690,690,5.819,Female,111.0,,The 5-year-old female patient diagnosed with an IQ of 111 shows no preference between their two hands.,ABIDEII-NYU_2_29173,1
+691,691,5.295,Male,118.0,mixed handed,The five-year-old mixed-handed male patient scored 118 on the FIQ at the scan.,ABIDEII-NYU_2_29174,1
+692,692,7.876,Male,101.0,right handed,A seven-year-old male patient diagnosed with autism spectrum disorder (ASD) and right-handed has a Handedness Category score of 1 in the Handedness and Finger Orientation Scale (HFOS).,ABIDEII-NYU_2_29175,1
+693,693,5.951,Male,111.0,right handed,A 6-year-old right-handed male patient with an FIQ score of 111 was the subject of the analysis.,ABIDEII-NYU_2_29176,1
+694,694,14.0,Male,114.0,mixed handed,A 14-year-old male mixed-handed patient scored 114 on the FIQ at their scan.,ABIDEII-OHSU_1_28920,1
+695,695,12.0,Male,122.0,right handed,A 12-year-old male with an FIQ score of 122 and right-handed handedness is the target patient for analysis.,ABIDEII-OHSU_1_28924,1
+696,696,9.0,Male,121.0,right handed,"The patient is a 9-year-old male with an FIQ score of 121, who is right-handed.",ABIDEII-OHSU_1_28925,1
+697,697,11.0,Male,110.0,right handed,The 11-year-old male patient diagnosed with 110 on the FIQ scale and right-handed has {Target} as their target variable.,ABIDEII-OHSU_1_28926,1
+698,698,13.0,Male,84.0,right handed,The 13-year-old male patient with an FIQ score of 84 and right-handed dominance has {Target} as their target value.,ABIDEII-OHSU_1_28927,1
+699,699,13.0,Male,90.0,right handed,A 13-year-old male with an FIQ score of 90 and right-handed dominance is the target patient for analysis.,ABIDEII-OHSU_1_28930,1
+700,700,13.0,Male,110.0,right handed,"The 13-year-old male patient, right-handed, has an FIQ score of 110.0 as their target value.",ABIDEII-OHSU_1_28931,1
+701,701,13.0,Male,119.0,right handed,"The 13-year-old male patient, who is right-handed and has a FIQ score of 119, aims to achieve the Target outcome.",ABIDEII-OHSU_1_28933,1
+702,702,7.0,Female,78.0,right handed,"The 7-year-old female patient, assessed to have an FSIQ of 78 and right-handed, is the target individual for this analysis.",ABIDEII-OHSU_1_28934,1
+703,703,12.0,Male,113.0,right handed,The patient aged 12 is a right-handed male with a FIQ score of 113 and Target unspecified.,ABIDEII-OHSU_1_28935,1
+704,704,9.0,Male,87.0,right handed,"A 9-year-old male patient, right-handed, scored 87 on the Forced Choice Questionnaire at their HANSEN test scan.",ABIDEII-OHSU_1_28936,1
+705,705,14.0,Male,104.0,right handed,A 14-year-old male patient with a FIQ score of 104 and right-handed dominance aims to achieve their target.,ABIDEII-OHSU_1_28937,1
+706,706,15.0,Male,122.0,right handed,"The patient, who is 15 years old and right-handed male, has a FIQ score of 122.0.",ABIDEII-OHSU_1_28938,1
+707,707,11.0,Male,116.0,right handed,The 11-year-old male patient diagnosed with Fregni score of 116.0 is right-handed.,ABIDEII-OHSU_1_28939,1
+708,708,7.0,Male,122.0,right handed,The 7-year-old male patient has a FIQ score of 122 and is right-handed.,ABIDEII-OHSU_1_28940,1
+709,709,14.0,Male,130.0,right handed,A 14-year-old right-handed male with an FIQ score of 130 was the target subject for analysis.,ABIDEII-OHSU_1_28941,1
+710,710,15.0,Female,128.0,right handed,A 15-year-old female patient with a FIQ score of 128 and right-handed handedness as their target condition.,ABIDEII-OHSU_1_28942,1
+711,711,10.0,Male,118.0,right handed,The 10-year-old male patient scored 118 on the FSIQ test and had right-handed dominance as their primary hand use for performing tasks.,ABIDEII-OHSU_1_28949,1
+712,712,12.0,Male,72.0,right handed,A 12-year-old male patient with a FIQ score of 72 and right-handedness was scanned as their target.,ABIDEII-OHSU_1_28952,1
+713,713,15.0,Male,102.0,right handed,A 15-year-old male right-handed patient has a FIQ score of 102.,ABIDEII-OHSU_1_28957,1
+714,714,12.0,Male,111.0,right handed,A 12-year-old male with an FIQ score of 111 and right-handed handedness as his target is being analyzed.,ABIDEII-OHSU_1_28958,1
+715,715,10.0,Female,110.0,right handed,A 10-year-old right-handed female patient with an FIQ score of 110 has been diagnosed as the target condition.,ABIDEII-OHSU_1_28962,1
+716,716,10.0,Male,114.0,right handed,The 10-year-old male patient with an FIQ score of 114 and right-handed dominant hand is the target of the study.,ABIDEII-OHSU_1_28963,1
+717,717,14.0,Male,128.0,right handed,"The 14-year-old male patient diagnosed with autism spectrum disorder (ASD) and scored 128 on the Social Responsiveness Scale (SRS), exhibits right-handed dominance in cognitive tasks.",ABIDEII-OHSU_1_28964,1
+718,718,13.0,Male,94.0,right handed,The 13-year-old right-handed male patient with an FIQ score of 94 has Target as their primary goal.,ABIDEII-OHSU_1_28966,1
+719,719,13.0,Male,92.0,right handed,The 13-year-old male patient has an FIQ score of 92 and is right-handed.,ABIDEII-OHSU_1_28967,1
+720,720,8.0,Female,92.0,left handed,The 8-year-old female patient with an FIQ score of 92 and left-handedness has {Target} as their target.,ABIDEII-OHSU_1_28968,1
+721,721,14.0,Male,78.0,right handed,The 14-year-old male patient has an FIQ score of 78 in their right hand.,ABIDEII-OHSU_1_28972,1
+722,722,11.0,Male,116.0,right handed,A 11-year-old male right-handed patient scored 116 on the FIQ at the age of 11.,ABIDEII-OHSU_1_28982,1
+723,723,14.0,Male,104.0,right handed,The 14-year-old male patient with a FIQ score of 104 is right-handed.,ABIDEII-OHSU_1_28986,1
+724,724,14.0,Male,84.0,right handed,A 14-year-old male with an FIQ score of 84 and right-handed handedness has {Target} as the target variable.,ABIDEII-OHSU_1_28987,1
+725,725,11.0,Female,96.0,right handed,"The 11-year-old female patient, who is right-handed and has a FIQ score of 96, aims to achieve the Target.",ABIDEII-OHSU_1_28988,1
+726,726,13.0,Male,102.0,right handed,A 13-year-old male with a FIQ score of 102 and right-handed handedness is the target patient for treatment.,ABIDEII-OHSU_1_28992,1
+727,727,8.0,Male,82.0,right handed,The 8-year-old male patient with an FIQ score of 82 and right-handed handedness has the Target as the primary focus.,ABIDEII-OHSU_1_28995,1
+728,728,12.0,Female,122.0,right handed,The 12-year-old female patient diagnosed with high-level autism spectrum disorder (ASD) on the right side scored 122 points in the Autism Screening Test.,ABIDEII-OHSU_1_28997,1
+729,729,9.0,Male,136.0,right handed,A 9-year-old male right-handed patient with an FIQ score of 136 is the target for intervention.,ABIDEII-OHSU_1_28998,1
+730,730,12.0,Female,98.0,right handed,The 12-year-old female patient has an FIQ score of 98 and is right-handed.,ABIDEII-OHSU_1_30156,1
+731,731,11.0,Female,117.0,right handed,The 11-year-old female patient diagnosed with 117 on the FIQ scale and right-handed in HANDEDNESS_CATEGORY aims to achieve their Target.,ABIDEII-OHSU_1_28943,2
+732,732,10.0,Female,120.0,right handed,A female patient aged 10 with an FIQ score of 120 is right-handed.,ABIDEII-OHSU_1_28944,2
+733,733,11.0,Female,111.0,right handed,The 11-year-old female patient diagnosed with a score of 111 on the FIQ test is right-handed.,ABIDEII-OHSU_1_28945,2
+734,734,9.0,Female,126.0,right handed,A 9-year-old female patient diagnosed with autism spectrum disorder (ASD) and scored 126 on the Social Responsiveness Scale (SRS) has right-handed dominant hand preference.,ABIDEII-OHSU_1_28946,2
+735,735,10.0,Female,94.0,right handed,A 10-year-old female with an FIQ score of 94 is right-handed.,ABIDEII-OHSU_1_28947,2
+736,736,12.0,Male,132.0,right handed,A 12-year-old male with a FIQ score of 132 and right-handed handedness has the target condition.,ABIDEII-OHSU_1_28948,2
+737,737,10.0,Female,132.0,right handed,The female patient aged 10 at the time of scan has a FIQ score of 132 and is right-handed.,ABIDEII-OHSU_1_28950,2
+738,738,13.0,Male,100.0,right handed,A 13-year-old male right-handed patient has an FIQ score of 100.,ABIDEII-OHSU_1_28951,2
+739,739,10.0,Female,98.0,right handed,The female patient aged 10 with a FIQ score of 98 and right-handed handedness is the target for analysis.,ABIDEII-OHSU_1_28953,2
+740,740,13.0,Female,113.0,right handed,The female patient aged 13 at the time of the scan has an FIQ score of 113 and is right-handed as their dominant hand.,ABIDEII-OHSU_1_28954,2
+741,741,10.0,Male,120.0,right handed,A 10-year-old male patient with a FIQ score of 120 and right-handed handedness is the target for treatment.,ABIDEII-OHSU_1_28955,2
+742,742,9.0,Male,123.0,right handed,"The patient, who is 9 years old and male, has an FIQ score of 123 in their right hand.",ABIDEII-OHSU_1_28956,2
+743,743,11.0,Male,104.0,right handed,The 11-year-old male patient with a right-handed dominant hand and an FIQ score of 104.0 aims to target the specific goal related to their condition.,ABIDEII-OHSU_1_28960,2
+744,744,9.0,Male,124.0,right handed,The nine-year-old male patient with an FIQ score of 124 and right-handed dominance is the target of the analysis.,ABIDEII-OHSU_1_28961,2
+745,745,9.0,Male,120.0,mixed handed,The 9-year-old male patient with an FIQ score of 120 is mixed-handed.,ABIDEII-OHSU_1_28965,2
+746,746,9.0,Male,108.0,right handed,"The 9-year-old male patient diagnosed with autism spectrum disorder (ASD) and a high score of 108 on the Social Responsiveness Scale (SRS), which is used to assess social interaction skills, is right-handed.",ABIDEII-OHSU_1_28969,2
+747,747,8.0,Male,98.0,right handed,The 8-year-old male patient with an FIQ score of 98 is right-handed and the target is not specified.,ABIDEII-OHSU_1_28970,2
+748,748,9.0,Female,96.0,right handed,The 9-year-old female patient with an FIQ score of 96 is right-handed.,ABIDEII-OHSU_1_28971,2
+749,749,9.0,Female,120.0,right handed,The 9-year-old female patient with an IQ of 120 and right-handed dominance has {Target} as their target.,ABIDEII-OHSU_1_28973,2
+750,750,12.0,Male,130.0,right handed,A 12-year-old male patient with a FIQ score of 130 and right-handed handedness was targeted for treatment.,ABIDEII-OHSU_1_28974,2
+751,751,10.0,Male,128.0,right handed,The 10-year-old male patient diagnosed with autism spectrum disorder (ASD) has an IQ of 128 and is right-handed.,ABIDEII-OHSU_1_28975,2
+752,752,11.0,Female,130.0,right handed,The 11-year-old female patient diagnosed with schizophrenia scored 130 on the Folstein Mini-Mental State Examination and is right-handed in her target.,ABIDEII-OHSU_1_28976,2
+753,753,9.0,Female,129.0,right handed,"At age 9, a female right-handed patient scored 129 on the FIQ scale with the target being to improve their score.",ABIDEII-OHSU_1_28977,2
+754,754,8.0,Male,130.0,right handed,The 8-year-old male patient with a right-handed dominant FIQ score of 130.0 aims for the Target.,ABIDEII-OHSU_1_28978,2
+755,755,9.0,Male,119.0,right handed,The 9-year-old male patient with a FIQ score of 119 is right-handed.,ABIDEII-OHSU_1_28979,2
+756,756,8.0,Female,90.0,right handed,The female patient aged 8 years old has a high level of 90 on the FIQ scale and is right-handed as her target in the provided dataset.,ABIDEII-OHSU_1_28980,2
+757,757,11.0,Male,116.0,right handed,The 11-year-old male patient diagnosed with autism spectrum disorder (ASD) has an FIQ score of 116 and is right-handed.,ABIDEII-OHSU_1_28981,2
+758,758,8.0,Male,128.0,right handed,The eight-year-old male patient with a FIQ score of 128 and right-handed dominance aims to achieve the best possible outcome in their condition.,ABIDEII-OHSU_1_28983,2
+759,759,9.0,Male,120.0,right handed,The nine-year-old male patient with an IQ of 120 and right-handed dominance has the Target value.,ABIDEII-OHSU_1_28984,2
+760,760,12.0,Male,125.0,right handed,"A 12-year-old male, diagnosed with a FIQ score of 125 and right-handed, is the target for treatment.",ABIDEII-OHSU_1_28985,2
+761,761,12.0,Male,132.0,right handed,The 12-year-old male patient with an FIQ score of 132 and right-handed handedness is the target of the analysis.,ABIDEII-OHSU_1_28989,2
+762,762,8.0,Male,134.0,right handed,"The 8-year-old right-handed male patient scored 134 on the FIQ test, aiming for an optimal outcome.",ABIDEII-OHSU_1_28990,2
+763,763,12.0,Female,104.0,right handed,The 12-year-old female patient diagnosed with 104 on the FIQ scale has right-handed handedness as her target category.,ABIDEII-OHSU_1_28991,2
+764,764,10.0,Male,116.0,right handed,The 10-year-old male patient with an FIQ score of 116 and right-handed dominance aims for the target.,ABIDEII-OHSU_1_28993,2
+765,765,11.0,Female,122.0,right handed,The 11-year-old female patient has a high score of 122 on the FIQ test and is right-handed with a target in mind.,ABIDEII-OHSU_1_28994,2
+766,766,11.0,Male,112.0,right handed,"The 11-year-old male patient, right-handed, has an FIQ score of 112.",ABIDEII-OHSU_1_28996,2
+767,767,10.0,Male,118.0,right handed,The patient is a 10-year-old male right-handed individual with an FIQ score of 118 and no additional information provided in the Target field.,ABIDEII-OHSU_1_28999,2
+768,768,10.0,Female,114.0,right handed,A 10-year-old right-handed female patient with an FIQ score of 114 has been identified as the target for analysis.,ABIDEII-OHSU_1_29000,2
+769,769,9.0,Female,115.0,right handed,The 9-year-old female patient with a right-handed hand and a FIQ score of 115 has {Target} as their target metric.,ABIDEII-OHSU_1_29001,2
+770,770,14.0,Male,126.0,right handed,"A 14-year-old male with an FIQ score of 126, right-handed individual.",ABIDEII-OHSU_1_29002,2
+771,771,12.0,Male,110.0,right handed,The patient is a 12-year-old right-handed male with an FIQ score of 110 and the target is not specified.,ABIDEII-OHSU_1_29003,2
+772,772,13.0,Female,112.0,right handed,"A 13-year-old female patient with a FIQ score of 112, right-handed, is the target for analysis.",ABIDEII-OHSU_1_29004,2
+773,773,10.0,Female,140.0,right handed,A 10-year-old female patient with an FIQ score of 140 and right-handedness aims to target a specific goal.,ABIDEII-OHSU_1_29005,2
+774,774,13.0,Female,113.0,right handed,The 13-year-old female patient with an FIQ score of 113 is right-handed.,ABIDEII-OHSU_1_30154,2
+775,775,9.0,Male,134.0,right handed,"The 9-year-old male patient, diagnosed with a high FIQ score of 134, is right-handed.",ABIDEII-OHSU_1_30155,2
+776,776,11.0,Female,128.0,right handed,The 11-year-old female patient with a FIQ score of 128 and right-handed dominance targets treatment for their condition.,ABIDEII-OHSU_1_30157,2
+777,777,8.0,Female,104.0,right handed,A 8-year-old female with an FIQ score of 104 and right-handed handedness is the target patient.,ABIDEII-OHSU_1_30158,2
+778,778,13.0,Male,106.0,right handed,The 13-year-old right-handed male patient scored 106 on the FIQ at their scan.,ABIDEII-OHSU_1_30159,2
+779,779,11.0,Male,114.0,right handed,A 11-year-old right-handed male patient diagnosed with autism spectrum disorder (ASD) has a FIQ score of 114.,ABIDEII-OHSU_1_30160,2
+780,780,10.0,Female,134.0,right handed,The 10-year-old female patient with a FIQ score of 134 and right-handedness is the target of the analysis.,ABIDEII-OHSU_1_30161,2
+781,781,11.0,Female,106.0,right handed,"The 11-year-old female patient diagnosed with autism spectrum disorder (ASD) using the Autism Diagnostic Observation Schedule (ADOS) scored a total of 106 points on the Houghton and Aylward Neurological Scale (HAN) for assessing social interaction, communication, and repetitive behaviors in right-handed individuals.",ABIDEII-OHSU_1_30162,2
+782,782,8.0,Female,136.0,right handed,"The 8-year-old female patient diagnosed with high-functioning autism (FQ) scores 136 on the FQ test and is right-handed, aims to improve her Target performance.",ABIDEII-OHSU_1_30163,2
+783,783,10.0,Female,115.0,right handed,The female patient aged 10 years diagnosed with autism spectrum disorder has a High Anxiety (115) score and is right-handed.,ABIDEII-OHSU_1_30164,2
+784,784,12.0,Female,120.0,right handed,A 12-year-old female patient with an FIQ score of 120 and right-handed dominance is the target for further analysis.,ABIDEII-OHSU_1_30165,2
+785,785,10.0,Female,112.0,right handed,A 10-year-old female patient with an FIQ score of 112.0 and right-handed handedness is the target for treatment.,ABIDEII-OHSU_1_30166,2
+786,786,14.0,Female,100.0,right handed,The 14-year-old female patient with a FIQ score of 100 and right-handed dominance is the target for treatment.,ABIDEII-OHSU_1_30167,2
+787,787,21.0,Male,114.0,right handed,"The patient, who is a 21-year-old male right-handed individual, has an FIQ score of 114 and is the target for further analysis.",ABIDEII-OILH_2_28675,1
+788,788,21.0,Male,109.0,right handed,The 21-year-old male patient with an FIQ score of 109.0 is right-handed.,ABIDEII-OILH_2_28676,1
+789,789,24.0,Male,126.0,right handed,A 24-year-old male with a FIQ score of 126 and right-handed handedness is the target individual for analysis.,ABIDEII-OILH_2_28677,1
+790,790,24.0,Female,146.0,mixed handed,The female patient aged 24 with mixed-handedness has an FIQ score of 146.0 and is the target for analysis.,ABIDEII-OILH_2_28678,1
+791,791,20.0,Male,126.0,right handed,The 20-year-old male patient diagnosed with autism spectrum disorder (ASD) has an FIQ score of 126 and is right-handed.,ABIDEII-OILH_2_28679,1
+792,792,23.0,Female,135.0,right handed,The 23-year-old female patient with a FIQ score of 135 is right-handed.,ABIDEII-OILH_2_28680,1
+793,793,18.0,Male,117.0,left handed,The 18-year-old male patient with an FIQ score of 117.0 is left-handed.,ABIDEII-OILH_2_28681,1
+794,794,19.0,Male,112.0,right handed,"The 19-year-old male patient diagnosed with high-level autism spectrum disorder (ASD) and scored 112 on the Autism Behavior Checklist (ABC), shows right-handedness.",ABIDEII-OILH_2_28682,1
+795,795,28.0,Male,120.0,right handed,The 28-year-old male patient with a right-handed dominant hand and an FIQ score of 120.0 aims to achieve the Target.,ABIDEII-OILH_2_28683,1
+796,796,19.0,Male,129.0,right handed,The patient is a 19-year-old male right-handed individual with an FIQ score of 129.0 and a target for treatment.,ABIDEII-OILH_2_28684,1
+797,797,27.0,Female,80.0,left handed,The female patient aged 27 with an FIQ score of 80 and left-handed handedness was the target subject for analysis.,ABIDEII-OILH_2_28685,1
+798,798,21.0,Male,103.0,right handed,A 21-year-old right-handed male patient with an FIQ score of 103 has the Target field as their response.,ABIDEII-OILH_2_28686,1
+799,799,18.0,Male,91.0,mixed handed,"The patient, a 18-year-old male with mixed handedness and an FIQ score of 91, is the target for treatment.",ABIDEII-OILH_2_28687,1
+800,800,24.0,Male,100.0,right handed,A 24-year-old male with an IQ of 100 and right-handedness is the target individual.,ABIDEII-OILH_2_28688,1
+801,801,18.0,Male,112.0,right handed,The 18-year-old male right-handed patient has an FIQ score of 112.0.,ABIDEII-OILH_2_28689,1
+802,802,25.0,Male,112.0,mixed handed,A 25-year-old male with an FIQ score of 112 is classified as mixed-handed.,ABIDEII-OILH_2_28690,1
+803,803,18.0,Male,120.0,left handed,The 18-year-old male patient with an FIQ score of 120 and left-handedness as the target condition is being analyzed.,ABIDEII-OILH_2_28691,1
+804,804,19.0,Male,103.0,right handed,The 19-year-old male patient with a FIQ score of 103 is right-handed.,ABIDEII-OILH_2_28692,1
+805,805,24.0,Female,135.0,left handed,"The female patient, aged 24 and left-handed, has an FIQ score of 135.",ABIDEII-OILH_2_28693,1
+806,806,19.0,Male,135.0,right handed,A 19-year-old male patient with an FIQ score of 135 and right-handed handedness aims to achieve a specific target.,ABIDEII-OILH_2_28694,1
+807,807,18.0,Male,86.0,right handed,The 18-year-old right-handed male patient has a FIQ score of 86.0.,ABIDEII-OILH_2_28695,1
+808,808,19.0,Male,103.0,right handed,The 19-year-old male patient diagnosed with schizophrenia and having a Full Scale IQ of 103 scored in the target range on the Handedness Category test.,ABIDEII-OILH_2_28696,1
+809,809,25.0,Male,114.0,mixed handed,A 25-year-old male with a FIQ score of 114 and mixed-handedness target was analyzed in a single English sentence: A 25-year-old male with a FIQ score of 114 and mixed-handedness target was analyzed.,ABIDEII-OILH_2_28697,1
+810,810,31.0,Male,109.0,right handed,A 31-year-old male right-handed patient with an FIQ score of 109 has been identified as the target individual in this dataset.,ABIDEII-OILH_2_28718,1
+811,811,29.0,Male,106.0,right handed,The male patient aged 29 with a FIQ score of 106 is right-handed.,ABIDEII-OILH_2_28698,2
+812,812,19.0,Female,146.0,right handed,The female patient aged 19 with a FIQ score of 146 is right-handed.,ABIDEII-OILH_2_28699,2
+813,813,20.0,Female,106.0,right handed,A 20-year-old female patient with an FIQ score of 106 and right-handed handness aims to achieve the Target in their treatment plan.,ABIDEII-OILH_2_28700,2
+814,814,19.0,Male,106.0,right handed,"A 19-year-old male with an FIQ score of 106, right-handed, as his target condition.",ABIDEII-OILH_2_28701,2
+815,815,26.0,Male,103.0,right handed,The patient is a 26-year-old male right-handed individual with an FIQ score of 103.0.,ABIDEII-OILH_2_28702,2
+816,816,28.0,Female,97.0,right handed,The 28-year-old female patient with a FIQ score of 97 and right-handed dominant hand is the target for treatment.,ABIDEII-OILH_2_28703,2
+817,817,29.0,Male,112.0,right handed,"The patient, who is 29 years old and right-handed, has an FIQ score of 112 and aims to improve their condition.",ABIDEII-OILH_2_28704,2
+818,818,26.0,Male,132.0,right handed,The patient is a 26-year-old male right-handed individual with a FIQ score of 132.0 and the target is not specified.,ABIDEII-OILH_2_28705,2
+819,819,26.0,Female,100.0,right handed,A 26-year-old female with a FSIQ of 100 and right-handed handedness is the target for analysis.,ABIDEII-OILH_2_28706,2
+820,820,23.0,Male,117.0,right handed,The male patient aged 23 who is right-handed has a FIQ score of 117.0.,ABIDEII-OILH_2_28707,2
+821,821,23.0,Female,117.0,right handed,A 23-year-old female patient diagnosed with schizophrenia scored 117 on the Fisher Health Assessment Questionnaire while being right-handed.,ABIDEII-OILH_2_28708,2
+822,822,25.0,Male,106.0,right handed,A 25-year-old male with an FIQ score of 106 and right-handed handedness aims to achieve the target.,ABIDEII-OILH_2_28709,2
+823,823,23.0,Female,109.0,right handed,A 23-year-old female patient with an FIQ score of 109 and right-handedness has been targeted for analysis.,ABIDEII-OILH_2_28710,2
+824,824,22.0,Female,103.0,right handed,A 22-year-old right-handed female patient with an FIQ score of 103 and no additional data has been provided.,ABIDEII-OILH_2_28711,2
+825,825,20.0,Male,103.0,right handed,A 20-year-old right-handed male patient with an FIQ score of 103 and no additional information provided has been identified as the target for analysis.,ABIDEII-OILH_2_28712,2
+826,826,18.0,Female,106.0,right handed,The 18-year-old female patient with a FIQ score of 106 and right-handed dominance has ({'HANDEDNESS_CATEGORY': 'right handed'}) as their target.,ABIDEII-OILH_2_28713,2
+827,827,22.0,Female,100.0,right handed,A 22-year-old female with a FSIQ of 100 who is right-handed has {Target} as the target input field not specified in the metadata.,ABIDEII-OILH_2_28714,2
+828,828,23.0,Male,94.0,right handed,The 23-year-old male patient with a right-handed dominant hand scored 94 on the FIQ and is targeting treatment.,ABIDEII-OILH_2_28715,2
+829,829,27.0,Female,94.0,right handed,"A 27-year-old female patient, right-handed, has an FIQ score of 94.0 and is the target for analysis.",ABIDEII-OILH_2_28716,2
+830,830,19.0,Male,94.0,right handed,The 19-year-old male patient has a FIQ score of 94 and is right-handed.,ABIDEII-OILH_2_28717,2
+831,831,26.0,Female,117.0,right handed,The 26-year-old female patient with an FIQ score of 117 had right-handed dominance in their assessment data.,ABIDEII-OILH_2_28719,2
+832,832,30.0,Male,114.0,right handed,A 30-year-old male with an FIQ score of 114 and right-handed hand targets.,ABIDEII-OILH_2_28720,2
+833,833,28.0,Male,138.0,mixed handed,"The 28-year-old mixed-handed male patient has an FIQ score of 138.0, and it is the Target value.",ABIDEII-OILH_2_28721,2
+834,834,30.0,Female,106.0,right handed,The patient is a 30-year-old right-handed female with an FIQ score of 106.0.,ABIDEII-OILH_2_28722,2
+835,835,26.0,Male,120.0,right handed,A 26-year-old right-handed male patient with an FIQ score of 120.0 is the target for further analysis.,ABIDEII-OILH_2_28723,2
+836,836,24.0,Female,85.0,right handed,"The 24-year-old female patient diagnosed with schizophrenia, who is right-handed and has an FIQ score of 85, aims to achieve a specific target in their treatment plan.",ABIDEII-OILH_2_28724,2
+837,837,29.0,Male,112.0,right handed,The 29-year-old male patient has a FIQ score of 112.0 and is right-handed.,ABIDEII-OILH_2_28725,2
+838,838,20.0,Male,120.0,mixed handed,A 20-year-old male mixed-handed patient has an FIQ score of 120 and is the target for analysis.,ABIDEII-OILH_2_28726,2
+839,839,21.0,Male,114.0,right handed,The 21-year-old right-handed male patient scored 114 on the FIQ and is targeting a specific goal for their condition.,ABIDEII-OILH_2_28727,2
+840,840,21.0,Male,123.0,right handed,The patient who is 21 years old and right-handed scored 123 on the FIQ test with a target value.,ABIDEII-OILH_2_28728,2
+841,841,28.0,Male,112.0,right handed,A 28-year-old right-handed male patient has an FIQ score of 112.,ABIDEII-OILH_2_28729,2
+842,842,24.0,Female,117.0,right handed,A 24-year-old female with an FIQ score of 117 is right-handed.,ABIDEII-OILH_2_28730,2
+843,843,26.0,Female,129.0,right handed,The female patient aged 26 has an FSIQ of 129 and is right-handed.,ABIDEII-OILH_2_28731,2
+844,844,22.0,Male,114.0,right handed,The 22-year-old right-handed male patient has an FIQ score of 114 and is the target for analysis.,ABIDEII-OILH_2_28732,2
+845,845,19.0,Male,120.0,mixed handed,The 19-year-old male patient with an FIQ score of 120 is mixed-handed.,ABIDEII-OILH_2_28733,2
+846,846,10.9,Male,96.0,right handed,A 10-year-old right-handed male patient diagnosed with schizophrenia has a High Anxiety Neurosis score of 96 and is targeting the HAN score for improvement.,ABIDEII-SDSU_1_28853,1
+847,847,13.4,Male,77.0,right handed,The patient is a 13-year-old male with a FSIQ of 77 and right-handed dominant.,ABIDEII-SDSU_1_28855,1
+848,848,7.6,Male,,right handed,The 7.6-year-old male patient is right-handed and has an unknown level of intellectual disability.,ABIDEII-SDSU_1_28856,1
+849,849,10.5,Male,85.0,mixed handed,"The patient, aged 10.5 and male, has a FIQ score of 85.0 and is mixed-handed.",ABIDEII-SDSU_1_28857,1
+850,850,10.4,Male,90.0,right handed,"The patient is a 10-year-old male who has an FIQ score of 90 and is right-handed, with the target field not mentioned.",ABIDEII-SDSU_1_28859,1
+851,851,10.8,Male,81.0,right handed,The 10-year-old male patient with an FIQ score of 81.0 and right-handed handedness aims for the target.,ABIDEII-SDSU_1_28860,1
+852,852,17.0,Male,112.0,left handed,A 17-year-old male left-handed patient scored 112 on the FIQ at their scan.,ABIDEII-SDSU_1_28861,1
+853,853,17.8,Male,105.0,right handed,"The patient, a 17.8-year-old male right-handed individual, has an FIQ score of 105.0.",ABIDEII-SDSU_1_28864,1
+854,854,14.1,Male,109.0,right handed,The 14-year-old male patient with a FIQ score of 109 and right-handed handedness has {Target} as their target measure.,ABIDEII-SDSU_1_28865,1
+855,855,17.7,Male,99.0,right handed,The 17-year-old male patient with an FIQ score of 99 and right-handed handedness is the target for further analysis.,ABIDEII-SDSU_1_28866,1
+856,856,9.2,Female,94.0,right handed,The 9-year-old female patient with an FIQ score of 94 is right-handed and their target remains unspecified.,ABIDEII-SDSU_1_28869,1
+857,857,18.0,Female,88.0,right handed,The 18-year-old female patient has an FIQ score of 88 and is right-handed.,ABIDEII-SDSU_1_28871,1
+858,858,13.5,Male,105.0,left handed,The 13-year-old left-handed male patient scored 105 on the FIQ test with Target as their goal.,ABIDEII-SDSU_1_28872,1
+859,859,14.0,Female,119.0,left handed,A 14-year-old female left-handed patient scored 119 on the FIQ scale and was targeted for intervention.,ABIDEII-SDSU_1_28873,1
+860,860,17.2,Male,108.0,right handed,The 17-year-old male patient diagnosed with autism spectrum disorder (ASD) and rated at 108 on the Social Responsiveness Scale (SRS) had a right-handed dominance in their hand preference.,ABIDEII-SDSU_1_28874,1
+861,861,9.1,Male,105.0,right handed,The 9-year-old male patient diagnosed with autism spectrum disorder (ASD) and right-handed had a Friedreich's ataxia (FA) diagnosis with an FIQ score of 105.,ABIDEII-SDSU_1_28875,1
+862,862,15.5,Female,66.0,right handed,"The 15-year-old right-handed female patient has a FIQ score of 66, and their target is unspecified.",ABIDEII-SDSU_1_28876,1
+863,863,9.6,Male,95.0,right handed,The patient is a 9.6-year-old male right-handed individual with a FSIQ of 95.0 and no specific information about their target or goals in mind.,ABIDEII-SDSU_1_28879,1
+864,864,11.9,Male,123.0,right handed,A 11-year-old male with an FIQ score of 123 is right-handed.,ABIDEII-SDSU_1_28884,1
+865,865,16.8,Female,105.0,right handed,A 16-year-old female right-handed patient scored 105 on the FIQ at the age of 16.8.,ABIDEII-SDSU_1_28885,1
+866,866,7.4,Male,110.0,right handed,A 7-year-old male with an FIQ score of 110 and right-handed handedness is the target patient for analysis.,ABIDEII-SDSU_1_28887,1
+867,867,15.2,Male,80.0,mixed handed,A 15-year-old male mixed-handed patient with an FIQ score of 80 and no specific target is being analyzed.,ABIDEII-SDSU_1_28890,1
+868,868,11.0,Male,81.0,left handed,The 11-year-old left-handed male patient has an FIQ score of 81.,ABIDEII-SDSU_1_28896,1
+869,869,16.6,Male,91.0,right handed,A 17-year-old right-handed male with a score of 91 on the Forced Choice Questionnaire at the age of 16.6 years old aims to achieve the target.,ABIDEII-SDSU_1_28897,1
+870,870,13.7,Male,102.0,right handed,A 13-year-old right-handed male patient with an FIQ score of 102.0 and Target is analyzed in the provided data.,ABIDEII-SDSU_1_28898,1
+871,871,12.1,Male,108.0,right handed,The 12-year-old male patient with an FIQ score of 108.0 is right-handed.,ABIDEII-SDSU_1_28899,1
+872,872,9.7,Male,130.0,right handed,The 9-year-old male patient scored 130 on the FIQ and is right-handed.,ABIDEII-SDSU_1_28901,1
+873,873,10.5,Female,123.0,right handed,"The patient, who is a 10.5-year-old female right-handed individual, has a FIQ score of 123.0.",ABIDEII-SDSU_1_28903,1
+874,874,8.0,Male,115.0,right handed,The 8-year-old male patient with a FIQ score of 115 and right-handed handiness aims to target their goal.,ABIDEII-SDSU_1_28905,1
+875,875,17.5,Male,105.0,right handed,A 17-year-old right-handed male patient with an FIQ score of 105 scored the Target.,ABIDEII-SDSU_1_28906,1
+876,876,13.4,Female,89.0,right handed,"The 13-year-old female patient, right-handed, has an FIQ score of 89 and is the target for treatment.",ABIDEII-SDSU_1_28907,1
+877,877,14.4,Male,94.0,right handed,The 14-year-old male patient diagnosed with high functioning autism (FIQ score of 94) is right-handed and has the target to improve social interaction skills.,ABIDEII-SDSU_1_28908,1
+878,878,10.9,Male,104.0,right handed,"A 10-year-old male right-handed patient scored 104 on the FIQ, targeting the condition.",ABIDEII-SDSU_1_28909,1
+879,879,9.9,Male,108.0,,A nine-year-old male patient with an FIQ score of 108 and no handedness information was targeted for analysis.,ABIDEII-SDSU_1_28852,2
+880,880,11.0,Male,111.0,right handed,The 11-year-old male patient with an FIQ score of 111 and right-handed dominance aims to target a specific goal.,ABIDEII-SDSU_1_28854,2
+881,881,11.0,Male,79.0,right handed,"The 11-year-old male patient with an FIQ score of 79 and right-handedness has the ""Target"" field available in their metadata but it is not included in the provided input data.",ABIDEII-SDSU_1_28858,2
+882,882,11.2,Male,88.0,right handed,"The 11-year-old male patient, right-handed, has an FIQ score of 88.0 and is the target for analysis.",ABIDEII-SDSU_1_28862,2
+883,883,9.7,Male,104.0,left handed,A 9-year-old male left-handed patient with an FIQ score of 104 and a target has been scanned.,ABIDEII-SDSU_1_28863,2
+884,884,15.3,Male,109.0,right handed,The 15-year-old right-handed male patient has an FIQ score of 109.0 and is the target for analysis.,ABIDEII-SDSU_1_28867,2
+885,885,8.7,Male,125.0,right handed,"The patient, who is 8.7 years old and right-handed, has a FIQ score of 125.0 in the English language.",ABIDEII-SDSU_1_28868,2
+886,886,11.3,Male,105.0,right handed,"The patient, an 11-year-old right-handed male, has a Functional Assessment score of 105 and is the target for therapy.",ABIDEII-SDSU_1_28870,2
+887,887,11.3,Male,101.0,right handed,A 11-year-old male with an FIQ score of 101 and right-handed handedness as the target condition.,ABIDEII-SDSU_1_28877,2
+888,888,17.6,Male,106.0,mixed handed,"The patient, aged 17.6 and male, has a FIQ score of 106.0, indicating mixed handedness.",ABIDEII-SDSU_1_28878,2
+889,889,10.9,Female,106.0,right handed,The patient is a female aged 10.9 years who has a FIQ score of 106 and is right-handed.,ABIDEII-SDSU_1_28880,2
+890,890,8.1,Male,118.0,right handed,"The patient, who is 8.1 years old and right-handed, has an FIQ score of 118.0 in the male category.",ABIDEII-SDSU_1_28881,2
+891,891,12.3,Female,125.0,right handed,The 12-year-old female patient has a FIQ score of 125 and is right-handed.,ABIDEII-SDSU_1_28882,2
+892,892,16.2,Male,100.0,right handed,"The 16-year-old male patient, right-handed, has a FSIQ of 100 and is the target for analysis.",ABIDEII-SDSU_1_28883,2
+893,893,14.0,Male,118.0,right handed,The male patient aged 14 has an FIQ score of 118 and is right-handed.,ABIDEII-SDSU_1_28886,2
+894,894,17.6,Male,108.0,right handed,The 17-year-old male right-handed patient has an FIQ score of 108 and is the target for further assessment.,ABIDEII-SDSU_1_28888,2
+895,895,15.0,Male,79.0,right handed,A 15-year-old male right-handed patient scored 79 on the FIQ at the time of their scan.,ABIDEII-SDSU_1_28889,2
+896,896,14.4,Male,101.0,mixed handed,"The 14-year-old male patient, who is mixed-handed, has an FIQ score of 101.0 as their target.",ABIDEII-SDSU_1_28891,2
+897,897,17.7,Male,94.0,mixed handed,The 17-year-old male patient with a mixed-handed profile and an FIQ score of 94 is the target for treatment.,ABIDEII-SDSU_1_28892,2
+898,898,17.6,Male,99.0,right handed,A 17-year-old male with an IQ of 99 and right-handedness aims to achieve a specific target.,ABIDEII-SDSU_1_28893,2
+899,899,11.2,Male,102.0,right handed,The 11-year-old male patient diagnosed with high functioning autism (FIQ score of 102) is right-handed.,ABIDEII-SDSU_1_28894,2
+900,900,13.0,Male,91.0,right handed,A 13-year-old male right-handed patient diagnosed with FIQ score of 91.0 and a target for the scan.,ABIDEII-SDSU_1_28895,2
+901,901,13.0,Male,101.0,right handed,The 13-year-old right-handed male patient scored 101 on the FIQ assessment to target a specific condition.,ABIDEII-SDSU_1_28900,2
+902,902,17.1,Male,101.0,right handed,A 17-year-old male right-handed patient with an FIQ score of 101 has been identified as the target individual in this analysis.,ABIDEII-SDSU_1_28902,2
+903,903,16.2,Male,96.0,right handed,A 16-year-old male right-handed patient with an FIQ score of 96 and no additional information has {Target} as their target.,ABIDEII-SDSU_1_28904,2
+904,904,12.3368,Male,89.0,right handed,The patient is a 12-year-old male right-handed individual with an FIQ score of 89 who has {Target} as their main target.,ABIDEII-SU_2_30174,1
+905,905,10.1834,Male,99.0,right handed,"The patient is a 10-year-old male with a FIQ score of 99 and right-handed, targeting an unknown parameter.",ABIDEII-SU_2_30178,1
+906,906,10.668,Male,125.0,right handed,A 10-year-old right-handed male patient with an FIQ score of 125 is the target for assessment in this analysis.,ABIDEII-SU_2_30176,1
+907,907,9.9254,Male,93.0,right handed,A nine-year-old male patient with a FIQ score of 93.0 and right-handed handedness as their target condition.,ABIDEII-SU_2_30171,1
+908,908,11.1205,Male,108.0,right handed,The 11-year-old male patient diagnosed with high functioning autism (FRIQ: 108) is a right-handed individual.,ABIDEII-SU_2_30180,1
+909,909,9.8049,Male,110.0,right handed,The 9-year-old right-handed male patient has a FIQ score of 110.0.,ABIDEII-SU_2_30179,1
+910,910,11.3176,Male,106.0,right handed,"The patient, aged 11.32 years and male, has a FIQ score of 106 in their right hand.",ABIDEII-SU_2_30175,1
+911,911,12.3039,Male,89.0,right handed,The 12-year-old male patient with an FIQ score of 89 is right-handed.,ABIDEII-SU_2_30181,1
+912,912,11.3176,Male,133.0,right handed,The 11-year-old right-handed male patient has a FIQ score of 133.,ABIDEII-SU_2_30182,1
+913,913,11.5804,Male,119.0,right handed,The 11-year-old male patient diagnosed with high-functioning autism (FIQ score of 119) has right-handed dominance and is the target for intervention.,ABIDEII-SU_2_30168,1
+914,914,8.4271,Male,136.0,right handed,"The eight-year-old male patient, who is right-handed and has been diagnosed with autism spectrum disorder (ASD), scores 136 on the Social Responsiveness Scale, which is their target score for treatment.",ABIDEII-SU_2_30173,1
+915,915,10.794,Male,128.0,right handed,A 10-year-old male patient with a FIQ score of 128 has the target as right handed.,ABIDEII-SU_2_30183,1
+916,916,11.5859,Male,108.0,right handed,The 11-year-old male patient scored an FIQ of 108 on the HAMA questionnaire and is right-handed.,ABIDEII-SU_2_30170,1
+917,917,10.0739,Male,137.0,right handed,A 10-year-old male patient with a FIQ score of 137 and right-handed handedness as their target condition.,ABIDEII-SU_2_30184,1
+918,918,9.9637,Male,136.0,right handed,"The nine-year-old male patient, right-handed, scored 136 on the FIQ at their scan.",ABIDEII-SU_2_30186,1
+919,919,12.5175,Male,108.0,right handed,A 12-year-old male with an FIQ score of 108 is right-handed and targeting a specific condition or symptom.,ABIDEII-SU_2_30169,1
+920,920,12.9911,Male,101.0,right handed,A 13-year-old male right-handed patient with an FIQ score of 101.0 at their age of 12.99.,ABIDEII-SU_2_30187,1
+921,921,10.8843,Male,115.0,right handed,The patient who is 10.8843 years old and male with an FIQ score of 115.0 is a right-handed individual.,ABIDEII-SU_2_30172,1
+922,922,11.1615,Male,95.0,right handed,A 11-year-old right-handed male patient scored 95 on the FIQ scale in the target category.,ABIDEII-SU_2_30188,1
+923,923,12.5448,Female,99.0,right handed,A 12-year-old female patient with a high FIQ score of 99 is right-handed.,ABIDEII-SU_2_30177,1
+924,924,12.9884,Female,113.0,right handed,The female patient aged 12.99 has a FSIQ of 113 and is right-handed in their target condition.,ABIDEII-SU_2_30185,1
+925,925,10.3477,Female,151.0,right handed,"The female patient aged 10.35 is right-handed and has a FIQ score of 151, aiming to target her symptoms.",ABIDEII-SU_2_30209,2
+926,926,12.0411,Male,129.0,right handed,The 12-year-old right-handed male patient has a FIQ score of 129.,ABIDEII-SU_2_30204,2
+927,927,9.783,Female,117.0,right handed,The 9-year-old female patient diagnosed with high functioning autism (IQ of 117) has right-handed dominant Target in the provided data.,ABIDEII-SU_2_30208,2
+928,928,11.1697,Male,125.0,right handed,"The 11-year-old male patient diagnosed with high-functioning autism (FIQ of 125) is right-handed and has set the target as ({'AGE_AT_SCAN ': 11.1697, 'SEX': 'Male', 'FIQ': 125.0, 'HANDEDNESS_CATEGORY': 'right handed'}).",ABIDEII-SU_2_30191,2
+929,929,9.063,Male,109.0,right handed,A 9-year-old male patient diagnosed with autism spectrum disorder (ASD) and having a total score of 109 on the Frenchay Social Communication Disorder Screener (FSCDS) exhibited right-handedness as his dominant hand.,ABIDEII-SU_2_30205,2
+930,930,11.323,Male,102.0,mixed handed,"The patient is an 11-year-old male with a high-functioning autism spectrum disorder (FIQ score of 102), and their dominant hand is mixed.",ABIDEII-SU_2_30202,2
+931,931,9.1752,Male,109.0,right handed,"The patient is a 9-year-old male with a FIQ score of 109 and right-handed, aiming for the best possible outcome.",ABIDEII-SU_2_30207,2
+932,932,10.7529,Male,95.0,right handed,"The 11-year-old male patient has a FIQ score of 95 and is right-handed, with their target remaining unspecified.",ABIDEII-SU_2_30189,2
+933,933,12.3258,Male,124.0,right handed,The 12-year-old male patient with an FIQ score of 124 is right-handed and targets their treatment.,ABIDEII-SU_2_30201,2
+934,934,9.6379,Male,95.0,right handed,"The 9-year-old male patient, who is right-handed, has an FIQ score of 95 and the target is not specified in the provided data.",ABIDEII-SU_2_30197,2
+935,935,11.8761,Male,130.0,right handed,The 11-year-old male patient with an FIQ score of 130 and right-handed handedness is the target for further analysis.,ABIDEII-SU_2_30199,2
+936,936,10.556,Male,109.0,right handed,"A 10-year-old right-handed male patient scored 109 on the FIQ test, with an average age at scan of 10.56 years, and is aiming for a Target value to be determined.",ABIDEII-SU_2_30200,2
+937,937,10.72,Male,110.0,right handed,The 10-year-old right-handed male patient's FIQ score is 110.,ABIDEII-SU_2_30206,2
+938,938,12.5777,Male,117.0,right handed,A 12-year-old male patient with an FIQ score of 117 is right-handed and the target parameter was not provided in the input data.,ABIDEII-SU_2_30192,2
+939,939,12.6489,Male,120.0,right handed,The patient is a 12-year-old male with a FIQ score of 120 and right-handed who is the target for analysis.,ABIDEII-SU_2_30203,2
+940,940,11.909,Male,112.0,right handed,"The 11-year-old male patient is right-handed and has an FIQ score of 112.0, indicating their disease activity level.",ABIDEII-SU_2_30190,2
+941,941,9.7721,Male,132.0,mixed handed,The 9-year-old male patient diagnosed with Autism Spectrum Disorder (ASD) and mixed-handedness has a Handedness of Administration Index (HAN) score of 132.,ABIDEII-SU_2_30198,2
+942,942,8.5969,Male,110.0,right handed,The patient is an 8-year-old right-handed male with a FIQ score of 110 and no additional information provided for the Target field.,ABIDEII-SU_2_30194,2
+943,943,11.444,Male,95.0,right handed,The 11-year-old male patient with a FIQ score of 95 is right-handed and is the target for analysis.,ABIDEII-SU_2_30196,2
+944,944,13.1916,Male,120.0,right handed,A 13-year-old male with an IQ of 120 and right-handedness has been identified as the target patient for further evaluation.,ABIDEII-SU_2_30195,2
+945,945,11.1999,Male,128.0,mixed handed,The 11-year-old male patient with a mixed-handed status and an FIQ score of 128 had the Target field unspecified at scan.,ABIDEII-SU_2_30193,2
+946,946,15.5,Male,98.0,right handed,A 15-year-old male with an FIQ score of 98 and right-handed handedness has {Target} as their target.,ABIDEII-TCD_1_29096,1
+947,947,13.5,Male,87.0,right handed,The 13-year-old male patient with an FIQ score of 87 is right-handed.,ABIDEII-TCD_1_29097,1
+948,948,10.25,Male,115.0,right handed,The patient is a male right-handed individual aged 10.25 years with an FSIQ of 115.0 and the target is unspecified.,ABIDEII-TCD_1_29098,1
+949,949,10.75,Male,123.0,right handed,The patient is a 10.75-year-old right-handed male with an FIQ score of 123.0.,ABIDEII-TCD_1_29099,1
+950,950,18.75,Male,99.0,right handed,A 18-year-old right-handed male patient with a FIQ score of 99 exhibited the target condition.,ABIDEII-TCD_1_29100,1
+951,951,14.0,Male,103.0,right handed,A 14-year-old male with a FIQ score of 103 and right-handed handedness is the target individual for analysis.,ABIDEII-TCD_1_29101,1
+952,952,13.75,Male,86.0,right handed,The patient is a 13-year-old male right-handed individual with a FSIQ of 86 and no target specified.,ABIDEII-TCD_1_29102,1
+953,953,14.75,Male,108.0,right handed,The 14-year-old male patient with an FIQ score of 108 is right-handed.,ABIDEII-TCD_1_29103,1
+954,954,19.25,Male,119.0,right handed,The 19-year-old male patient with an FIQ score of 119 and right-handed dominance has {Target} as their target in the scan.,ABIDEII-TCD_1_29104,1
+955,955,19.25,Male,119.0,right handed,The 19-year-old male patient diagnosed with autism spectrum disorder (ASD) has a Handedness Category of right-handed and a FIQ score of 119.0.,ABIDEII-TCD_1_29105,1
+956,956,17.75,Male,79.0,right handed,The 17-year-old male right-handed patient has an FIQ score of 79.0.,ABIDEII-TCD_1_29106,1
+957,957,18.5,Male,83.0,right handed,The 18-year-old male patient with an FIQ score of 83 and right-handed dominance has the Target as their primary focus.,ABIDEII-TCD_1_29107,1
+958,958,14.0,Male,117.0,right handed,A 14-year-old male right-handed patient scored 117 on the FIQ at their scan.,ABIDEII-TCD_1_29108,1
+959,959,12.5,Male,114.0,right handed,"The 12-year-old male patient, right-handed, scored 114 on the FIQ and had Target as their objective.",ABIDEII-TCD_1_29109,1
+960,960,12.25,Male,107.0,right handed,A 12-year-old right-handed male with an FIQ score of 107.0.,ABIDEII-TCD_1_29110,1
+961,961,14.0,Male,122.0,right handed,A 14-year-old male with an FIQ score of 122 and right-handed dominance is the target patient for analysis.,ABIDEII-TCD_1_29111,1
+962,962,10.75,Male,139.0,right handed,A 10-year-old right-handed male patient diagnosed with autism spectrum disorder scored 139 on the Functional Assessment of Neuromotor Status (FANS) test.,ABIDEII-TCD_1_29112,1
+963,963,12.75,Male,120.0,right handed,The 12-year-old male patient with an FIQ score of 120 and right-handed dominance has {Target} as their target.,ABIDEII-TCD_1_29113,1
+964,964,18.75,Male,119.0,right handed,The 18-year-old right-handed male patient has a Fugl-Meyer Assessment score of 119 and is the target for treatment.,ABIDEII-TCD_1_29114,1
+965,965,19.5,Male,107.0,right handed,"The patient, who is male and right-handed, aged 19.5, has a FIQ score of 107.0.",ABIDEII-TCD_1_29115,1
+966,966,10.0,Male,115.0,right handed,A 10-year-old male patient with an FIQ score of 115 and right-handed handedness aims for the Target.,ABIDEII-TCD_1_29116,1
+967,967,19.25,Male,117.0,right handed,The 19-year-old male right-handed patient scored 117 on the FIQ at their scan.,ABIDEII-TCD_1_29117,2
+968,968,12.0,Male,128.0,right handed,A 12-year-old male right-handed patient scored 128 on the FIQ at the time of the scan.,ABIDEII-TCD_1_29118,2
+969,969,12.5,Male,130.0,right handed,A 12-year-old right-handed male patient with a FIQ score of 130 has the Target as their output in plain English response.,ABIDEII-TCD_1_29119,2
+970,970,15.25,Male,142.0,right handed,The patient is a 15-year-old male who presents with an FIQ score of 142 and has right-handed dominance.,ABIDEII-TCD_1_29120,2
+971,971,15.5,Male,123.0,right handed,The 15-year-old male patient with a FIQ score of 123 and right-handed dominance as their target has been scanned.,ABIDEII-TCD_1_29121,2
+972,972,14.25,Male,132.0,right handed,"The patient, who is 14.25 years old and male, has a FIQ score of 132.0 and is right-handed.",ABIDEII-TCD_1_29122,2
+973,973,13.5,Male,99.0,right handed,A 13-year-old right-handed male patient with an FIQ score of 99.0.,ABIDEII-TCD_1_29123,2
+974,974,15.0,Male,119.0,right handed,A 15-year-old male with an FIQ score of 119.0 was right-handed.,ABIDEII-TCD_1_29124,2
+975,975,13.0,Male,127.0,right handed,The 13-year-old male right-handed patient has an FIQ score of 127.,ABIDEII-TCD_1_29125,2
+976,976,10.25,Male,129.0,right handed,"The patient is a male aged 10.25, diagnosed with an FIQ score of 129.0 and has right handedness as the target.",ABIDEII-TCD_1_29126,2
+977,977,19.75,Male,127.0,right handed,"The 19-year-old right-handed male patient scored 127 on the Functional Assessment Questionnaire, aiming at an improvement in their Hand Function score.",ABIDEII-TCD_1_29127,2
+978,978,20.0,Male,122.0,right handed,The 20-year-old male patient scored 122 on the FSIQ test and is right-handed in their target category.,ABIDEII-TCD_1_29128,2
+979,979,17.5,Male,110.0,right handed,A 17-year-old male with an IQ of 110 scored 110 on the Target test.,ABIDEII-TCD_1_29129,2
+980,980,18.75,Male,106.0,right handed,The 18-year-old male patient diagnosed with a FIQ score of 106 exhibits right-handedness and is the target for further analysis.,ABIDEII-TCD_1_29130,2
+981,981,16.0,Male,126.0,right handed,The 16-year-old male patient diagnosed with Fregoli syndrome had an FIQ score of 126 and is right-handed.,ABIDEII-TCD_1_29131,2
+982,982,13.5,Male,112.0,right handed,"The 13-year-old male patient, who is right-handed, has an FIQ score of 112.0 and Target as their metric.",ABIDEII-TCD_1_29132,2
+983,983,19.5,Male,111.0,right handed,"The patient is a 19-year-old male with an FIQ score of 111 and right-handed handedness, and their target is not specified.",ABIDEII-TCD_1_29133,2
+984,984,11.0,Male,116.0,right handed,The 11-year-old male patient with a FIQ score of 116 and right-handed dominance has {Target} as their target.,ABIDEII-TCD_1_29134,2
+985,985,18.75,Male,120.0,right handed,The 18-year-old male patient with a FIQ score of 120 and right-handed dominant hand aims to improve their Target.,ABIDEII-TCD_1_29135,2
+986,986,19.0,Male,111.0,right handed,The 19-year-old male patient with a Handedness Category of right-handed and an FIQ score of 111 has the Target as their primary focus.,ABIDEII-TCD_1_29136,2
+987,987,13.5,Male,81.0,right handed,"The 13-year-old right-handed male patient has an FIQ score of 81, and the target is not specified.",ABIDEII-TCD_1_29137,2
+988,988,14.33333333,Female,97.0,right handed,The 14-year-old female patient diagnosed with high functioning autism (FRIQ score of 97) is right-handed and her target is not specified.,ABIDEII-UCD_1_29999,1
+989,989,17.33333333,Male,116.0,right handed,"The patient is a 17-year-old male with a FIQ score of 116 and right-handed dominance, targeting an unspecified condition.",ABIDEII-UCD_1_30000,1
+990,990,13.75,Female,110.0,right handed,The 13-year-old female patient diagnosed with high-functioning autism (FIQ score of 110) is right-handed and has not yet reached the target age for assessment in the study.,ABIDEII-UCD_1_30001,1
+991,991,12.08333333,Male,100.0,right handed,A 12-year-old male patient with an FIQ score of 100 and right-handed dominance has {Target} as their target.,ABIDEII-UCD_1_30002,1
+992,992,12.66666667,Male,98.0,right handed,"The patient, aged 12.67 and male, scored 98 on the FIQ with right-handed dominance.",ABIDEII-UCD_1_30003,1
+993,993,12.08333333,Male,113.0,right handed,The patient is a 12-year-old male right-handed individual with a FIQ score of 113 and Target.,ABIDEII-UCD_1_30005,1
+994,994,17.41666667,Male,120.0,right handed,"A 17-year-old male patient, right-handed, has a FIQ score of 120 and is being targeted for treatment.",ABIDEII-UCD_1_30010,1
+995,995,12.0,Male,111.0,right handed,A 12-year-old male patient with a FIQ score of 111 and right-handed handedness is the target for analysis.,ABIDEII-UCD_1_30011,1
+996,996,13.0,Male,93.0,right handed,A 13-year-old male right-handed patient with an FSIQ of 93 scored high in the Target category.,ABIDEII-UCD_1_30013,1
+997,997,15.58333333,Male,110.0,right handed,The 16-year-old male patient scored 110 on the FIQ test and is right-handed with a target.,ABIDEII-UCD_1_30014,1
+998,998,16.5,Male,94.0,mixed handed,A 16-year-old male with an FIQ score of 94 and mixed-handedness was targeted for assessment.,ABIDEII-UCD_1_30016,1
+999,999,13.83333333,Male,100.0,right handed,The 13-year-old male patient has a FIQ score of 100 and is right-handed.,ABIDEII-UCD_1_30017,1
+1000,1000,17.83333333,Male,83.0,right handed,A 17-year-old male with an FIQ score of 83 and right-handedness aims to achieve the Target in his neurological condition treatment.,ABIDEII-UCD_1_30018,1
+1001,1001,14.66666667,Male,103.0,right handed,The 14-year-old male patient with an FIQ score of 103 is right-handed and their target remains undefined.,ABIDEII-UCD_1_30019,1
+1002,1002,16.5,Female,105.0,right handed,A 16-year-old female with an FIQ score of 105 has the target for right-handed individuals.,ABIDEII-UCD_1_30021,1
+1003,1003,16.83333333,Female,86.0,right handed,A 16-year-old female with a FIQ score of 86 and right-handed handedness as the target demographic.,ABIDEII-UCD_1_30026,1
+1004,1004,14.66666667,Male,130.0,right handed,The patient is a 14-year-old male right-handed individual with an FIQ score of 130 and Target as their condition.,ABIDEII-UCD_1_30027,1
+1005,1005,14.5,Male,92.0,right handed,"The 14-year-old right-handed male patient has an FIQ score of 92, and the target is not specified in the provided data.",ABIDEII-UCD_1_30028,1
+1006,1006,13.16666667,Female,120.0,right handed,"A 13-year-old female patient diagnosed with autism spectrum disorder (ASD) and right-handed, has a High-Functioning IQ (120) and is the target for intervention.",ABIDEII-UCD_1_29997,2
+1007,1007,16.33333333,Female,122.0,right handed,A 16-year-old female with an FIQ score of 122 was right-handed.,ABIDEII-UCD_1_29998,2
+1008,1008,16.33333333,Male,109.0,right handed,A 16-year-old male patient with an FIQ score of 109 and right-handed dominance has been identified as the target individual in the analysis.,ABIDEII-UCD_1_30004,2
+1009,1009,13.91666667,Female,127.0,right handed,A 14-year-old female with an FIQ score of 127 is right-handed and her target is not specified.,ABIDEII-UCD_1_30006,2
+1010,1010,17.16666667,Male,116.0,right handed,A 17-year-old male right-handed patient has an FIQ score of 116.,ABIDEII-UCD_1_30007,2
+1011,1011,13.83333333,Female,92.0,right handed,"The 13-year-old female patient, right-handed, has an FIQ score of 92.0 and is being targeted for treatment.",ABIDEII-UCD_1_30008,2
+1012,1012,17.16666667,Male,108.0,right handed,A 17-year-old male with an FIQ score of 108 is right-handed.,ABIDEII-UCD_1_30009,2
+1013,1013,15.41666667,Male,119.0,right handed,A 15-year-old male with an FIQ score of 119.0 is right-handed.,ABIDEII-UCD_1_30012,2
+1014,1014,15.58333333,Male,128.0,right handed,"The patient, who is 15.58 years old, male and right-handed, has a FIQ score of 128 and aims to reach the Target.",ABIDEII-UCD_1_30015,2
+1015,1015,16.16666667,Male,127.0,right handed,"The patient is a 16-year-old right-handed male with a FIQ score of 127, and their target is not specified.",ABIDEII-UCD_1_30020,2
+1016,1016,12.25,Male,102.0,right handed,A 12-year-old right-handed male patient with an FIQ score of 102.0 has {Target} as their target metric.,ABIDEII-UCD_1_30022,2
+1017,1017,12.25,Male,104.0,right handed,A 12-year-old male patient with an FIQ score of 104 and right-handed handedness as the target condition.,ABIDEII-UCD_1_30023,2
+1018,1018,14.08333333,Male,105.0,right handed,The 14-year-old male patient with an FIQ score of 105 and right-handedness aims to achieve the Target.,ABIDEII-UCD_1_30024,2
+1019,1019,13.58333333,Male,103.0,right handed,The 13-year-old male patient with an FIQ score of 103 is right-handed.,ABIDEII-UCD_1_30029,2
+1020,1020,11.66666667,Male,79.0,right handed,A 12-year-old male patient with an FIQ score of 79 is right-handed and their target is not specified.,ABIDEII-UCLA_1_29728,1
+1021,1021,12.83333333,Male,78.0,right handed,A 12-year-old right-handed male patient with an FIQ score of 78.0 is the target for treatment.,ABIDEII-UCLA_1_29729,1
+1022,1022,14.66666667,Male,95.0,right handed,The 14-year-old male patient diagnosed with high-functioning autism (FIM-90) scored a Handedness Test score of 95 and is right-handed.,ABIDEII-UCLA_1_29730,1
+1023,1023,11.86,Male,112.0,right handed,The 11-year-old male patient diagnosed with high-functioning autism (FIQ score of 112) has the right hand as his dominant hand.,ABIDEII-UCLA_1_29731,1
+1024,1024,11.55,Male,101.0,right handed,The 11-year-old right-handed male patient scored 101 on the FIQ scale.,ABIDEII-UCLA_1_29732,1
+1025,1025,13.79,Male,98.0,right handed,A 13-year-old right-handed male patient with a FIQ score of 98 exhibited symptoms typical of their target condition.,ABIDEII-UCLA_1_29733,1
+1026,1026,13.08,Male,83.0,left handed,The 13-year-old left-handed male patient has an FIQ score of 83 and is the target for treatment.,ABIDEII-UCLA_1_29734,1
+1027,1027,13.815,Male,118.0,right handed,The 13-year-old right-handed male patient has an FIQ score of 118 and Target is not mentioned.,ABIDEII-UCLA_1_29735,1
+1028,1028,15.03,Male,93.0,right handed,"The patient, who is male and right-handed at the age of 15.03, has a FIQ score of 93.0 and is the target of analysis.",ABIDEII-UCLA_1_29736,1
+1029,1029,11.70157426,Male,110.0,right handed,"At the age of 12, the male patient is right-handed and has an FIQ score of 110.",ABIDEII-UCLA_1_29737,1
+1030,1030,12.29021218,Male,106.0,right handed,A 12-year-old male with an FIQ score of 106 is targeting right-handedness.,ABIDEII-UCLA_1_29738,1
+1031,1031,9.66,Male,118.0,right handed,The 9-year-old male patient diagnosed with autism spectrum disorder (ASD) has an IQ of 118 and is right-handed.,ABIDEII-UCLA_1_29739,1
+1032,1032,9.28678987,Male,99.0,right handed,"The 9-year-old male patient, right-handed, has an FIQ score of 99 and Target as the input fields in their metadata.",ABIDEII-UCLA_1_29740,1
+1033,1033,8.31211499,Male,107.0,right handed,The patient is an 8-year-old male right-handed individual with a FSIQ of 107 who has Target as the primary field.,ABIDEII-UCLA_1_29741,1
+1034,1034,9.49486653,Male,112.0,left handed,"The patient is a 9-year-old male left-handed individual diagnosed with a high level of functioning autism spectrum disorder (FISIQ score: 112), and their target remains unspecified.",ABIDEII-UCLA_1_29742,1
+1035,1035,7.750855578,Female,124.0,right handed,The female patient aged 7.75 years old with a FIQ score of 124 is right-handed and the target is not specified.,ABIDEII-UCLA_1_29743,1
+1036,1036,9.083333333,Male,98.0,right handed,The 9-year-old male patient diagnosed with high-functioning autism (F.I.Q. score of 98) is aiming to improve in their right-handed skills.,ABIDEII-UCLA_1_29744,2
+1037,1037,9.270362765,Male,128.0,right handed,The patient is a nine-year-old male with an FIQ score of 128 and right-handed handedness.,ABIDEII-UCLA_1_29745,2
+1038,1038,9.0,Female,141.0,right handed,"The female patient, aged 9, has a high FIQ score of 141 and her target is unspecified.",ABIDEII-UCLA_1_29746,2
+1039,1039,8.583333333,Female,123.0,right handed,"At the age of 8.58 years old, a female patient diagnosed with a FIQ score of 123 had right-handed dominance as her target condition.",ABIDEII-UCLA_1_29747,2
+1040,1040,7.764544832,Female,94.0,right handed,"At 7 years old, female patient with an FIQ score of 94 and right-handed handedness aims for the target in their assessment.",ABIDEII-UCLA_1_29748,2
+1041,1041,7.764544832,Male,100.0,mixed handed,The 7-year-old male patient with an FIQ score of 100 is mixed-handed.,ABIDEII-UCLA_1_29749,2
+1042,1042,8.583333333,Male,108.0,right handed,The patient is an 8-year-old male right-handed individual with a FIQ score of 108 and the target is not specified.,ABIDEII-UCLA_1_29750,2
+1043,1043,8.416666667,Male,124.0,right handed,The patient is an 8-year-old male right-handed individual with a FIQ score of 124.0 and the target information not specified in the input fields.,ABIDEII-UCLA_1_29751,2
+1044,1044,9.015742642,Male,,right handed,The patient is a 9-year-old male right-handed individual with unknown FIQ score.,ABIDEII-UCLA_1_29752,2
+1045,1045,9.25,Male,109.0,right handed,The nine-year-old male patient scored 109 on the FIQ and is right-handed.,ABIDEII-UCLA_1_29753,2
+1046,1046,8.083333333,Female,120.0,right handed,"The 8-year-old female patient with an FIQ score of 120 and right-handedness has ""Target"" as the fourth input field which was not provided in the metadata.",ABIDEII-UCLA_1_29754,2
+1047,1047,8.333333333,Male,,left handed,"The patient, aged approximately 8 years old and male, was left-handed.",ABIDEII-UCLA_1_29755,2
+1048,1048,12.97,Female,121.0,right handed,"The patient is a 12-year-old female diagnosed with high functioning autism (FIQ score of 121), and her right-handed target is not specified in the input data provided.",ABIDEII-UCLA_1_29756,2
+1049,1049,14.09,Male,123.0,right handed,The patient is a 14-year-old male right-handed individual with a FIQ score of 123.0.,ABIDEII-UCLA_1_29757,2
+1050,1050,13.86447639,Male,96.0,right handed,The 13-year-old male patient scored 96 on the FIQ and is right-handed with a target.,ABIDEII-UCLA_1_29758,2
+1051,1051,11.50718686,Male,118.0,right handed,The 11-year-old male patient diagnosed with Autism Spectrum Disorder (ASD) scored 118 on the Frenchay Social Interaction scale and aimed for improvement in their right-handedness.,ABIDEII-UCLA_1_29759,2
+1052,1052,9.11,Male,78.0,right handed,The 9-year-old male patient with a FIQ score of 78.0 is right-handed.,ABIDEII-U_MIA_1_30229,1
+1053,1053,11.1,Male,142.0,mixed handed,"The patient, who is aged 11.1, male and mixed-handed, has a FIQ score of 142.0.",ABIDEII-U_MIA_1_30230,1
+1054,1054,14.2,Female,107.0,right handed,The female patient aged 14.2 years old has a FIQ score of 107.0 and her target is unclear.,ABIDEII-U_MIA_1_30231,2
+1055,1055,12.9,Male,113.0,right handed,The 12-year-old male patient with an FIQ score of 113 is right-handed.,ABIDEII-U_MIA_1_30232,2
+1056,1056,14.3,Male,,right handed,The patient is a 14-year-old male with an unknown FIQ score who is right-handed.,ABIDEII-U_MIA_1_30233,1
+1057,1057,8.8,Male,72.0,right handed,The 8-year-old male patient with a right-handed dominant hand and a FIQ score of 72 exhibited no specific Target in the provided data.,ABIDEII-U_MIA_1_30234,1
+1058,1058,10.2,Female,144.0,right handed,The female patient aged 10.2 with a FIQ score of 144.0 is right-handed.,ABIDEII-U_MIA_1_30235,2
+1059,1059,8.1,Male,125.0,right handed,The 8-year-old male patient diagnosed with high-functioning autism (FIQ score of 125) is right-handed and has not been explicitly specified to have any target condition or treatment goal in the provided metadata.,ABIDEII-U_MIA_1_30236,2
+1060,1060,10.3,Male,99.0,right handed,A 10-year-old male patient diagnosed with high-functioning autism (FIQ score of 99) is right-handed and their target is unspecified.,ABIDEII-U_MIA_1_30237,1
+1061,1061,7.4,Male,79.0,right handed,The 7-year-old male patient with a FIQ score of 79 and right-handed dominance has the Target field to be analyzed.,ABIDEII-U_MIA_1_30238,1
+1062,1062,9.2,Male,107.0,right handed,"The nine-year-old male patient, who is right-handed and scored 107 on the FIQ test, has Target as their primary outcome measure.",ABIDEII-U_MIA_1_30239,1
+1063,1063,9.7,Male,131.0,right handed,"The 9-year-old right-handed male patient scored 131 on the FIQ test, with a target age of 18 years old.",ABIDEII-U_MIA_1_30240,2
+1064,1064,8.0,Male,104.0,right handed,A 8-year-old male patient diagnosed with FIQ score of 104 exhibited right-handedness in the provided data.,ABIDEII-U_MIA_1_30241,2
+1065,1065,9.1,Female,129.0,right handed,"The 9-year-old female patient, right-handed, has an FIQ score of 129 and is the target for analysis.",ABIDEII-U_MIA_1_30242,2
+1066,1066,9.3,Female,99.0,right handed,A 9-year-old female patient with an FIQ score of 99 is right-handed and is the target for treatment.,ABIDEII-U_MIA_1_30243,1
+1067,1067,9.5,Male,98.0,right handed,A 9-year-old right-handed male patient with a FIQ score of 98 was targeted for treatment in the analysis.,ABIDEII-U_MIA_1_30244,2
+1068,1068,12.1,Male,89.0,right handed,A 12-year-old male patient with an FIQ score of 89 and right-handed handedness is the target for further analysis.,ABIDEII-U_MIA_1_30245,1
+1069,1069,7.6,Male,105.0,right handed,A 7-year-old male right-handed patient has an FIQ score of 105.0.,ABIDEII-U_MIA_1_30246,2
+1070,1070,11.5,Male,99.0,right handed,The patient is an 11-year-old male who has been diagnosed with a high IQ of 99 and is right-handed.,ABIDEII-U_MIA_1_30247,1
+1071,1071,7.3,Male,109.0,right handed,A 7-year-old male right-handed patient scored 109 on the FIQ at their scan.,ABIDEII-U_MIA_1_30248,1
+1072,1072,12.4,Male,132.0,right handed,A 12-year-old male with a FIQ score of 132 was right-handed.,ABIDEII-U_MIA_1_30249,2
+1073,1073,10.1,Male,113.0,right handed,"The patient aged 10.1 is male and right-handed, with a FIQ score of 113.0 as their target.",ABIDEII-U_MIA_1_30250,2
+1074,1074,10.0,Male,122.0,right handed,A 10-year-old male right-handed patient with an FIQ score of 122 as their target.,ABIDEII-U_MIA_1_30251,1
+1075,1075,11.3,Male,125.0,right handed,A 11-year-old male right-handed patient with an FIQ score of 125 and Target is included in the analysis.,ABIDEII-U_MIA_1_30252,2
+1076,1076,7.6,Female,107.0,right handed,The 7-year-old female patient diagnosed with Autism Spectrum Disorder (ASD) has an FSIQ of 107 and targets communication skills in right-handed individuals.,ABIDEII-U_MIA_1_30253,2
+1077,1077,8.3,Female,115.0,right handed,The 8-year-old female patient has a High Functioning Autism (HFAS) score of 115 on the FIQ scale and is right-handed.,ABIDEII-U_MIA_1_30254,1
+1078,1078,7.1,Male,90.0,right handed,"The 7-year-old male patient, right-handed, scored 90 on the FIQ test with a target of improvement.",ABIDEII-U_MIA_1_30255,2
+1079,1079,8.3,Male,115.0,right handed,The 8-year-old male right-handed patient has a FIQ score of 115.0.,ABIDEII-U_MIA_1_30256,2
+1080,1080,19.7235,Male,,right handed,The male patient aged 19.72 years right-handed had no information about their IQ score at the time of the scan.,ABIDEII-USM_1_29495,1
+1081,1081,22.1656,Male,134.0,right handed,"A 22-year-old male right-handed patient with an FIQ score of 134 and a target is provided in the data, but no specific information for these fields was included.",ABIDEII-USM_1_29497,1
+1082,1082,17.473,Male,90.0,right handed,The 17-year-old male right-handed patient has a FIQ score of 90.0 and is the target for analysis.,ABIDEII-USM_1_29498,1
+1083,1083,38.8583,Male,120.0,right handed,A 39-year-old right-handed male patient with an FSIQ of 120 scored as the target value.,ABIDEII-USM_1_29500,1
+1084,1084,14.7132,Male,,right handed,The 14-year-old male patient is right-handed and currently has an unknown level of severity on the FIQ scale in relation to their target condition.,ABIDEII-USM_1_29502,1
+1085,1085,14.705,Male,73.0,right handed,The 14-year-old male right-handed patient scored an FIQ of 73.0 during the scan.,ABIDEII-USM_1_29503,1
+1086,1086,16.2639,Male,,right handed,The patient is a 16-year-old male right-handed individual with an unknown FIQ score and a target value.,ABIDEII-USM_1_29506,1
+1087,1087,13.5524,Male,,mixed handed,The patient is a 13-year-old male with mixed-handedness who has not been diagnosed with any condition affecting the FIQ score as of the scan date.,ABIDEII-USM_1_29507,1
+1088,1088,15.7618,Male,114.0,right handed,"The patient, a right-handed male aged 15.76, has a FIQ score of 114.",ABIDEII-USM_1_29508,1
+1089,1089,16.3669,Male,73.0,right handed,The male patient aged 16.37 is right-handed and has an FIQ score of 73.,ABIDEII-USM_1_29509,1
+1090,1090,11.1595,Male,,right handed,The 11-year-old male patient is right-handed and his Full Scale IQ score could not be determined due to missing data.,ABIDEII-USM_1_29510,1
+1091,1091,14.5544,Male,80.0,mixed handed,"The patient is male aged 14.5, has an FIQ score of 80 and is mixed-handed.",ABIDEII-USM_1_29511,1
+1092,1092,9.1198,Male,87.0,right handed,"The nine-year-old male patient diagnosed with high functioning autism (FIQ score of 87) has the right hand as their dominant limb, and their target is not specified in the input data.",ABIDEII-USM_1_29514,1
+1093,1093,15.0938,Male,122.0,right handed,A 15-year-old male with an FIQ score of 122 and right-handedness is the target patient.,ABIDEII-USM_1_29515,1
+1094,1094,23.332,Male,102.0,right handed,A 23-year-old male right-handed patient with a Functional Assessment score of 102 and no target specified at the scan.,ABIDEII-USM_1_29516,1
+1095,1095,20.6078,Female,96.0,,The patient is a female aged 20.6 who has a FIQ score of 96 and no handedness category provided.,ABIDEII-USM_1_29521,1
+1096,1096,27.77,Female,101.0,,"A female patient aged 27.77 with a FIQ score of 101.0 is targeted for analysis, but handedness category is not available in the given metadata.",ABIDEII-USM_1_29522,1
+1097,1097,34.8227,Male,127.0,mixed handed,"The patient, aged 34.82 years old and of male sex, has a FIQ score of 127.0 in the mixed handed category for their Target.",ABIDEII-USM_1_29496,2
+1098,1098,18.5818,Male,118.0,right handed,The patient is a 18-year-old male with an FIQ score of 118 who is right-handed.,ABIDEII-USM_1_29499,2
+1099,1099,27.3812,Male,102.0,right handed,The patient is a 27-year-old male right-handed individual with an FIQ score of 102 who is the target for treatment.,ABIDEII-USM_1_29501,2
+1100,1100,24.2611,Male,128.0,right handed,The patient is a 24-year-old right-handed male with a FIQ score of 128 and the target is unspecified.,ABIDEII-USM_1_29504,2
+1101,1101,13.5496,Male,105.0,right handed,A 13-year-old male patient diagnosed with autism spectrum disorder (ASD) and right-handed has a target score of 105 on the Forced Choice Questionnaire (FCQ).,ABIDEII-USM_1_29505,2
+1102,1102,30.705,Male,116.0,right handed,A 30-year-old male right-handed patient with an FIQ score of 116 is the target for analysis.,ABIDEII-USM_1_29512,2
+1103,1103,18.5517,Male,108.0,right handed,The patient is an 18-year-old male right-handed individual with a Functional Independence Measure (FIM) score of 108 and no target specified.,ABIDEII-USM_1_29513,2
+1104,1104,22.1793,Female,99.0,right handed,A 22-year-old female with a FIQ score of 99 and right-handed handedness is the patient's target.,ABIDEII-USM_1_29517,2
+1105,1105,28.8241,Female,144.0,right handed,A 28-year-old right-handed female patient with an FIQ score of 144.0 is the target for analysis.,ABIDEII-USM_1_29518,2
+1106,1106,22.0561,Female,115.0,,The female patient aged 22 at the time of scan has a FIQ score of 115 and no handedness information provided.,ABIDEII-USM_1_29519,2
+1107,1107,27.4114,Male,143.0,,The 27-year-old male patient with an FIQ score of 143 exhibits the target characteristics.,ABIDEII-USM_1_29520,2
+1108,1108,36.1451,Male,115.0,,The 36-year-old male patient has a FIQ score of 115 and no handedness category information provided.,ABIDEII-USM_1_29523,2
+1109,1109,11.7892,Male,99.0,,"The patient is an 11-year-old male with a high-level of disability (FIQ score of 99), and their target value was not specified.",ABIDEII-USM_1_29524,2
+1110,1110,23.2909,Male,123.0,right handed,The patient is a 23-year-old right-handed male with an FIQ score of 123.,ABIDEII-USM_1_29525,2
+1111,1111,32.6242,Male,86.0,,A 32-year-old male with an FIQ score of 86 is being targeted in the study.,ABIDEII-USM_1_29526,2
+1112,1112,11.4962,Male,,,The patient is an 11-year-old male who has not been assessed for the FIQ score or handedness category at the time of the scan.,ABIDEII-USM_1_29527,2
